@@ -1,0 +1,596 @@
+[
+  {
+    "id": "1776139034529",
+    "userId": "1776139013561",
+    "primaryCategory": "Backend",
+    "scores": {
+      "Frontend": 0,
+      "Backend": 2,
+      "Data Science": 1,
+      "Cybersecurity": 0
+    },
+    "createdAt": "2026-04-14T03:57:14.529Z"
+  },
+  {
+    "id": "1776140924722",
+    "userId": "1776138560370",
+    "primaryCategory": "Frontend",
+    "scores": {
+      "Frontend": 3,
+      "Backend": 0,
+      "Data Science": 0,
+      "Cybersecurity": 0
+    },
+    "createdAt": "2026-04-14T04:28:44.722Z"
+  },
+  {
+    "id": "1776142929562",
+    "userId": "1776138560370",
+    "primaryCategory": "Artist",
+    "scores": [
+      "Artist",
+      "Sports",
+      "Healthcare"
+    ],
+    "createdAt": "2026-04-14T05:02:09.562Z"
+  },
+  {
+    "id": "1776143736904",
+    "userId": "1776138560370",
+    "primaryCategory": "Government Jobs, Entrepreneur",
+    "scores": {
+      "Tech": 20,
+      "Sports": 10,
+      "Artist": 0,
+      "Entrepreneur": 30,
+      "Government Jobs": 40,
+      "Healthcare": 0,
+      "Education": 0
+    },
+    "createdAt": "2026-04-14T05:15:36.904Z"
+  },
+  {
+    "id": "1776172906247",
+    "userId": "1776138560370",
+    "primaryCategory": "Sports, Healthcare",
+    "scores": {
+      "Tech": 10,
+      "Sports": 50,
+      "Artist": 10,
+      "Entrepreneur": 0,
+      "Government Jobs": 0,
+      "Healthcare": 20,
+      "Education": 10
+    },
+    "createdAt": "2026-04-14T13:21:46.247Z"
+  },
+  {
+    "id": "1776185176768",
+    "userId": "1776138560370",
+    "primaryCategory": "Tech, Entrepreneur",
+    "scores": {
+      "Tech": 60,
+      "Sports": 10,
+      "Artist": 0,
+      "Entrepreneur": 20,
+      "Government Jobs": 0,
+      "Healthcare": 0,
+      "Education": 10
+    },
+    "createdAt": "2026-04-14T16:46:16.768Z"
+  },
+  {
+    "id": "1776185247263",
+    "userId": "1776138560370",
+    "primaryCategory": "Sports, Government Jobs",
+    "scores": {
+      "Tech": 10,
+      "Sports": 40,
+      "Artist": 0,
+      "Entrepreneur": 0,
+      "Government Jobs": 20,
+      "Healthcare": 20,
+      "Education": 10
+    },
+    "createdAt": "2026-04-14T16:47:27.263Z"
+  },
+  {
+    "id": "1776186623340",
+    "userId": "1776138560370",
+    "primaryCategory": "Tech, Education",
+    "scores": {
+      "Tech": 60,
+      "Sports": 0,
+      "Artist": 10,
+      "Entrepreneur": 10,
+      "Government Jobs": 0,
+      "Healthcare": 0,
+      "Education": 20
+    },
+    "createdAt": "2026-04-14T17:10:23.340Z"
+  },
+  {
+    "id": "1776186701548",
+    "userId": "1776138560370",
+    "primaryCategory": "Sports, Government Jobs",
+    "scores": {
+      "Tech": 0,
+      "Sports": 50,
+      "Artist": 10,
+      "Entrepreneur": 0,
+      "Government Jobs": 30,
+      "Healthcare": 10,
+      "Education": 0
+    },
+    "createdAt": "2026-04-14T17:11:41.548Z"
+  },
+  {
+    "id": "1776186794853",
+    "userId": "1776138560370",
+    "primaryCategory": "Artist, Government Jobs",
+    "scores": {
+      "Tech": 0,
+      "Sports": 0,
+      "Artist": 60,
+      "Entrepreneur": 0,
+      "Government Jobs": 20,
+      "Healthcare": 10,
+      "Education": 10
+    },
+    "createdAt": "2026-04-14T17:13:14.853Z"
+  },
+  {
+    "id": "1776187713365",
+    "userId": "1776138560370",
+    "primaryCategory": "Tech, Education",
+    "scores": {
+      "Tech": 60,
+      "Sports": 0,
+      "Artist": 10,
+      "Entrepreneur": 10,
+      "Government Jobs": 0,
+      "Healthcare": 0,
+      "Education": 20
+    },
+    "createdAt": "2026-04-14T17:28:33.365Z"
+  },
+  {
+    "id": "1776187968321",
+    "userId": "1776138560370",
+    "primaryCategory": "Entrepreneur, Tech",
+    "scores": {
+      "Tech": 20,
+      "Sports": 0,
+      "Artist": 0,
+      "Entrepreneur": 60,
+      "Government Jobs": 0,
+      "Healthcare": 0,
+      "Education": 20
+    },
+    "createdAt": "2026-04-14T17:32:48.321Z"
+  },
+  {
+    "id": "1776189618991",
+    "userId": "1776138560370",
+    "primaryCategory": "Sports, Tech",
+    "scores": {
+      "Tech": 20,
+      "Sports": 40,
+      "Artist": 10,
+      "Entrepreneur": 0,
+      "Government Jobs": 10,
+      "Healthcare": 10,
+      "Education": 10
+    },
+    "createdAt": "2026-04-14T18:00:18.991Z"
+  },
+  {
+    "id": "1776190007847",
+    "userId": "1776138560370",
+    "primaryCategory": "Tech, Education",
+    "scores": {
+      "Tech": 60,
+      "Sports": 10,
+      "Artist": 0,
+      "Entrepreneur": 10,
+      "Government Jobs": 0,
+      "Healthcare": 0,
+      "Education": 20
+    },
+    "createdAt": "2026-04-14T18:06:47.847Z"
+  },
+  {
+    "id": "1776190227685",
+    "userId": "1776138560370",
+    "primaryCategory": "Sports, Government Jobs",
+    "scores": {
+      "Tech": 0,
+      "Sports": 40,
+      "Artist": 0,
+      "Entrepreneur": 0,
+      "Government Jobs": 30,
+      "Healthcare": 20,
+      "Education": 10
+    },
+    "createdAt": "2026-04-14T18:10:27.685Z"
+  },
+  {
+    "id": "1776229054943",
+    "userId": "1776138560370",
+    "primaryCategory": "Tech, Education",
+    "scores": {
+      "Tech": 50,
+      "Sports": 10,
+      "Artist": 0,
+      "Entrepreneur": 10,
+      "Government Jobs": 0,
+      "Healthcare": 0,
+      "Education": 30
+    },
+    "createdAt": "2026-04-15T04:57:34.943Z"
+  },
+  {
+    "id": "1776229139711",
+    "userId": "1776138560370",
+    "primaryCategory": "Artist, Government Jobs",
+    "scores": {
+      "Tech": 0,
+      "Sports": 0,
+      "Artist": 60,
+      "Entrepreneur": 0,
+      "Government Jobs": 20,
+      "Healthcare": 10,
+      "Education": 10
+    },
+    "createdAt": "2026-04-15T04:58:59.711Z"
+  },
+  {
+    "id": "1776232064015",
+    "userId": "1776138560370",
+    "primaryCategory": "Artist, Education",
+    "scores": {
+      "Tech": 10,
+      "Sports": 10,
+      "Artist": 40,
+      "Entrepreneur": 0,
+      "Government Jobs": 10,
+      "Healthcare": 10,
+      "Education": 20
+    },
+    "createdAt": "2026-04-15T05:47:44.015Z"
+  },
+  {
+    "id": "1780476933654",
+    "userId": "1780473531638",
+    "primaryCategory": "Sports, Artist",
+    "scores": {
+      "Tech": 0,
+      "Sports": 40,
+      "Artist": 20,
+      "Entrepreneur": 10,
+      "Government Jobs": 10,
+      "Healthcare": 0,
+      "Education": 20
+    },
+    "createdAt": "2026-06-03T08:55:33.654Z"
+  },
+  {
+    "id": "1780589690759",
+    "userId": "1780473125709",
+    "primaryCategory": "Technology & IT",
+    "scores": {
+      "Technology & IT": 1,
+      "Medical & Healthcare": 1,
+      "Government Services": 0,
+      "Business & Entrepreneurship": 0,
+      "Education & Teaching": 1,
+      "Arts & Creativity": 0,
+      "Sports & Fitness": 1,
+      "Law & Legal Services": 0,
+      "Finance & Commerce": 0,
+      "Agriculture & Rural Development": 1,
+      "Beauty & Wellness": 0,
+      "Homemaker & Home Business": 0,
+      "Media & Communication": 1,
+      "Defence & Security": 0,
+      "Social Service & NGO": 1,
+      "Hospitality & Tourism": 1,
+      "Research & Science": 0,
+      "Skilled Trades & Vocational Careers": 0,
+      "Technology": 1,
+      "Medical": 1,
+      "Education": 1,
+      "Sports": 1,
+      "Business": 0,
+      "Entrepreneurship": 0,
+      "Government Jobs": 0,
+      "Finance": 0,
+      "Law": 0,
+      "Arts": 0,
+      "Media": 1,
+      "Agriculture": 1,
+      "Research": 0,
+      "Defence": 0,
+      "NGO & Social Work": 1,
+      "Skilled Trades": 0
+    },
+    "topRecommendations": [
+      "Technology & IT",
+      "Medical & Healthcare",
+      "Education & Teaching"
+    ],
+    "confidenceScores": {
+      "Technology & IT": 43,
+      "Medical & Healthcare": 43,
+      "Education & Teaching": 43
+    },
+    "quizAnswers": {
+      "0": [
+        "Yes, I enjoy this/I agree. (qq1)"
+      ],
+      "1": [
+        "Yes, I enjoy this/I agree. (qq2)"
+      ],
+      "2": [
+        "Yes, I enjoy this/I agree. (qq3)"
+      ],
+      "3": [
+        "Yes, I enjoy this/I agree. (qq4)"
+      ],
+      "4": [
+        "No, I do not agree. (qq5)"
+      ],
+      "5": [
+        "No, I do not agree. (qq6)"
+      ],
+      "6": [
+        "No, I do not agree. (qq7)"
+      ],
+      "7": [
+        "No, I do not agree. (qq8)"
+      ],
+      "8": [
+        "No, I do not agree. (qq9)"
+      ],
+      "9": [
+        "No, I do not agree. (qq10)"
+      ],
+      "10": [
+        "Yes, I enjoy this/I agree. (qq11)"
+      ],
+      "11": [
+        "No, I do not agree. (qq12)"
+      ],
+      "12": [
+        "No, I do not agree. (qq13)"
+      ],
+      "13": [
+        "No, I do not agree. (qq14)"
+      ],
+      "14": [
+        "Yes, I enjoy this/I agree. (qq15)"
+      ],
+      "15": [
+        "No, I do not agree. (qq16)"
+      ],
+      "16": [
+        "Yes, I enjoy this/I agree. (qq17)"
+      ],
+      "17": [
+        "No, I do not agree. (qq18)"
+      ]
+    },
+    "createdAt": "2026-06-04T16:14:50.759Z"
+  },
+  {
+    "id": "1780745767481",
+    "userId": "1780473125709",
+    "primaryCategory": "Sports & Fitness",
+    "scores": {
+      "Technology & IT": 0,
+      "Medical & Healthcare": 2,
+      "Government Services": 4,
+      "Business & Entrepreneurship": 3,
+      "Education & Teaching": 1,
+      "Arts & Creativity": 2,
+      "Sports & Fitness": 7,
+      "Law & Legal Services": 0,
+      "Finance & Commerce": 1,
+      "Agriculture & Rural Development": 1,
+      "Beauty & Wellness": 1,
+      "Homemaker & Home Business": 3,
+      "Media & Communication": 2,
+      "Defence & Security": 4,
+      "Social Service & NGO": 0,
+      "Hospitality & Tourism": 0,
+      "Research & Science": 0,
+      "Skilled Trades & Vocational Careers": 1,
+      "Technology": 0,
+      "Medical": 2,
+      "Education": 1,
+      "Sports": 7,
+      "Business": 3,
+      "Entrepreneurship": 3,
+      "Government Jobs": 4,
+      "Finance": 1,
+      "Law": 0,
+      "Arts": 2,
+      "Media": 2,
+      "Agriculture": 1,
+      "Research": 0,
+      "Defence": 4,
+      "NGO & Social Work": 0,
+      "Skilled Trades": 1
+    },
+    "topRecommendations": [
+      "Sports & Fitness",
+      "Sports",
+      "Government Services"
+    ],
+    "confidenceScores": {
+      "Sports & Fitness": 66,
+      "Sports": 66,
+      "Government Services": 55
+    },
+    "quizAnswers": {
+      "0": [
+        "Playing sports or exercising"
+      ],
+      "1": [
+        "Physical Education"
+      ],
+      "2": [
+        "Sports ground or gym"
+      ],
+      "3": [
+        "Play sports"
+      ],
+      "4": [
+        "Starting a successful company",
+        "Becoming a government officer"
+      ],
+      "5": [
+        "Creativity"
+      ],
+      "6": [
+        "Sports equipment"
+      ],
+      "7": [
+        "Creating innovative designs"
+      ],
+      "8": [
+        "National development"
+      ],
+      "9": [
+        "IAS/IPS Officer"
+      ],
+      "10": [
+        "Practical experience"
+      ],
+      "11": [
+        "Startup podcasts"
+      ],
+      "12": [
+        "Team Leader"
+      ],
+      "13": [
+        "Become a national athlete"
+      ],
+      "14": [
+        "I love sharing knowledge.",
+        "I enjoy competition and fitness."
+      ]
+    },
+    "createdAt": "2026-06-06T11:36:07.481Z"
+  },
+  {
+    "id": "1781007665076",
+    "userId": "1780473125709",
+    "primaryCategory": "Medical & Healthcare",
+    "scores": {
+      "Technology & IT": 0,
+      "Medical & Healthcare": 7,
+      "Government Services": 1,
+      "Business & Entrepreneurship": 4,
+      "Education & Teaching": 7,
+      "Arts & Creativity": 6,
+      "Sports & Fitness": 7,
+      "Law & Legal Services": 0,
+      "Finance & Commerce": 1,
+      "Agriculture & Rural Development": 1,
+      "Beauty & Wellness": 3,
+      "Homemaker & Home Business": 4,
+      "Media & Communication": 7,
+      "Defence & Security": 2,
+      "Social Service & NGO": 1,
+      "Hospitality & Tourism": 0,
+      "Research & Science": 0,
+      "Skilled Trades & Vocational Careers": 1,
+      "Technology": 0,
+      "Medical": 7,
+      "Education": 7,
+      "Sports": 7,
+      "Business": 4,
+      "Entrepreneurship": 4,
+      "Government Jobs": 1,
+      "Finance": 1,
+      "Law": 0,
+      "Arts": 6,
+      "Media": 7,
+      "Agriculture": 1,
+      "Research": 0,
+      "Defence": 2,
+      "NGO & Social Work": 1,
+      "Skilled Trades": 1
+    },
+    "topRecommendations": [
+      "Medical & Healthcare",
+      "Education & Teaching",
+      "Sports & Fitness"
+    ],
+    "confidenceScores": {
+      "Medical & Healthcare": 66,
+      "Education & Teaching": 66,
+      "Sports & Fitness": 66
+    },
+    "quizAnswers": {
+      "0": [
+        "Teaching others"
+      ],
+      "1": [
+        "Arts & Literature"
+      ],
+      "2": [
+        "Sports ground or gym",
+        "School or college"
+      ],
+      "3": [
+        "Play sports",
+        "Create art, music, or content"
+      ],
+      "4": [
+        "Starting a successful company",
+        "Inspiring students"
+      ],
+      "5": [
+        "Creativity",
+        "Physical fitness"
+      ],
+      "6": [
+        "Sports equipment",
+        "Camera and editing software"
+      ],
+      "7": [
+        "Creating innovative designs",
+        "Training for competitions"
+      ],
+      "8": [
+        "Employment generation",
+        "Education improvement"
+      ],
+      "9": [
+        "Teacher",
+        "Athlete"
+      ],
+      "10": [
+        "Creativity and innovation",
+        "Practical experience"
+      ],
+      "11": [
+        "Startup podcasts",
+        "Fitness videos"
+      ],
+      "12": [
+        "Team Leader"
+      ],
+      "13": [
+        "Become a professor"
+      ],
+      "14": [
+        "I love sharing knowledge.",
+        "I enjoy helping people physically and mentally."
+      ]
+    },
+    "createdAt": "2026-06-09T12:21:05.076Z"
+  }
+]

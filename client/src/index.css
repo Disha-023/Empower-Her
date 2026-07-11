@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Light Mode Defaults */
+html {
+  background-color: #f8fafc;
+  color: #1f2937;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark Mode Defaults */
+html.dark {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+@theme {
+  --color-primary-500: #7c3aed;
+  --color-primary-600: #6d28d9;
+  --color-secondary-500: #ec4899;
+  --color-secondary-600: #db2777;
+}
+
+.gradient-btn {
+  @apply bg-gradient-to-r from-violet-600 to-pink-500 hover:from-violet-700 hover:to-pink-600 text-white font-medium rounded-xl px-6 py-2.5 transition-all shadow-md hover:shadow-lg active:scale-95 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-pink-500;
+}
+
+.card-ui {
+  @apply bg-white dark:bg-gray-800 rounded-2xl shadow-md dark:shadow-xl border border-gray-100/80 dark:border-gray-700 overflow-hidden transition-all duration-300;
+}
+
+.input-field {
+  @apply w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-gray-700 focus:outline-none focus:ring-2 focus:ring-violet-500 focus:border-transparent transition-all bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-white;
+}
+
+/* Smooth transitions for accessibility */
+* {
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}

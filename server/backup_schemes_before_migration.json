@@ -1,0 +1,2415 @@
+[
+  {
+    "_id": "6a354186395bda208c5c0b95",
+    "id": "s1",
+    "title": {
+      "en": "WISE-SCOPE Fellowship",
+      "hi": "WISE-SCOPE फेलोशिप",
+      "mr": "WISE-SCOPE फेलोशिप",
+      "kn": "WISE-SCOPE ಫೆಲೋಶಿಪ್"
+    },
+    "category": "Education",
+    "description": {
+      "en": "The Women In Science and Engineering-Societal Challenges with Opportunities (WISE-SCOPE) Fellowship program provides opportunities to women scientists and technologists who have completed Ph.D. and want to utilize their science & technology knowledge for the benefit of society.",
+      "hi": "WISE-SCOPE फेलोशिप महिला वैज्ञानिकों और प्रौद्योगिकीविदों को अवसर प्रदान करती है जिन्होंने पीएच.डी. पूरी कर ली है और समाज के लाभ के लिए अपने विज्ञान और प्रौद्योगिकी ज्ञान का उपयोग करना चाहती हैं।",
+      "mr": "WISE-SCOPE फेलोशिप महिला शास्त्रज्ञ आणि तंत्रज्ञांना संधी प्रदान करते ज्यांनी पीएच.डी. पूर्ण केली आहे आणि समाजाच्या फायद्यासाठी त्यांच्या विज्ञान आणि तंत्रज्ञान ज्ञानाचा वापर करू इच्छितात.",
+      "kn": "WISE-SCOPE ಫೆಲೋಶಿಪ್ ಪಿಎಚ್.ಡಿ ಪೂರ್ಣಗೊಳಿಸಿದ ಮತ್ತು ಸಮಾಜದ ಪ್ರಯೋಜನಕ್ಕಾಗಿ ತಮ್ಮ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಜ್ಞಾನವನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಬಯಸುವ ಮಹಿಳಾ ವಿಜ್ಞಾನಿಗಳು ಮತ್ತು ತಂತ್ರಜ್ಞರಿಗೆ ಅವಕಾಶಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    },
+    "benefits": {
+      "en": "Monthly Fellowship of ₹55,000/- per month along with HRA as per norms. Selected fellows receive a research grant of ₹2.00 Lakhs per year, field demonstration support of ₹1,00,000/-, and equipment assistance up to a maximum of ₹2,00,000/-.",
+      "hi": "नियमों के अनुसार एचआरए के साथ ₹55,000/- प्रति माह फेलोशिप। प्रति वर्ष ₹2.00 लाख का अनुसंधान अनुदान, ₹1,00,000/- की फील्ड प्रदर्शन सहायता और ₹2,00,000/- तक की उपकरण सहायता।",
+      "mr": "नियमांनुसार एचआरए सह ₹५५,०००/- प्रति महिना फेलोशिप. दरवर्षी ₹२.०० लाख संशोधन अनुदान, ₹१,००,०००/- फील्ड प्रात्यक्षिक सहाय्य आणि ₹२,००,०००/- पर्यंत उपकरण सहाय्य.",
+      "kn": "ನಿಯಮಗಳ ಪ್ರಕಾರ ಎಚ್‌ಆರ್‌ಎ ಜೊತೆಗೆ ತಿಂಗಳಿಗೆ ₹55,000/- ಫೆಲೋಶಿಪ್. ವರ್ಷಕ್ಕೆ ₹2.00 ಲಕ್ಷ ಸಂಶೋಧನಾ ಅನುದಾನ, ₹1,00,000/- ಫೀಲ್ಡ್ ಪ್ರಾತ್ಯಕ್ಷಿಕೆ ನೆರವು ಮತ್ತು ₹2,00,000/- ವರೆಗೆ ಉಪಕರಣ ಸಹಾಯ."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 60,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "CV of Mentor",
+      "Conflict of Interest Policy Document",
+      "Endorsement from the Head of the Institute",
+      "Complete Project Proposal",
+      "Highest Degree Certificate",
+      "Consent Letter from Mentor",
+      "Undertaking",
+      "HRA declaration certificate",
+      "Date of Birth Proof"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official ePMS portal at https://onlinedst.gov.in.",
+        "Step 2: Click on 'New PI Registration' and fill in registration details. Register designation as 'WISE-SCOPE Fellow'.",
+        "Step 3: Log in using your credentials.",
+        "Step 4: Go to 'Submit proposals' and enter General information, Mentor details, and Financial Details.",
+        "Step 5: Fill in PFMS details and upload required documents.",
+        "Step 6: Preview all details and click on the 'Submit' button to complete the process."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक ePMS पोर्टल https://onlinedst.gov.in पर जाएं।",
+        "चरण 2: 'New PI Registration' पर क्लिक करें और पंजीकरण विवरण भरें। 'WISE-SCOPE Fellow' के रूप में पंजीकरण करें।",
+        "चरण 3: अपने क्रेडेंशियल्स का उपयोग करके लॉग इन करें।",
+        "चरण 4: 'Submit proposals' पर जाएं और सामान्य जानकारी, मेंटर विवरण और वित्तीय विवरण दर्ज करें।",
+        "चरण 5: पीएफएमएस विवरण भरें और आवश्यक दस्तावेज अपलोड करें।",
+        "चरण 6: सभी विवरणों का पूर्वावलोकन करें और प्रक्रिया को पूरा करने के लिए 'Submit' बटन पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: https://onlinedst.gov.in येथे अधिकृत ePMS पोर्टलला भेट द्या.",
+        "पायरी 2: 'New PI Registration' वर क्लिक करा आणि नोंदणी तपशील भरा. 'WISE-SCOPE Fellow' म्हणून नोंदणी करा.",
+        "पायरी 3: तुमच्या क्रेडेंशियल्सचा वापर करून लॉग इन करा.",
+        "पायरी 4: 'Submit proposals' वर जा आणि सामान्य माहिती, मेंटर तपशील आणि वित्तीय तपशील प्रविष्ट करा.",
+        "पायरी 5: पीएफएमएस तपशील भरा आणि आवश्यक कागदपत्रे अपलोड करा.",
+        "पायरी 6: सर्व तपशीलांचे पुनरावलोकन करा आणि प्रक्रिया पूर्ण करण्यासाठी 'Submit' बटणावर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ePMS ಪೋರ್ಟಲ್ https://onlinedst.gov.in ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'New PI Registration' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನೋಂದಣಿ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ. 'WISE-SCOPE Fellow' ಆಗಿ ನೋಂದಾಯಿಸಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಲಾಗಿನ್ ವಿವರಗಳನ್ನು ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: 'Submit proposals' ಗೆ ಹೋಗಿ ಮತ್ತು ಸಾಮಾನ್ಯ ಮಾಹಿತಿ, ಮೆಂಟರ್ ವಿವರಗಳು ಮತ್ತು ಹಣಕಾಸಿನ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ.",
+        "ಹಂತ 5: ಪಿಎಫ್‌ಎಂಎಸ್ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ಅಗತ್ಯ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
+        "ಹಂತ 6: ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಿ ಮತ್ತು ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು 'Submit' ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/wise-scope-fellowship",
+    "ageGroup": "27-60",
+    "state": "all",
+    "amount": "₹55,000/- per month + grants",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "Research",
+      "Women Scientists"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/wise-scope-fellowship",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official ePMS portal at https://onlinedst.gov.in.",
+        "Step 2: Click on 'New PI Registration' and fill in registration details. Register designation as 'WISE-SCOPE Fellow'.",
+        "Step 3: Log in using your credentials.",
+        "Step 4: Go to 'Submit proposals' and enter General information, Mentor details, and Financial Details.",
+        "Step 5: Fill in PFMS details and upload required documents.",
+        "Step 6: Preview all details and click on the 'Submit' button to complete the process."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक ePMS पोर्टल https://onlinedst.gov.in पर जाएं।",
+        "चरण 2: 'New PI Registration' पर क्लिक करें और पंजीकरण विवरण भरें। 'WISE-SCOPE Fellow' के रूप में पंजीकरण करें।",
+        "चरण 3: अपने क्रेडेंशियल्स का उपयोग करके लॉग इन करें।",
+        "चरण 4: 'Submit proposals' पर जाएं और सामान्य जानकारी, मेंटर विवरण और वित्तीय विवरण दर्ज करें।",
+        "चरण 5: पीएफएमएस विवरण भरें और आवश्यक दस्तावेज अपलोड करें।",
+        "चरण 6: सभी विवरणों का पूर्वावलोकन करें और प्रक्रिया को पूरा करने के लिए 'Submit' बटन पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: https://onlinedst.gov.in येथे अधिकृत ePMS पोर्टलला भेट द्या.",
+        "पायरी 2: 'New PI Registration' वर क्लिक करा आणि नोंदणी तपशील भरा. 'WISE-SCOPE Fellow' म्हणून नोंदणी करा.",
+        "पायरी 3: तुमच्या क्रेडेंशियल्सचा वापर करून लॉग इन करा.",
+        "पायरी 4: 'Submit proposals' वर जा आणि सामान्य माहिती, मेंटर तपशील आणि वित्तीय तपशील प्रविष्ट करा.",
+        "पायरी 5: पीएफएमएस तपशील भरा आणि आवश्यक कागदपत्रे अपलोड करा.",
+        "पायरी 6: सर्व तपशीलांचे पुनरावलोकन करा आणि प्रक्रिया पूर्ण करण्यासाठी 'Submit' बटणावर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ePMS ಪೋರ್ಟಲ್ https://onlinedst.gov.in ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'New PI Registration' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನೋಂದಣಿ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ. 'WISE-SCOPE Fellow' ಆಗಿ ನೋಂದಾಯಿಸಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಲಾಗಿನ್ ವಿವರಗಳನ್ನು ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: 'Submit proposals' ಗೆ ಹೋಗಿ ಮತ್ತು ಸಾಮಾನ್ಯ ಮಾಹಿತಿ, ಮೆಂಟರ್ ವಿವರಗಳು ಮತ್ತು ಹಣಕಾಸಿನ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ.",
+        "ಹಂತ 5: ಪಿಎಫ್‌ಎಂಎಸ್ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ಅಗತ್ಯ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
+        "ಹಂತ 6: ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಿ ಮತ್ತು ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು 'Submit' ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹55,000/- per month + grants",
+      "hi": "₹55,000/- प्रति माह + अनुदान",
+      "mr": "₹५५,०००/- प्रति महिना + अनुदान",
+      "kn": "₹55,000/- ಪ್ರತಿ ತಿಂಗಳು + ಅನುದಾನ"
+    },
+    "categoryType": [
+      "Student",
+      "Research",
+      "Women Scientists"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Research",
+        "hi": "अनुसंधान",
+        "mr": "संशोधन",
+        "kn": "ಸಂಶೋಧನೆ"
+      },
+      {
+        "en": "Women Scientists",
+        "hi": "महिला वैज्ञानिक",
+        "mr": "महिला शास्त्रज्ञ",
+        "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿಗಳು"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b96",
+    "id": "s2",
+    "title": {
+      "en": "Women Scientist Scheme-A (WOS-A)",
+      "hi": "महिला वैज्ञानिक योजना-ए (WOS-A)",
+      "mr": "महिला शास्त्रज्ञ योजना-ए (WOS-A)",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಎ (WOS-A)"
+    },
+    "category": "Education",
+    "description": {
+      "en": "A Research Grant by MoST for female candidates to pursue research in frontier areas of science and engineering, preferably those having a break in career (minimum two years) and not having regular employment, to explore possibility of re-entry into the profession.",
+      "hi": "MoST द्वारा महिला उम्मीदवारों के लिए विज्ञान और इंजीनियरिंग के क्षेत्र में अनुसंधान करने के लिए एक शोध अनुदान, विशेष रूप से उन महिलाओं के लिए जिनके करियर में ब्रेक (न्यूनतम दो वर्ष) रहा है और उनके पास नियमित रोजगार नहीं है।",
+      "mr": "MoST कडून महिला उमेदवारांना विज्ञान आणि अभियांत्रिकी क्षेत्रात संशोधन करण्यासाठी संशोधन अनुदान, विशेषत: ज्यांच्या करिअरमध्ये ब्रेक (किमान दोन वर्षे) आहे आणि नियमित रोजगार नाही.",
+      "kn": "ವಿಜ್ಞಾನ ಮತ್ತು ಎಂಜಿನಿಯರಿಂಗ್ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಸಂಶೋಧನೆ ನಡೆಸಲು ಮಹಿಳಾ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ MoST ನಿಂದ ಸಂಶೋಧನಾ ಅನುದಾನ, ಮುಖ್ಯವಾಗಿ ವೃತ್ತಿಜೀವನದಲ್ಲಿ ವಿರಾಮ ಹೊಂದಿರುವ (ಕನಿಷ್ಠ ಎರಡು ವರ್ಷಗಳು) ಮತ್ತು ನಿಯಮಿತ ಉದ್ಯೋಗವಿಲ್ಲದ ಮಹಿಳೆಯರಿಗಾಗಿ."
+    },
+    "benefits": {
+      "en": "Provides monthly fellowship for 3 years: ₹55,000/- pm for Ph.D. or equivalent, ₹40,000/- pm for M.Phil./M.Tech, and ₹31,000/- pm for M.Sc. or equivalent.",
+      "hi": "3 वर्षों के लिए मासिक फेलोशिप प्रदान करता है: पीएच.डी. के लिए ₹55,000/- प्रति माह, एम.फिल/एम.टेक के लिए ₹40,000/- प्रति माह, और एम.एससी के लिए ₹31,000/- प्रति माह।",
+      "mr": "३ वर्षांसाठी मासिक फेलोशिप प्रदान करते: पीएच.डी. साठी ₹५५,०००/- प्रति महिना, एम.फिल/एम.टेकसाठी ₹४०,०००/- प्रति महिना, आणि एम.एससीसाठी ₹३१,०००/- प्रति महिना.",
+      "kn": "3 ವರ್ಷಗಳವರೆಗೆ ಮಾಸಿಕ ಫೆಲೋಶಿಪ್ ನೀಡುತ್ತದೆ: ಪಿಎಚ್.ಡಿ ಗೆ ತಿಂಗಳಿಗೆ ₹55,000/-, ಎಂ.ಫಿಲ್/ಎಂ.ಟೆಕ್ ಗೆ ತಿಂಗಳಿಗೆ ₹40,000/-, ಮತ್ತು ಎಂ.ಎಸ್ಸಿ ಗೆ ತಿಂಗಳಿಗೆ ₹31,000/-."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 57,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Project Proposal Document",
+      "Biodata of PI (Signed)",
+      "Mentor's Biodata (Signed)",
+      "Caste Certificate (If SC/ST/OBC/PH)",
+      "DOB certificate (10th class)",
+      "Photograph of PI",
+      "Signature of PI",
+      "Highest Degree Certificate",
+      "House Rent Allowance (HRA) declaration"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register at the online portal https://online-wosa.gov.in/wosa/.",
+        "Step 2: Log in and fill the Project Proposal under WOS-A.",
+        "Step 3: Upload all required documents in the specified formats.",
+        "Step 4: Preview full proposal and click 'Final Submit'."
+      ],
+      "hi": [
+        "चरण 1: ऑनलाइन पोर्टल https://online-wosa.gov.in/wosa/ पर पंजीकरण करें।",
+        "चरण 2: लॉग इन करें और WOS-A के तहत परियोजना प्रस्ताव भरें।",
+        "चरण 3: निर्दिष्ट प्रारूपों में सभी आवश्यक दस्तावेज अपलोड करें।",
+        "चरण 4: पूर्ण प्रस्ताव का पूर्वावलोकन करें और 'Final Submit' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: https://online-wosa.gov.in/wosa/ येथे ऑनलाइन पोर्टलवर नोंदणी करा.",
+        "पायरी 2: लॉग इन करा आणि WOS-A अंतर्गत प्रकल्प प्रस्ताव भरा.",
+        "पायरी 3: निर्दिष्ट स्वरूपात सर्व आवश्यक कागदपत्रे अपलोड करा.",
+        "पायरी 4: संपूर्ण प्रस्तावाचे पुनरावलोकन करा आणि 'Final Submit' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಆನ್‌ಲೈನ್ ಪೋರ್ಟಲ್ https://online-wosa.gov.in/wosa/ ನಲ್ಲಿ ನೋಂದಾಯಿಸಿ.",
+        "ಹಂತ 2: ಲಾಗ್ ಇನ್ ಮಾಡಿ ಮತ್ತು WOS-A ಅಡಿಯಲ್ಲಿ ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರಸ್ತಾವನೆಯನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಅಗತ್ಯವಿರುವ ಎಲ್ಲಾ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
+        "ಹಂತ 4: ಪ್ರಸ್ತಾವನೆಯನ್ನು ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಿ ಮತ್ತು 'Final Submit' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/wos-a",
+    "ageGroup": "27-57",
+    "state": "all",
+    "amount": "Up to ₹55,000/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "Research"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/wos-a",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register at the online portal https://online-wosa.gov.in/wosa/.",
+        "Step 2: Log in and fill the Project Proposal under WOS-A.",
+        "Step 3: Upload all required documents in the specified formats.",
+        "Step 4: Preview full proposal and click 'Final Submit'."
+      ],
+      "hi": [
+        "चरण 1: ऑनलाइन पोर्टल https://online-wosa.gov.in/wosa/ पर पंजीकरण करें।",
+        "चरण 2: लॉग इन करें और WOS-A के तहत परियोजना प्रस्ताव भरें।",
+        "चरण 3: निर्दिष्ट प्रारूपों में सभी आवश्यक दस्तावेज अपलोड करें।",
+        "चरण 4: पूर्ण प्रस्ताव का पूर्वावलोकन करें और 'Final Submit' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: https://online-wosa.gov.in/wosa/ येथे ऑनलाइन पोर्टलवर नोंदणी करा.",
+        "पायरी 2: लॉग इन करा आणि WOS-A अंतर्गत प्रकल्प प्रस्ताव भरा.",
+        "पायरी 3: निर्दिष्ट स्वरूपात सर्व आवश्यक कागदपत्रे अपलोड करा.",
+        "पायरी 4: संपूर्ण प्रस्तावाचे पुनरावलोकन करा आणि 'Final Submit' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಆನ್‌ಲೈನ್ ಪೋರ್ಟಲ್ https://online-wosa.gov.in/wosa/ ನಲ್ಲಿ ನೋಂದಾಯಿಸಿ.",
+        "ಹಂತ 2: ಲಾಗ್ ಇನ್ ಮಾಡಿ ಮತ್ತು WOS-A ಅಡಿಯಲ್ಲಿ ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರಸ್ತಾವನೆಯನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಅಗತ್ಯವಿರುವ ಎಲ್ಲಾ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
+        "ಹಂತ 4: ಪ್ರಸ್ತಾವನೆಯನ್ನು ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಿ ಮತ್ತು 'Final Submit' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹55,000/- per month",
+      "hi": "₹55,000/- प्रति माह तक",
+      "mr": "₹५५,०००/- प्रति महिना पर्यंत",
+      "kn": "₹55,000/- ಪ್ರತಿ ತಿಂಗಳವರೆಗೆ"
+    },
+    "categoryType": [
+      "Student",
+      "Research"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Research",
+        "hi": "अनुसंधान",
+        "mr": "संशोधन",
+        "kn": "ಸಂಶೋಧನೆ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b97",
+    "id": "s3",
+    "title": {
+      "en": "Women Scientist Scheme-B (WOS-B)",
+      "hi": "महिला वैज्ञानिक योजना-बी (WOS-B)",
+      "mr": "महिला शास्त्रज्ञ योजना-बी (WOS-B)",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಬಿ (WOS-B)"
+    },
+    "category": "Education",
+    "description": {
+      "en": "Women Scientist Scheme-B (WOS-B) focuses on projects related to Science & Technology (S&T) interventions for societal benefit. Projects address well-identified societal challenges and deliver solutions like technology transfer and scaling up.",
+      "hi": "महिला वैज्ञानिक योजना-बी (WOS-B) समाज के लाभ के लिए विज्ञान और प्रौद्योगिकी (S&T) हस्तक्षेपों से संबंधित परियोजनाओं पर केंद्रित है।",
+      "mr": "महिला शास्त्रज्ञ योजना-बी (WOS-B) समाजाच्या फायद्यासाठी विज्ञान आणि तंत्रज्ञान (S&T) हस्तक्षेपांशी संबंधित प्रकल्पांवर लक्ष केंद्रित करते.",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಬಿ (WOS-B) ಸಮಾಜದ ಪ್ರಯೋಜನಕ್ಕಾಗಿ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ (S&T) ಹಸ್ತಕ್ಷೇಪಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಯೋಜನೆಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ."
+    },
+    "benefits": {
+      "en": "Provides monthly fellowship for 3 years: ₹55,000/- pm for Ph.D. or equivalent, ₹40,000/- pm for M.Phil./M.Tech, and ₹31,000/- pm for M.Sc. or equivalent.",
+      "hi": "3 वर्षों के लिए मासिक फेलोशिप प्रदान करता है: पीएच.डी. के लिए ₹55,000/- प्रति माह, एम.फिल/एम.टेक के लिए ₹40,000/- प्रति माह, और एम.एससी के लिए ₹31,000/- प्रति माह।",
+      "mr": "३ वर्षांसाठी मासिक फेलोशिप प्रदान करते: पीएच.डी. साठी ₹५५,०००/- प्रति महिना, एम.फिल/एम.टेकसाठी ₹४०,०००/- प्रति महिना, आणि एम.एससीसाठी ₹३१,०००/- प्रति महिना.",
+      "kn": "3 ವರ್ಷಗಳವರೆಗೆ ಮಾಸಿಕ ಫೆಲೋಶಿಪ್ ನೀಡುತ್ತದೆ: ಪಿಎಚ್.ಡಿ ಗೆ ತಿಂಗಳಿಗೆ ₹55,000/-, ಎಂ.ಫಿಲ್/ಎಂ.ಟೆಕ್ ಗೆ ತಿಂಗಳಿಗೆ ₹40,000/-, ಮತ್ತು ಎಂ.ಎಸ್ಸಿ ಗೆ ತಿಂಗಳಿಗೆ ₹31,000/-."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 57,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Project Proposal Document",
+      "Biodata of PI",
+      "Mentor's Biodata",
+      "Caste Certificate",
+      "DOB Certificate",
+      "Educational Qualifications Certificate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official department website to get the proposal format.",
+        "Step 2: Fill out the application form under WOS-B.",
+        "Step 3: Attach the project proposal addressing a societal challenge.",
+        "Step 4: Submit the proposal online through the portal."
+      ],
+      "hi": [
+        "चरण 1: प्रस्ताव प्रारूप प्राप्त करने के लिए आधिकारिक विभाग की वेबसाइट पर जाएं।",
+        "चरण 2: WOS-B के तहत आवेदन पत्र भरें।",
+        "चरण 3: सामाजिक चुनौती को संबोधित करने वाला परियोजना प्रस्ताव संलग्न करें।",
+        "चरण 4: पोर्टल के माध्यम से प्रस्ताव ऑनलाइन जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: प्रस्तावाचे स्वरूप मिळविण्यासाठी अधिकृत विभागाच्या वेबसाइटला भेट द्या.",
+        "पायरी 2: WOS-B अंतर्गत अर्ज भरा.",
+        "पायरी 3: सामाजिक आव्हानाचे निराकरण करणारा प्रकल्प प्रस्ताव जोडा.",
+        "पायरी 4: पोर्टलद्वारे प्रस्ताव ऑनलाइन सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಪ್ರಸ್ತಾವನೆ ನಮೂನೆಯನ್ನು ಪಡೆಯಲು ಅಧಿಕೃತ ಇಲಾಖೆಯ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: WOS-B ಅಡಿಯಲ್ಲಿ ಅರ್ಜಿ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಸಾಮಾಜಿಕ ಸವಾಲನ್ನು ಪರಿಹರಿಸುವ ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರಸ್ತಾಪವನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಪೋರ್ಟಲ್ ಮೂಲಕ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಪ್ರಸ್ತಾಪವನ್ನು ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-b-wos-b",
+    "ageGroup": "27-57",
+    "state": "all",
+    "amount": "Up to ₹55,000/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Research",
+      "Societal Benefit"
+    ],
+    "applyLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-b-wos-b",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official department website to get the proposal format.",
+        "Step 2: Fill out the application form under WOS-B.",
+        "Step 3: Attach the project proposal addressing a societal challenge.",
+        "Step 4: Submit the proposal online through the portal."
+      ],
+      "hi": [
+        "चरण 1: प्रस्ताव प्रारूप प्राप्त करने के लिए आधिकारिक विभाग की वेबसाइट पर जाएं।",
+        "चरण 2: WOS-B के तहत आवेदन पत्र भरें।",
+        "चरण 3: सामाजिक चुनौती को संबोधित करने वाला परियोजना प्रस्ताव संलग्न करें।",
+        "चरण 4: पोर्टल के माध्यम से प्रस्ताव ऑनलाइन जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: प्रस्तावाचे स्वरूप मिळविण्यासाठी अधिकृत विभागाच्या वेबसाइटला भेट द्या.",
+        "पायरी 2: WOS-B अंतर्गत अर्ज भरा.",
+        "पायरी 3: सामाजिक आव्हानाचे निराकरण करणारा प्रकल्प प्रस्ताव जोडा.",
+        "पायरी 4: पोर्टलद्वारे प्रस्ताव ऑनलाइन सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಪ್ರಸ್ತಾವನೆ ನಮೂನೆಯನ್ನು ಪಡೆಯಲು ಅಧಿಕೃತ ಇಲಾಖೆಯ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: WOS-B ಅಡಿಯಲ್ಲಿ ಅರ್ಜಿ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: privilige ಸವಾಲನ್ನು ಪರಿಹರಿಸುವ ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರಸ್ತಾಪವನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಪೋರ್ಟಲ್ ಮೂಲಕ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಪ್ರಸ್ತಾಪವನ್ನು ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹55,000/- per month",
+      "hi": "₹55,000/- प्रति माह तक",
+      "mr": "₹५५,०००/- प्रति महिना पर्यंत",
+      "kn": "₹55,000/- ಪ್ರತಿ ತಿಂಗಳವರೆಗೆ"
+    },
+    "categoryType": [
+      "Research",
+      "Societal Benefit"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Research",
+        "hi": "अनुसंधान",
+        "mr": "संशोधन",
+        "kn": "ಸಂಶೋಧನೆ"
+      },
+      {
+        "en": "Societal Benefit",
+        "hi": "सामाजिक लाभ",
+        "mr": "सामाजिक लाभ",
+        "kn": "ಸಾಮಾಜಿಕ ಪ್ರಯೋಜನ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b98",
+    "id": "s4",
+    "title": {
+      "en": "Women Scientist Scheme-C (WOS-C)",
+      "hi": "महिला वैज्ञानिक योजना-सी (WOS-C)",
+      "mr": "महिला शास्त्रज्ञ योजना-सी (WOS-C)",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಸಿ (WOS-C)"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "A flagship program of the KIRAN Division of the Department of Science & Technology (DST) offering one year of on-the-job training in the area of Intellectual Property Rights (IPR). The training is implemented by the Patent Facilitating Centre (PFC) of TIFAC.",
+      "hi": "विज्ञान और प्रौद्योगिकी विभाग (DST) के किरण प्रभाग का एक प्रमुख कार्यक्रम, जो बौद्धिक संपदा अधिकारों (IPR) के क्षेत्र में एक वर्ष का प्रशिक्षण प्रदान करता है।",
+      "mr": "विज्ञान आणि तंत्रज्ञान विभाग (DST) च्या किरण विभागाचा एक प्रमुख कार्यक्रम, जो बौद्धिक संपदा हक्क (IPR) क्षेत्रात एक वर्षाचे प्रशिक्षण देतो.",
+      "kn": "ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಇಲಾಖೆಯ (DST) ಕಿರಣ್ ವಿಭಾಗದ ಪ್ರಮುಖ ಕಾರ್ಯಕ್ರಮವಾಗಿದ್ದು, ಬೌದ್ಧಿಕ ಆಸ್ತಿ ಹಕ್ಕುಗಳ (IPR) ಕ್ಷೇತ್ರದಲ್ಲಿ ಒಂದು ವರ್ಷದ ತರಬೇತಿಯನ್ನು ನೀಡುತ್ತದೆ."
+    },
+    "benefits": {
+      "en": "Provides one year of training with a monthly stipend: ₹20,000/- pm for M.Sc./B.Tech/MBBS, ₹25,000/- pm for M.Tech/M.Pharma/M.VSc, and ₹30,000/- pm for Ph.D.",
+      "hi": "मासिक वजीफे के साथ एक वर्ष का प्रशिक्षण प्रदान करता है: एम.एससी/बी.टेक/एमबीबीएस के लिए ₹20,000/-, एम.टेक/एम.फार्मा के लिए ₹25,000/-, और पीएच.डी. के लिए ₹30,000/- प्रति माह।",
+      "mr": "मासिक विद्यावेतनासह एक वर्षाचे प्रशिक्षण देते: एम.एससी/बी.टेक/एमबीबीएससाठी ₹२०,०००/-, एम.टेक/एम.फार्मासाठी ₹२५,०००/-, आणि पीएच.डी.साठी ₹३०,०००/- प्रति महिना.",
+      "kn": "ತಿಂಗಳ ಭತ್ಯೆಯೊಂದಿಗೆ ಒಂದು ವರ್ಷದ ತರಬೇತಿ ನೀಡುತ್ತದೆ: ಎಂ.ಎಸ್ಸಿ/ಬಿ.ಟೆಕ್/ಎಂಬಿಬಿಎಸ್ ಗೆ ₹20,000/-, ಎಂ.ಟೆಕ್/ಎಂ.ಫಾರ್ಮಾಗೆ ₹25,000/-, ಮತ್ತು ಪಿಎಚ್.ಡಿ ಗೆ ₹30,000/-."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 45,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity Proof",
+      "Caste Certificate (if applicable)",
+      "Highest Educational Degree Certificate",
+      "Resume/CV",
+      "Passport size Photograph"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Check for notifications on www.pfc.org.in when the application call is open.",
+        "Step 2: Visit the registration link and enter required credentials.",
+        "Step 3: Fill in educational qualifications, age details, and upload certificates.",
+        "Step 4: Submit application online. Shortlisted candidates are called for a written test/interview."
+      ],
+      "hi": [
+        "चरण 1: आवेदन शुरू होने पर www.pfc.org.in पर अधिसूचना की जांच करें।",
+        "चरण 2: पंजीकरण लिंक पर जाएं और आवश्यक क्रेडेंशियल दर्ज करें।",
+        "चरण 3: शैक्षणिक योग्यता, आयु विवरण भरें और प्रमाण पत्र अपलोड करें।",
+        "चरण 4: ऑनलाइन आवेदन जमा करें। शॉर्टलिस्ट किए गए उम्मीदवारों को लिखित परीक्षा/साक्षात्कार के लिए बुलाया जाता है।"
+      ],
+      "mr": [
+        "पायरी 1: अर्ज प्रक्रिया सुरू झाल्यावर www.pfc.org.in वर अधिसूचना तपासा.",
+        "पायरी 2: नोंदणी लिंकला भेट द्या आणि आवश्यक तपशील प्रविष्ट करा.",
+        "पायरी 3: शैक्षणिक पात्रता, वय तपशील भरा आणि प्रमाणपत्रे अपलोड करा.",
+        "पायरी 4: ऑनलाइन अर्ज सबमिट करा. निवडलेल्या उमेदवारांना लेखी परीक्षा/मुलाखतीसाठी बोलावले जाते."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅರ್ಜಿ ಕರೆ ಮುಕ್ತವಾಗಿದ್ದಾಗ www.pfc.org.in ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",
+        "ಹಂತ 2: ನೋಂದಣಿ ಲಿಂಕ್‌ಗೆ ಭೇಟಿ ನೀಡಿ ಅಗತ್ಯ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ.",
+        "ಹಂತ 3: ಶೈಕ್ಷಣಿಕ ಅರ್ಹತೆಗಳು, ವಯಸ್ಸಿನ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
+        "ಹಂತ 4: ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ. ಆಯ್ಕೆಯಾದವರನ್ನು ಲಿಖಿತ ಪರೀಕ್ಷೆ/ಸಂದರ್ಶನಕ್ಕೆ ಕರೆಯಲಾಗುತ್ತದೆ."
+      ]
+    },
+    "officialLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-c-wos-c",
+    "ageGroup": "27-45",
+    "state": "all",
+    "amount": "Up to ₹30,000/- per month",
+    "deadline": "Variable",
+    "tags": [
+      "Training",
+      "IPR",
+      "Skills"
+    ],
+    "applyLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-c-wos-c",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Check for notifications on www.pfc.org.in when the application call is open.",
+        "Step 2: Visit the registration link and enter required credentials.",
+        "Step 3: Fill in educational qualifications, age details, and upload certificates.",
+        "Step 4: Submit application online. Shortlisted candidates are called for a written test/interview."
+      ],
+      "hi": [
+        "चरण 1: आवेदन शुरू होने पर www.pfc.org.in पर अधिसूचना की जांच करें।",
+        "चरण 2: पंजीकरण लिंक पर जाएं और आवश्यक क्रेडेंशियल दर्ज करें।",
+        "चरण 3: शैक्षणिक योग्यता, आयु विवरण भरें और प्रमाण पत्र अपलोड करें।",
+        "चरण 4: ऑनलाइन आवेदन जमा करें। शॉर्टलिस्ट किए गए उम्मीदवारों को लिखित परीक्षा/साक्षात्कार के लिए बुलाया जाता है।"
+      ],
+      "mr": [
+        "पायरी 1: अर्ज प्रक्रिया सुरू झाल्यावर www.pfc.org.in वर अधिसूचना तपासा.",
+        "पायरी 2: नोंदणी लिंकला भेट द्या आणि आवश्यक तपशील प्रविष्ट करा.",
+        "पायरी 3: शैक्षणिक पात्रता, वय तपशील भरा आणि प्रमाणपत्रे अपलोड करा.",
+        "पायरी 4: ऑनलाइन अर्ज सबमिट करा. निवडलेल्या उमेदवारांना लेखी परीक्षा/मुलाखतीसाठी बोलावले जाते."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅರ್ಜಿ ಕರೆ ಮುಕ್ತವಾಗಿದ್ದಾಗ www.pfc.org.in ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",
+        "ಹಂತ 2: ನೋಂದಣಿ ಲಿಂಕ್‌ಗೆ ಭೇಟಿ ನೀಡಿ ಅಗತ್ಯ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ.",
+        "ಹಂತ 3: ಶೈಕ್ಷಣಿಕ ಅರ್ಹತೆಗಳು, ವಯಸ್ಸಿನ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
+        "ಹಂತ 4: ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ. ಆಯ್ಕೆಯಾದವರನ್ನು ಲಿಖಿತ ಪರೀಕ್ಷೆ/ಸಂದರ್ಶನಕ್ಕೆ ಕರೆಯಲಾಗುತ್ತದೆ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹30,000/- per month",
+      "hi": "₹30,000/- प्रति माह तक",
+      "mr": "₹३०,०००/- प्रति महिना पर्यंत",
+      "kn": "₹30,000/- ಪ್ರತಿ ತಿಂಗಳವರೆಗೆ"
+    },
+    "categoryType": [
+      "Training",
+      "IPR",
+      "Skills"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Training",
+        "hi": "प्रशिक्षण",
+        "mr": "प्रशिक्षण",
+        "kn": "ತರಬೇತಿ"
+      },
+      {
+        "en": "IPR",
+        "hi": "बौद्धिक संपदा",
+        "mr": "बौद्धिक संपदा",
+        "kn": "ಬೌದ್ಧಿಕ ಆಸ್ತಿ"
+      },
+      {
+        "en": "Skills",
+        "hi": "कौशल",
+        "mr": "कौशल्य",
+        "kn": "ಕೌಶಲ್ಯಗಳು"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b99",
+    "id": "s5",
+    "title": {
+      "en": "Internship Programme for Women",
+      "hi": "महिलाओं के लिए इंटर्नशिप कार्यक्रम",
+      "mr": "महिलांसाठी इंटर्नशिप कार्यक्रम",
+      "kn": "ಮಹಿಳೆಯರಿಗಾಗಿ ಇಂಟರ್ನ್‌ಶಿಪ್ ಕಾರ್ಯಕ್ರಮ"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "Launched by the Ministry of Women and Child Development (MWCD) to tap the talent of women students, scholars, social activists, and teachers from non-tier-I cities and rural areas, providing them exposure to policies and schemes implementation.",
+      "hi": "महिला एवं बाल विकास मंत्रालय द्वारा गैर-टियर-I शहरों और ग्रामीण क्षेत्रों की महिला छात्रों, विद्वानों और सामाजिक कार्यकर्ताओं के लिए शुरू की गई इंटर्नशिप योजना।",
+      "mr": "महिला आणि बाल विकास मंत्रालयाने बिगर-टियर-I शहरे आणि ग्रामीण भागातील महिला विद्यार्थी, संशोधक आणि सामाजिक कार्यकर्त्यांसाठी सुरू केलेली इंटर्नशिप योजना.",
+      "kn": "ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ಸಚಿವಾಲಯವು ನಗರೇತರ ಮತ್ತು ಗ್ರಾಮೀಣ ಭಾಗದ ಮಹಿಳಾ ವಿದ್ಯಾರ್ಥಿನಿಯರು, ಸಂಶೋಧಕರು ಮತ್ತು ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರಿಗಾಗಿ ಪ್ರಾರಂಭಿಸಿದ ಇಂಟರ್ನ್‌ಶಿಪ್ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "Monthly stipend of ₹20,000/- per month, travel reimbursement (joining & return), hostel facility in Delhi, triple sharing room, internet/logistic support, and certification.",
+      "hi": "₹20,000/- प्रति माह वजीफा, यात्रा प्रतिपूर्ति, दिल्ली में छात्रावास सुविधा, और सफल समापन पर प्रमाणपत्र।",
+      "mr": "₹२०,०००/- प्रति महिना विद्यावेतन, प्रवास खर्च परतावा, दिल्लीत वसतिगृह सुविधा आणि यशस्वी पूर्ततेनंतर प्रमाणपत्र.",
+      "kn": "ತಿಂಗಳಿಗೆ ₹20,000/- ಭತ್ಯೆ, ಪ್ರಯಾಣ ವೆಚ್ಚ ಮರುಪಾವತಿ, ದೆಹಲಿಯಲ್ಲಿ ವಸತಿ ಸೌಕರ್ಯ ಮತ್ತು ಯಶಸ್ವಿ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಗೆ ಪ್ರಮಾಣಪತ್ರ."
+    },
+    "eligibility": {
+      "minAge": 21,
+      "maxAge": 40,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Candidate's Photograph",
+      "Identity Proof (Aadhaar/Voter ID)",
+      "Address Proof (proving non-tier-1 residence)",
+      "Signature",
+      "Highest Education Certificate/Degree",
+      "Joining Letter of the Organization (For Teachers/Social Activists)",
+      "Admission Certificate/Joining Letter of the Institution"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official MWCD internship portal.",
+        "Step 2: Click on 'Register' and enter Name, DOB, Gender, State, District, E-Mail, and Mobile.",
+        "Step 3: Log in using the registered email address and password.",
+        "Step 4: Upload your latest passport photograph and fill the application form.",
+        "Step 5: Review all data and submit the application."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक MWCD इंटर्नशिप पोर्टल पर जाएं।",
+        "चरण 2: 'Register' पर क्लिक करें और नाम, जन्म तिथि, लिंग, राज्य, जिला, ई-मेल और मोबाइल दर्ज करें।",
+        "चरण 3: पंजीकृत ईमेल और पासवर्ड का उपयोग करके लॉग इन करें।",
+        "चरण 4: अपना नवीनतम पासपोर्ट फोटो अपलोड करें और आवेदन पत्र भरें।",
+        "चरण 5: सभी डेटा की समीक्षा करें और आवेदन जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: अधिकृत MWCD इंटर्नशिप पोर्टलला भेट द्या.",
+        "पायरी 2: 'Register' वर क्लिक करा आणि नाव, जन्मतारीख, लिंग, राज्य, जिल्हा, ई-मेल आणि मोबाईल प्रविष्ट करा.",
+        "पायरी 3: नोंदणीकृत ईमेल आणि पासवर्ड वापरून लॉग इन करा.",
+        "पायरी 4: आपला नवीनतम पासपोर्ट फोटो अपलोड करा आणि अर्ज भरा.",
+        "पायरी 5: सर्व तपशीलांचे पुनरावलोकन करा आणि अर्ज सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ MWCD ಇಂಟರ್ನ್‌ಶಿಪ್ ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'Register' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಹೆಸರು, ಜನ್ಮ ದಿನಾಂಕ, ಲಿಂಗ, ರಾಜ್ಯ, ಇಮೇಲ್ ಮತ್ತು ಮೊಬೈಲ್ ನಮೂದಿಸಿ.",
+        "ಹಂತ 3: ನೋಂದಾಯಿತ ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: ಇತ್ತೀಚಿನ ಪಾಸ್‌ಪೋರ್ಟ್ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಅರ್ಜಿಯನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 5: ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/ipmwcd",
+    "ageGroup": "21-40",
+    "state": "all",
+    "amount": "₹20,000/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "Internship",
+      "Training"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/ipmwcd",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official MWCD internship portal.",
+        "Step 2: Click on 'Register' and enter Name, DOB, Gender, State, District, E-Mail, and Mobile.",
+        "Step 3: Log in using the registered email address and password.",
+        "Step 4: Upload your latest passport photograph and fill the application form.",
+        "Step 5: Review all data and submit the application."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक MWCD इंटर्नशिप पोर्टल पर जाएं।",
+        "चरण 2: 'Register' पर क्लिक करें और नाम, जन्म तिथि, लिंग, राज्य, जिला, ई-मेल और मोबाइल दर्ज करें।",
+        "चरण 3: पंजीकृत ईमेल और पासवर्ड का उपयोग करके लॉग इन करें।",
+        "चरण 4: अपना नवीनतम पासपोर्ट फोटो अपलोड करें और आवेदन पत्र भरें।",
+        "चरण 5: सभी डेटा की समीक्षा करें और आवेदन जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: अधिकृत MWCD इंटर्नशिप पोर्टलला भेट द्या.",
+        "पायरी 2: 'Register' वर क्लिक करा आणि नाव, जन्मतारीख, लिंग, राज्य, जिल्हा, ई-मेल आणि मोबाईल प्रविष्ट करा.",
+        "पायरी 3: नोंदणीकृत ईमेल आणि पासवर्ड वापरून लॉग इन करा.",
+        "पायरी 4: आपला नवीनतम पासपोर्ट फोटो अपलोड करा आणि अर्ज भरा.",
+        "पायरी 5: सर्व तपशीलांचे पुनरावलोकन करा आणि अर्ज सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ MWCD ಇಂಟರ್ನ್‌ಶಿಪ್ ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'Register' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಹೆಸರು, ಜನ್ಮ ದಿನಾಂಕ, ಲಿಂಗ, ರಾಜ್ಯ, ಇಮೇಲ್ ಮತ್ತು ಮೊಬೈಲ್ ನಮೂದಿಸಿ.",
+        "ಹಂತ 3: ನೋಂದಾಯಿತ ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: ಇತ್ತೀಚಿನ ಪಾಸ್‌ಪೋರ್ಟ್ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಅರ್ಜಿಯನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 5: ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹20,000/- per month",
+      "hi": "₹20,000/- प्रति माह",
+      "mr": "₹२०,०००/- प्रति महिना",
+      "kn": "₹20,000/- ಪ್ರತಿ ತಿಂಗಳು"
+    },
+    "categoryType": [
+      "Student",
+      "Internship",
+      "Training"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Internship",
+        "hi": "इंटर्नशिप",
+        "mr": "इंटर्नशिप",
+        "kn": "ಇಂಟರ್ನ್‌ಶಿಪ್"
+      },
+      {
+        "en": "Training",
+        "hi": "प्रशिक्षण",
+        "mr": "प्रशिक्षण",
+        "kn": "ತರಬೇತಿ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b9a",
+    "id": "s6",
+    "title": {
+      "en": "Pradhan Mantri Surakshit Matritva Abhiyan",
+      "hi": "प्रधानमंत्री सुरक्षित मातृत्व अभियान",
+      "mr": "प्रधानमंत्री सुरक्षित मातृत्व अभियान",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಸುರಕ್ಷಿತ ಮಾತೃತ್ವ ಅಭಿಯಾನ"
+    },
+    "category": "Health",
+    "description": {
+      "en": "A national initiative by the Ministry of Health and Family Welfare to provide assured, comprehensive, and quality antenatal care (ANC) free of cost to all pregnant women on the 9th of every month.",
+      "hi": "सभी गर्भवती महिलाओं को हर महीने की 9 तारीख को मुफ्त में गुणवत्तापूर्ण प्रसव पूर्व देखभाल प्रदान करने के लिए स्वास्थ्य और परिवार कल्याण मंत्रालय की एक राष्ट्रीय पहल।",
+      "mr": "सर्व गरोदर महिलांना प्रत्येक महिन्याच्या ९ तारखेला मोफत दर्जेदार प्रसूतीपूर्व काळजी (ANC) देण्यासाठी आरोग्य आणि कुटुंब कल्याण मंत्रालयाचा राष्ट्रीय उपक्रम.",
+      "kn": "ಎಲ್ಲಾ ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರಿಗೆ ಪ್ರತಿ ತಿಂಗಳ 9 ರಂದು ಉಚಿತವಾಗಿ ಪ್ರಸವಪೂರ್ವ ಆರೈಕೆಯನ್ನು ಒದಗಿಸಲು ಆರೋಗ್ಯ ಮತ್ತು ಕುಟುಂಬ ಕಲ್ಯಾಣ ಸಚಿವಾಲಯದ ರಾಷ್ಟ್ರೀಯ ಉಪಕ್ರಮ."
+    },
+    "benefits": {
+      "en": "Free comprehensive health checkups, diagnostics, ultrasound scans, and clinical treatments conducted by obstetricians and medical officers at Government health facilities.",
+      "hi": "सरकारी स्वास्थ्य सुविधाओं में प्रसूति रोग विशेषज्ञों द्वारा मुफ्त व्यापक स्वास्थ्य जांच, निदान और नैदानिक उपचार।",
+      "mr": "सरकारी आरोग्य सुविधांमध्ये स्त्रीरोग तज्ज्ञांद्वारे मोफत सर्वसमावेशक आरोग्य तपासणी, निदान आणि उपचार.",
+      "kn": "ಸರ್ಕಾರಿ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ಉಚಿತ ಸಮಗ್ರ ಆರೋಗ್ಯ ತಪಾಸಣೆ, ರೋಗನಿರ್ಣಯ ಮತ್ತು ಚಿಕಿತ್ಸೆ ಸೌಲಭ್ಯ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 45,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "Mother and Child Protection (MCP) Card"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Walk in to the nearest government healthcare center, PHC, CHC, or district hospital.",
+        "Step 2: Attend the special clinics set up on the 9th of any month.",
+        "Step 3: Register at the desk and receive free checkups and diagnostics."
+      ],
+      "hi": [
+        "चरण 1: निकटतम सरकारी स्वास्थ्य केंद्र, पीएचसी, सीएचसी या जिला अस्पताल में जाएं।",
+        "चरण 2: किसी भी महीने की 9 तारीख को स्थापित विशेष क्लीनिक में भाग लें।",
+        "चरण 3: डेस्क पर पंजीकरण करें और मुफ्त जांच और निदान प्राप्त करें।"
+      ],
+      "mr": [
+        "पायरी 1: जवळच्या सरकारी आरोग्य केंद्र, पीएचसी, सीएचसी किंवा जिल्हा रुग्णालयाला भेट द्या.",
+        "पायरी 2: कोणत्याही महिन्याच्या ९ तारखेला आयोजित केलेल्या विशेष क्लिनिकमध्ये उपस्थित रहा.",
+        "पायरी 3: नोंदणी करा आणि मोफत तपासणी आणि निदान सेवा मिळवा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಹತ್ತಿರದ ಸರ್ಕಾರಿ ಆರೋಗ್ಯ ಕೇಂದ್ರ, ಪಿಎಚ್‌ಸಿ, ಸಿಎಚ್‌ಸಿ ಅಥವಾ ಜಿಲ್ಲಾ ಆಸ್ಪತ್ರೆಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಪ್ರತಿ ತಿಂಗಳ 9 ರಂದು ಸ್ಥಾಪಿಸಲಾದ ವಿಶೇಷ ಕ್ಲಿನಿಕ್‌ಗೆ ಹಾಜರಾಗಿ.",
+        "ಹಂತ 3: ನೋಂದಣಿ ಮಾಡಿಕೊಂಡು ಉಚಿತ ತಪಾಸಣೆ ಮತ್ತು ಚಿಕಿತ್ಸೆ ಪಡೆಯಿರಿ."
+      ]
+    },
+    "officialLink": "https://pmsma.mohfw.gov.in/",
+    "ageGroup": "18-45",
+    "state": "all",
+    "amount": "Free Healthcare Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Maternity",
+      "Healthcare"
+    ],
+    "applyLink": "https://pmsma.mohfw.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Walk in to the nearest government healthcare center, PHC, CHC, or district hospital.",
+        "Step 2: Attend the special clinics set up on the 9th of any month.",
+        "Step 3: Register at the desk and receive free checkups and diagnostics."
+      ],
+      "hi": [
+        "चरण 1: निकटतम सरकारी स्वास्थ्य केंद्र, पीएचसी, सीएचसी या जिला अस्पताल में जाएं।",
+        "चरण 2: किसी भी महीने की 9 तारीख को स्थापित विशेष क्लीनिक में भाग लें।",
+        "चरण 3: डेस्क पर पंजीकरण करें और मुफ्त जांच और निदान प्राप्त करें।"
+      ],
+      "mr": [
+        "पायरी 1: जवळच्या सरकारी आरोग्य केंद्र, पीएचसी, सीएचसी किंवा जिल्हा रुग्णालयाला भेट द्या.",
+        "पायरी 2: कोणत्याही महिन्याच्या ९ तारखेला आयोजित केलेल्या विशेष क्लिनिकमध्ये उपस्थित रहा.",
+        "पायरी 3: नोंदणी करा आणि मोफत तपासणी आणि निदान सेवा मिळवा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಹತ್ತಿರದ ಸರ್ಕಾರಿ ಆರೋಗ್ಯ ಕೇಂದ್ರ, ಪಿಎಚ್‌ಸಿ, ಸಿಎಚ್‌ಸಿ ಅಥವಾ ಜಿಲ್ಲಾ ಆಸ್ಪತ್ರೆಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಪ್ರತಿ ತಿಂಗಳ 9 ರಂದು ಸ್ಥಾಪಿಸಲಾದ ವಿಶೇಷ ಕ್ಲಿನಿಕ್‌ಗೆ ಹಾಜರಾಗಿ.",
+        "ಹಂತ 3: ನೋಂದಣಿ ಮಾಡಿಕೊಂಡು ಉಚಿತ ತಪಾಸಣೆ ಮತ್ತು ಚಿಕಿತ್ಸೆ ಪಡೆಯಿರಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free Healthcare Support",
+      "hi": "नि:शुल्क स्वास्थ्य देखभाल सहायता",
+      "mr": "मोफत आरोग्य सेवा सहाय्य",
+      "kn": "ಉಚಿತ ಆರೋಗ್ಯ ಸೇವೆ"
+    },
+    "categoryType": [
+      "Maternity",
+      "Healthcare"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      },
+      {
+        "en": "Healthcare",
+        "hi": "स्वास्थ्य देखभाल",
+        "mr": "आरोग्य सेवा",
+        "kn": "ಆರೋಗ್ಯ ರಕ್ಷಣೆ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b9b",
+    "id": "s7",
+    "title": {
+      "en": "Matrutva Prasuvidha Yojana",
+      "hi": "मातृत्व प्रसुविधा योजना",
+      "mr": "मातृत्व प्रसुविधा योजना",
+      "kn": "ಮಾತೃತ್ವ ಪ್ರಸುವಿಧಾ ಯೋಜನೆ"
+    },
+    "category": "Health",
+    "description": {
+      "en": "A 100% State Sponsored Medical Assistance scheme by the Department of Labour, Employment, Training & Skill Development, Govt. of Jharkhand. Provides financial assistance to registered female construction workers for their deliveries.",
+      "hi": "झारखंड सरकार के श्रम, नियोजन, प्रशिक्षण एवं कौशल विकास विभाग द्वारा प्रायोजित चिकित्सा सहायता योजना।",
+      "mr": "झारखंड सरकारच्या कामगार, रोजगार, प्रशिक्षण आणि कौशल्य विकास विभागाद्वारे प्रायोजित वैद्यकीय सहाय्य योजना.",
+      "kn": "ಜಾರ್ಖಂಡ್ ಸರ್ಕಾರದ ಕಾರ್ಮಿಕ, ಉದ್ಯೋಗ, ತರಬೇತಿ ಮತ್ತು ಕೌಶಲ್ಯಾಭಿವೃದ್ಧಿ ಇಲಾಖೆಯಿಂದ ಪ್ರಾಯೋಜಿತ ವೈದ್ಯಕೀಯ ಸಹಾಯ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "Financial assistance of ₹15,000/- for the first two deliveries to the registered female construction worker.",
+      "hi": "पंजीकृत महिला निर्माण श्रमिक को पहले दो प्रसव के लिए ₹15,000/- की वित्तीय सहायता।",
+      "mr": "नोंदणीकृत महिला बांधकाम कामगाराला पहिल्या दोन प्रसूतीसाठी ₹१५,०००/- ची आर्थिक मदत.",
+      "kn": "ನೋಂದಾಯಿತ ಮಹಿಳಾ ಕಟ್ಟಡ ಕಾರ್ಮಿಕರಿಗೆ ಮೊದಲ ಎರಡು ಹೆರಿಗೆಗಳಿಗೆ ₹15,000/- ಆರ್ಥಿಕ ಸಹಾಯ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 60,
+      "state": "Jharkhand",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "Residential/Domicile Certificate of Jharkhand",
+      "Proof of Identity",
+      "eSHRAM Card",
+      "Passport Sized Photograph",
+      "Proof of Registration with JBOCWW Board",
+      "Bank Account details",
+      "Income Certificate",
+      "Proof of Pregnancy"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official Comprehensive Labour Management System of Jharkhand.",
+        "Step 2: Click 'Login' and select 'Register Here' to create credentials.",
+        "Step 3: Log in using your Username and Password.",
+        "Step 4: Go to Services > BOC Scheme Benefit > Application Form.",
+        "Step 5: Fill in basic details and select 'Matrutva Prasuvidha Yojana'.",
+        "Step 6: Upload required documents and click 'Submit Request'."
+      ],
+      "hi": [
+        "चरण 1: झारखंड के आधिकारिक व्यापक श्रम प्रबंधन प्रणाली पर जाएं।",
+        "चरण 2: 'Login' पर क्लिक करें और क्रेडेंशियल बनाने के लिए 'Register Here' चुनें।",
+        "चरण 3: अपने उपयोगकर्ता नाम और पासवर्ड का उपयोग करके लॉग इन करें।",
+        "चरण 4: Services > BOC Scheme Benefit > Application Form पर जाएं।",
+        "चरण 5: मूल विवरण भरें और 'Matrutva Prasuvidha Yojana' चुनें।",
+        "चरण 6: आवश्यक दस्तावेज अपलोड करें और 'Submit Request' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: झारखंडच्या अधिकृत श्रम व्यवस्थापन प्रणालीला भेट द्या.",
+        "पायरी 2: 'Login' वर क्लिक करा आणि नवीन क्रेडेंशियल्स तयार करण्यासाठी 'Register Here' निवडा.",
+        "पायरी 3: युझरनेम आणि पासवर्ड वापरून लॉग इन करा.",
+        "पायरी 4: Services > BOC Scheme Benefit > Application Form वर जा.",
+        "पायरी 5: मूलभूत तपशील भरा आणि 'Matrutva Prasuvidha Yojana' निवडा.",
+        "पायरी 6: आवश्यक कागदपत्रे अपलोड करा आणि 'Submit Request' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಜಾರ್ಖಂಡ್‌ನ ಅಧಿಕೃತ ಕಾರ್ಮಿಕ ನಿರ್ವಹಣಾ ವ್ಯವಸ್ಥೆಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'Login' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನೋಂದಾಯಿಸಲು 'Register Here' ಆಯ್ಕೆಮಾಡಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಬಳಕೆದಾರಹೆಸರು ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: Services > BOC Scheme Benefit > Application Form ಗೆ ಹೋಗಿ.",
+        "ಹಂತ 5: ಮೂಲ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು 'Matrutva Prasuvidha Yojana' ಆಯ್ಕೆಮಾಡಿ.",
+        "ಹಂತ 6: ಅಗತ್ಯ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು 'Submit Request' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/mpy",
+    "ageGroup": "18-60",
+    "state": "Jharkhand",
+    "amount": "₹15,000/- for first 2 deliveries",
+    "deadline": "Continuous",
+    "tags": [
+      "Maternity",
+      "Financial Support",
+      "Worker"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/mpy",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official Comprehensive Labour Management System of Jharkhand.",
+        "Step 2: Click 'Login' and select 'Register Here' to create credentials.",
+        "Step 3: Log in using your Username and Password.",
+        "Step 4: Go to Services > BOC Scheme Benefit > Application Form.",
+        "Step 5: Fill in basic details and select 'Matrutva Prasuvidha Yojana'.",
+        "Step 6: Upload required documents and click 'Submit Request'."
+      ],
+      "hi": [
+        "चरण 1: झारखंड के आधिकारिक व्यापक श्रम प्रबंधन प्रणाली पर जाएं।",
+        "चरण 2: 'Login' पर क्लिक करें और क्रेडेंशियल बनाने के लिए 'Register Here' चुनें।",
+        "चरण 3: अपने उपयोगकर्ता नाम और पासवर्ड का उपयोग करके लॉग इन करें।",
+        "चरण 4: Services > BOC Scheme Benefit > Application Form पर जाएं।",
+        "चरण 5: मूल विवरण भरें और 'Matrutva Prasuvidha Yojana' चुनें।",
+        "चरण 6: आवश्यक दस्तावेज अपलोड करें और 'Submit Request' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: झारखंडच्या अधिकृत श्रम व्यवस्थापन प्रणालीला भेट द्या.",
+        "पायरी 2: 'Login' वर क्लिक करा आणि नवीन क्रेडेंशियल्स तयार करण्यासाठी 'Register Here' निवडा.",
+        "पायरी 3: युझरनेम आणि पासवर्ड वापरून लॉग इन करा.",
+        "पायरी 4: Services > BOC Scheme Benefit > Application Form वर जा.",
+        "पायरी 5: मूलभूत तपशील भरा आणि 'Matrutva Prasuvidha Yojana' निवडा.",
+        "पायरी 6: आवश्यक कागदपत्रे अपलोड करा आणि 'Submit Request' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಜಾರ್ಖಂಡ್‌ನ ಅಧಿಕೃತ ಕಾರ್ಮಿಕ ನಿರ್ವಹಣಾ ವ್ಯವಸ್ಥೆಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'Login' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನೋಂದಾಯಿಸಲು 'Register Here' ಆಯ್ಕೆಮಾಡಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಬಳಕೆದಾರಹೆಸರು ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: Services > BOC Scheme Benefit > Application Form ಗೆ ಹೋಗಿ.",
+        "ಹಂತ 5: ಮೂಲ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು 'Matrutva Prasuvidha Yojana' ಆಯ್ಕೆಮಾಡಿ.",
+        "ಹಂತ 6: ಅಗತ್ಯ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು 'Submit Request' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹15,000/- for first 2 deliveries",
+      "hi": "₹15,000/- पहले 2 प्रसव के लिए",
+      "mr": "₹१५,०००/- पहिल्या २ प्रसूतीसाठी",
+      "kn": "ಮೊದಲ 2 ಹೆರಿಗೆಗಳಿಗೆ ₹15,000/-"
+    },
+    "categoryType": [
+      "Maternity",
+      "Financial Support",
+      "Worker"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      },
+      {
+        "en": "Financial Support",
+        "hi": "वित्तीय सहायता",
+        "mr": "आर्थिक मदत",
+        "kn": "ಆರ್ಥಿಕ ನೆರವು"
+      },
+      {
+        "en": "Worker",
+        "hi": "श्रमिक",
+        "mr": "कामगार",
+        "kn": "ಕಾರ್ಮಿಕ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b9c",
+    "id": "s8",
+    "title": {
+      "en": "Financial Incentives To Mothers Who Deliver A Girl Child (Mamta)",
+      "hi": "बालिका को जन्म देने वाली माताओं को वित्तीय प्रोत्साहन (Mamta)",
+      "mr": "मुलगी जन्माला घालणाऱ्या मातांना आर्थिक प्रोत्साहन (Mamta)",
+      "kn": "ಹೆಣ್ಣು ಮಗುವಿಗೆ ಜನ್ಮ ನೀಡುವ ತಾಯಂದಿರಿಗೆ ಆರ್ಥಿಕ ಪ್ರೋತ್ಸಾಹ (Mamta)"
+    },
+    "category": "Health",
+    "description": {
+      "en": "A scheme of Financial Assistance implemented by the Directorate of Women and Child Development, Govt. of Goa. Aims to improve the Female Child Sex Ratio in the State.",
+      "hi": "गोवा सरकार के महिला एवं बाल विकास निदेशालय द्वारा लागू वित्तीय सहायता योजना। इसका उद्देश्य राज्य में बाल लिंगानुपात में सुधार करना है।",
+      "mr": "गोवा सरकारच्या महिला आणि बाल विकास संचालनालयाद्वारे राबविली जाणारी आर्थिक मदत योजना. राज्यातील लिंग गुणोत्तर सुधारणे हा या योजनेचा उद्देश आहे.",
+      "kn": "ಗೋವಾ ಸರ್ಕಾರದ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ನಿರ್ದೇಶನಾಲಯದಿಂದ ಜಾರಿಗೆ ತರಲಾದ ಆರ್ಥಿಕ ನೆರವು ಯೋಜನೆ. ಹೆಣ್ಣು ಮಕ್ಕಳ ಲಿಂಗ ಅನುಪಾತ ಸುಧಾರಿಸುವುದು ಇದರ ಉದ್ದೇಶ."
+    },
+    "benefits": {
+      "en": "Provides ₹10,000/- as a one-time financial incentive directly credited to the mother's bank account upon delivering a live girl child.",
+      "hi": "जीवित बालिका के जन्म पर माता के बैंक खाते में सीधे ₹10,000/- का एकमुश्त वित्तीय प्रोत्साहन प्रदान करता है।",
+      "mr": "मुलगी जन्माला आल्यावर मातेच्या बँक खात्यात थेट ₹१०,०००/- चे एकरकमी आर्थिक प्रोत्साहन प्रदान करते.",
+      "kn": "ಹೆಣ್ಣು ಮಗು ಜನಿಸಿದಾಗ ತಾಯಿಯ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ನೇರವಾಗಿ ₹10,000/- ಆರ್ಥಿಕ ಸಹಾಯವನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 45,
+      "state": "Goa",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Certified/Self-Attested Copy of Aadhaar Card",
+      "Certified/Self-Attested Copy of Birth Report/Certificate from Registered Institution",
+      "Proof of residence in Goa for at least 3 years OR proof of marriage to a resident of Goa",
+      "Pre-Receipt in duplicate (Annexure-2 for new beneficiaries)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Obtain the application form in the prescribed format from the nearest Anganwadi Centre or ICDS Block Office.",
+        "Step 2: Complete the form with birth details and bank account numbers.",
+        "Step 3: Attach the self-attested documents (Aadhaar, Birth report, Residence proof).",
+        "Step 4: Submit the form to the Child Development Project Officer (CDPO) within 45 days of delivery."
+      ],
+      "hi": [
+        "चरण 1: निकटतम आंगनवाड़ी केंद्र या ICDS ब्लॉक कार्यालय से निर्धारित प्रारूप में आवेदन पत्र प्राप्त करें।",
+        "चरण 2: जन्म विवरण और बैंक खाता संख्या के साथ फॉर्म भरें।",
+        "चरण 3: स्व-सत्यापित दस्तावेज (आधार, जन्म रिपोर्ट, निवास प्रमाण) संलग्न करें।",
+        "चरण 4: प्रसव के 45 दिनों के भीतर बाल विकास परियोजना अधिकारी (CDPO) के पास फॉर्म जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: जवळच्या अंगणवाडी केंद्रातून किंवा ICDS ब्लॉक कार्यालयातून विहित नमुन्यातील अर्ज मिळवा.",
+        "पायरी 2: जन्म तपशील आणि बँक खाते क्रमांकासह फॉर्म भरा.",
+        "पायरी 3: स्व-साक्षांकित कागदपत्रे (आधार, जन्म दाखला, रहिवासी पुरावा) जोडा.",
+        "पायरी 4: डिलिव्हरीच्या ४५ दिवसांच्या आत बाल विकास प्रकल्प अधिकारी (CDPO) यांच्याकडे फॉर्म सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಹತ್ತಿರದ ಅಂಗನವಾಡಿ ಕೇಂದ್ರ ಅಥವಾ ICDS ಬ್ಲಾಕ್ ಕಚೇರಿಯಿಂದ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆಯಿರಿ.",
+        "ಹಂತ 2: ಹೆರಿಗೆ ವಿವರಗಳು ಮತ್ತು ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ದಾಖಲೆಗಳನ್ನು (ಆಧಾರ್, ಜನನ ವರದಿ, ವಾಸಸ್ಥಳದ ಪುರಾವೆ) ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಹೆರಿಗೆಯಾದ 45 ದಿನಗಳ ಒಳಗೆ ಶಿಶು ಅಭಿವೃದ್ಧಿ ಯೋಜನಾಧಿಕಾರಿಗಳಿಗೆ (CDPO) ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/hi/schemes/fimdgc",
+    "ageGroup": "18-45",
+    "state": "Goa",
+    "amount": "₹10,000/- one-time incentive",
+    "deadline": "Within 45 days of delivery",
+    "tags": [
+      "Maternity",
+      "Financial Support",
+      "Girl Child"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/hi/schemes/fimdgc",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Obtain the application form in the prescribed format from the nearest Anganwadi Centre or ICDS Block Office.",
+        "Step 2: Complete the form with birth details and bank account numbers.",
+        "Step 3: Attach the self-attested documents (Aadhaar, Birth report, Residence proof).",
+        "Step 4: Submit the form to the Child Development Project Officer (CDPO) within 45 days of delivery."
+      ],
+      "hi": [
+        "चरण 1: निकटतम आंगनवाड़ी केंद्र या ICDS ब्लॉक कार्यालय से निर्धारित प्रारूप में आवेदन पत्र प्राप्त करें।",
+        "चरण 2: जन्म विवरण और बैंक खाता संख्या के साथ फॉर्म भरें।",
+        "चरण 3: स्व-सत्यापित दस्तावेज (आधार, जन्म रिपोर्ट, निवास प्रमाण) संलग्न करें।",
+        "चरण 4: प्रसव के 45 दिनों के भीतर बाल विकास परियोजना अधिकारी (CDPO) के पास फॉर्म जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: जवळच्या अंगणवाडी केंद्रातून किंवा ICDS ब्लॉक कार्यालयातून विहित नमुन्यातील अर्ज मिळवा.",
+        "पायरी 2: जन्म तपशील आणि बँक खाते क्रमांकासह फॉर्म भरा.",
+        "पायरी 3: स्व-साक्षांकित कागदपत्रे (आधार, जन्म दाखला, रहिवासी पुरावा) जोडा.",
+        "पायरी 4: डिलिव्हरीच्या ४५ दिवसांच्या आत बाल विकास प्रकल्प अधिकारी (CDPO) यांच्याकडे फॉर्म सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಹತ್ತಿರದ ಅಂಗನವಾಡಿ ಕೇಂದ್ರ ಅಥವಾ ICDS ಬ್ಲಾಕ್ ಕಚೇರಿಯಿಂದ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆಯಿರಿ.",
+        "ಹಂತ 2: ಹೆರಿಗೆ ವಿವರಗಳು ಮತ್ತು ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ದಾಖಲೆಗಳನ್ನು (ಆಧಾರ್, ಜನನ ವರದಿ, ವಾಸಸ್ಥಳದ ಪುರಾವೆ) ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಹೆರಿಗೆಯಾದ 45 ದಿನಗಳ ಒಳಗೆ ಶಿಶು ಅಭಿವೃದ್ಧಿ ಯೋಜನಾಧಿಕಾರಿಗಳಿಗೆ (CDPO) ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹10,000/- one-time incentive",
+      "hi": "₹10,000/- एकमुश्त प्रोत्साहन",
+      "mr": "₹१०,०००/- एकरकमी प्रोत्साहन",
+      "kn": "₹10,000/- ಏಕಕಾಲದ ಪ್ರೋತ್ಸಾಹ"
+    },
+    "categoryType": [
+      "Maternity",
+      "Financial Support",
+      "Girl Child"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      },
+      {
+        "en": "Financial Support",
+        "hi": "वित्तीय सहायता",
+        "mr": "आर्थिक मदत",
+        "kn": "ಆರ್ಥಿಕ ನೆರವು"
+      },
+      {
+        "en": "Girl Child",
+        "hi": "बालिका",
+        "mr": "मुलगी",
+        "kn": "ಹೆಣ್ಣು ಮಗು"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b9d",
+    "id": "s9",
+    "title": {
+      "en": "Udyogini Scheme",
+      "hi": "उद्योगिनी योजना",
+      "mr": "उद्योगिनी योजना",
+      "kn": "ಉದ್ಯೋಗಿನಿ ಯೋಜನೆ"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Sanctioned by the Government of Karnataka to assist women in gaining self-reliance and economic independence through self-employment, mainly in trade and service sectors, by providing loan subsidies through banks and cooperative financial institutions.",
+      "hi": "कर्नाटक सरकार द्वारा महिलाओं को व्यापार और सेवा क्षेत्रों में स्वरोजगार के माध्यम से आत्मनिर्भरता प्राप्त करने में सहायता करने के लिए स्वीकृत योजना।",
+      "mr": "महिलांना व्यापार आणि सेवा क्षेत्रातील स्वयंरोजगाराद्वारे स्वावलंबन मिळविण्यास मदत करण्यासाठी कर्नाटक सरकारने मंजूर केलेली योजना.",
+      "kn": "ಮಹಿಳೆಯರು ವ್ಯಾಪಾರ ಮತ್ತು ಸೇವಾ ವಲಯಗಳಲ್ಲಿ ಸ್ವಯಂ ಉದ್ಯೋಗದ ಮೂಲಕ ಸ್ವಾವಲಂಬನೆ ಸಾಧಿಸಲು ಸಹಾಯ ಮಾಡಲು ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಅನುಮೋದಿಸಿದ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "For SC/ST candidates, provides up to 50% subsidy on loan unit costs between ₹1,00,000 to ₹3,0,000. For general and special categories, provides a 30% subsidy (up to ₹90,000). Also includes Entrepreneurship Development Program (EDP) training.",
+      "hi": "एससी/एसटी के लिए 50% तक सब्सिडी (₹1,00,000 से ₹3,00,000)। सामान्य/विशेष श्रेणी की महिलाओं के लिए 30% सब्सिडी (अधिकतम ₹90,000)। उद्यमिता विकास कार्यक्रम (EDP) प्रशिक्षण भी शामिल है।",
+      "mr": "SC/ST साठी ५०% पर्यंत सबसिडी (₹१,००,००० ते ₹३,००,०००). सामान्य/विशेष प्रवर्गासाठी ३०% सबसिडी (जास्तीत जास्त ₹९०,०००). उद्योजकता विकास कार्यक्रम (EDP) प्रशिक्षण समाविष्ट आहे.",
+      "kn": "SC/ST ಗೆ 50% ರವರೆಗೆ ಸಬ್ಸಿಡಿ (₹1,00,000 ರಿಂದ ₹3,00,000). ಸಾಮಾನ್ಯ/ವಿಶೇಷ ವರ್ಗಕ್ಕೆ 30% ಸಬ್ಸಿಡಿ (ಗರಿಷ್ಠ ₹90,000). ಉದ್ಯಮಶೀಲತೆ ಅಭಿವೃದ್ಧಿ ತರಬೇತಿಯನ್ನು (EDP) ಒಳಗೊಂಡಿದೆ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 55,
+      "state": "Karnataka",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "₹1.5 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Three passport-size photographs of the applicant",
+      "Certificate regarding training/experience of the activity",
+      "Detailed Project Report (DPR) of the business activity",
+      "Ration Card / Voter ID Card",
+      "Annual Income Certificate of the Family (below 1.5 Lakhs)",
+      "Caste Certificate (for SC/ST)",
+      "Quotations for Machinery and other Capital Expenses"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the nearest commercial bank, district cooperative bank, or RRB with required documents.",
+        "Step 2: Obtain and fill out the Udyogini business loan application form.",
+        "Step 3: Submit the completed form along with the business DPR and documents to the bank.",
+        "Step 4: The bank verifies details, requests the corporation for subsidy release, and disburses the loan."
+      ],
+      "hi": [
+        "चरण 1: आवश्यक दस्तावेजों के साथ निकटतम वाणिज्यिक बैंक, जिला सहकारी बैंक या आरआरबी पर जाएं।",
+        "चरण 2: उद्योगिनी व्यवसाय ऋण आवेदन पत्र प्राप्त करें और भरें।",
+        "चरण 3: भरे हुए फॉर्म को व्यावसायिक डीपीआर और दस्तावेजों के साथ बैंक में जमा करें।",
+        "चरण 4: बैंक विवरण सत्यापित करता है, सब्सिडी जारी करने के लिए निगम से अनुरोध करता है, और ऋण वितरित करता है।"
+      ],
+      "mr": [
+        "पायरी 1: आवश्यक कागदपत्रांसह जवळच्या व्यावसायिक बँक, जिल्हा सहकारी बँक किंवा आरआरबीला भेट द्या.",
+        "पायरी 2: उद्योगिनी व्यवसाय कर्ज अर्ज मिळवा आणि भरा.",
+        "पायरी 3: पूर्ण केलेला फॉर्म व्यवसायाच्या डीपीआरसह बँकेत सबमिट करा.",
+        "पायरी 4: बँक तपशील सत्यापित करते, सबसिडी मिळवण्यासाठी महामंडळाकडे विनंती करते आणि कर्ज वितरीत करते."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಗತ್ಯ ದಾಖಲೆಗಳೊಂದಿಗೆ ಹತ್ತಿರದ ವಾಣಿಜ್ಯ ಬ್ಯಾಂಕ್, ಜಿಲ್ಲಾ ಸಹಕಾರಿ ಬ್ಯಾಂಕ್ ಅಥವಾ ಆರ್‌ಆರ್‌ಬಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಉದ್ಯೋಗಿನಿ ವ್ಯವಹಾರ ಸಾಲದ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಭರ್ತಿ ಮಾಡಿದ ಅರ್ಜಿಯನ್ನು ವ್ಯವಹಾರದ ಡಿಪಿಆರ್ ನೊಂದಿಗೆ ಬ್ಯಾಂಕ್‌ಗೆ ಸಲ್ಲಿಸಿ.",
+        "ಹಂತ 4: ಬ್ಯಾಂಕ್ ಪರಿಶೀಲಿಸಿ ಸಬ್ಸಿಡಿ ಬಿಡುಗಡೆ ಮಾಡಲು ನಿಗಮಕ್ಕೆ ವಿನಂತಿಸುತ್ತದೆ ಮತ್ತು ಸಾಲವನ್ನು ಮಂಜೂರು ಮಾಡುತ್ತದೆ."
+      ]
+    },
+    "officialLink": "https://web.umang.gov.in/landing/scheme/detail/udyogini-scheme_us.html",
+    "ageGroup": "18-55",
+    "state": "Karnataka",
+    "amount": "Up to ₹3,00,000 loan support",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "Business Loan",
+      "Subsidy"
+    ],
+    "applyLink": "https://web.umang.gov.in/landing/scheme/detail/udyogini-scheme_us.html",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the nearest commercial bank, district cooperative bank, or RRB with required documents.",
+        "Step 2: Obtain and fill out the Udyogini business loan application form.",
+        "Step 3: Submit the completed form along with the business DPR and documents to the bank.",
+        "Step 4: The bank verifies details, requests the corporation for subsidy release, and disburses the loan."
+      ],
+      "hi": [
+        "चरण 1: आवश्यक दस्तावेजों के साथ निकटतम वाणिज्यिक बैंक, जिला सहकारी बैंक या आरआरबी पर जाएं।",
+        "चरण 2: उद्योगिनी व्यवसाय ऋण आवेदन पत्र प्राप्त करें और भरें।",
+        "चरण 3: भरे हुए फॉर्म को व्यावसायिक डीपीआर and दस्तावेजों के साथ बैंक में जमा करें।",
+        "चरण 4: बैंक विवरण सत्यापित करता है, सब्सिडी जारी करने के लिए निगम से अनुरोध करता है, और ऋण वितरित करता है।"
+      ],
+      "mr": [
+        "पायरी 1: आवश्यक कागदपत्रांसह जवळच्या व्यावसायिक बँक, जिल्हा सहकारी बँक किंवा आरआरबीला भेट द्या.",
+        "पायरी 2: उद्योगिनी व्यवसाय कर्ज अर्ज मिळवा आणि भरा.",
+        "पायरी 3: पूर्ण केलेला फॉर्म व्यवसायाच्या डीपीआरसह बँकेत सबमिट करा.",
+        "पायरी 4: बँक तपशील सत्यापित करते, सबसिडी मिळवण्यासाठी महामंडळाकडे विनंती करते आणि कर्ज वितरीत करते."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಗತ್ಯ ದಾಖಲೆಗಳೊಂದಿಗೆ ಹತ್ತಿರದ ವಾಣಿಜ್ಯ ಬ್ಯಾಂಕ್, ಜಿಲ್ಲಾ ಸಹಕಾರಿ ಬ್ಯಾಂಕ್ ಅಥವಾ ಆರ್‌ಆರ್‌ಬಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಉದ್ಯೋಗಿನಿ ವ್ಯವಹಾರ ಸಾಲದ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಭರ್ತಿ ಮಾಡಿದ ಅರ್ಜಿಯನ್ನು ವ್ಯವಹಾರದ ಡಿಪಿಆರ್ ನೊಂದಿಗೆ ಬ್ಯಾಂಕ್‌ಗೆ ಸಲ್ಲಿಸಿ.",
+        "ಹಂತ 4: ಬ್ಯಾಂಕ್ ಪರಿಶೀಲಿಸಿ ಸಬ್ಸಿಡಿ ಬಿಡುಗಡೆ ಮಾಡಲು ನಿಗಮಕ್ಕೆ ವಿನಂತಿಸುತ್ತದೆ ಮತ್ತು ಸಾಲವನ್ನು ಮಂಜೂರು ಮಾಡುತ್ತದೆ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹3,00,000 loan support",
+      "hi": "₹3,00,000 तक ऋण सहायता",
+      "mr": "₹३,००,००० पर्यंत कर्ज सहाय्य",
+      "kn": "₹3,00,000 ವರೆಗೆ ಸಾಲದ ನೆರವು"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "Business Loan",
+      "Subsidy"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Entrepreneur",
+        "hi": "उद्यमी",
+        "mr": "उद्योजक",
+        "kn": "ಉದ್ಯಮಿ"
+      },
+      {
+        "en": "Business Loan",
+        "hi": "व्यवसाय ऋण",
+        "mr": "व्यवसाय कर्ज",
+        "kn": "ವ್ಯವಹಾರ ಸಾಲ"
+      },
+      {
+        "en": "Subsidy",
+        "hi": "सब्सिडी",
+        "mr": "सबसिडी",
+        "kn": "ಸಬ್ಸಿಡಿ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b9e",
+    "id": "s10",
+    "title": {
+      "en": "New Swarnima Scheme For Women",
+      "hi": "महिलाओं के लिए नई स्वर्णिमा योजना",
+      "mr": "महिलांसाठी नवीन स्वर्णिमा योजना",
+      "kn": "ಮಹಿಳೆಯರಿಗಾಗಿ ಹೊಸ ಸ್ವರ್ಣಿಮಾ ಯೋಜನೆ"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Implemented by the Ministry of Social Justice and Empowerment, Govt. of India. It aims to provide women entrepreneurs from backward classes (OBCs) term loans for self-employment, thereby providing them social and financial security.",
+      "hi": "भारत सरकार के सामाजिक न्याय और अधिकारिता मंत्रालय द्वारा लागू की गई योजना। इसका उद्देश्य पिछड़े वर्ग (OBC) की महिला उद्यमियों को स्वरोजगार के लिए ऋण प्रदान करना है।",
+      "mr": "भारत सरकारच्या सामाजिक न्याय आणि सक्षमीकरण मंत्रालयाने राबविलेली योजना. मागासवर्गीय (OBC) महिला उद्योजकांना स्वयंरोजगारासाठी कर्ज देणे हा याचा उद्देश आहे.",
+      "kn": "ಭಾರತ ಸರ್ಕಾರದ ಸಾಮಾಜಿಕ ನ್ಯಾಯ ಮತ್ತು ಸಬಲೀಕರಣ ಸಚಿವಾಲಯದಿಂದ ಜಾರಿಗೆ ತರಲಾದ ಯೋಜನೆ. ಹಿಂದುಳಿದ ವರ್ಗದ (OBC) ಮಹಿಳಾ ಉದ್ಯಮಿಗಳಿಗೆ ಸ್ವಯಂ ಉದ್ಯೋಗಕ್ಕಾಗಿ ಸಾಲ ನೀಡುವುದು ಇದರ ಉದ್ದೇಶ."
+    },
+    "benefits": {
+      "en": "Provides term loan of up to ₹2,00,000/- at a highly subsidized interest rate of 5% per annum for starting business projects. The beneficiary is not required to invest any personal capital for projects costing up to ₹2,00,000.",
+      "hi": "व्यवसाय शुरू करने के लिए 5% प्रति वर्ष की रियायती ब्याज दर पर ₹2,00,000/- तक का ऋण। ₹2,00,000 तक की परियोजनाओं के लिए किसी व्यक्तिगत पूंजी निवेश की आवश्यकता नहीं है।",
+      "mr": "व्यवसाय सुरू करण्यासाठी वार्षिक ५% सवलतीच्या व्याजदराने ₹२,००,०००/- पर्यंत कर्ज. ₹२,००,००० पर्यंतच्या प्रकल्पांसाठी वैयक्तिक भांडवल गुंतवण्याची गरज नाही.",
+      "kn": "ವ್ಯವಹಾರ ಪ್ರಾರಂಭಿಸಲು ವರ್ಷಕ್ಕೆ ಶೇ. 5 ರ ಬಡ್ಡಿದರದಲ್ಲಿ ₹2,00,000/- ವರೆಗೆ ಸಾಲ ಒದಗಿಸುತ್ತದೆ. ₹2,00,000 ವರೆಗಿನ ಯೋಜನೆಗಳಿಗೆ ಯಾವುದೇ ಸ್ವಂತ ಬಂಡವಾಳ ಹೂಡಿಕೆ ಬೇಕಾಗಿಲ್ಲ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 55,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "₹3 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Proof of Identity (Aadhaar card)",
+      "Ration Card",
+      "Domicile Certificate",
+      "Caste Certificate (OBC Category)",
+      "Passport size Photograph of the applicant"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the nearest State Channelising Agency (SCA) office.",
+        "Step 2: Obtain and fill in the Swarnima Scheme application form.",
+        "Step 3: Mention choice of vocation and training requirements, if any.",
+        "Step 4: Submit form and documents to the SCA office. The loan will be sanctioned after review."
+      ],
+      "hi": [
+        "चरण 1: निकटतम राज्य चैनलाइजिंग एजेंसी (SCA) कार्यालय पर जाएं।",
+        "चरण 2: स्वर्णिमा योजना आवेदन पत्र प्राप्त करें और भरें।",
+        "चरण 3: व्यवसाय की पसंद और प्रशिक्षण आवश्यकताओं (यदि कोई हो) का उल्लेख करें।",
+        "चरण 4: SCA कार्यालय में फॉर्म और दस्तावेज जमा करें। समीक्षा के बाद ऋण स्वीकृत किया जाएगा।"
+      ],
+      "mr": [
+        "पायरी 1: जवळच्या स्टेट चॅनेलायझिंग एजन्सी (SCA) कार्यालयाला भेट द्या.",
+        "पायरी 2: स्वर्णिमा योजना अर्ज मिळवा आणि भरा.",
+        "पायरी 3: व्यवसाय निवड आणि प्रशिक्षण आवश्यकतांचा (असल्यास) उल्लेख करा.",
+        "पायरी 4: फॉर्म आणि कागदपत्रे SCA कार्यालयात सबमिट करा. पडताळणीनंतर कर्ज मंजूर केले जाईल."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಹತ್ತಿರದ ರಾಜ್ಯ ಚಾನೆಲೈಸಿಂಗ್ ಏಜೆನ್ಸಿ (SCA) ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಸ್ವರ್ಣಿಮಾ ಯೋಜನೆಯ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ತರಬೇತಿ ಅಗತ್ಯತೆಗಳಿದ್ದಲ್ಲಿ ನಮೂದಿಸಿ.",
+        "ಹಂತ 4: ಅರ್ಜಿಯನ್ನು ಅಗತ್ಯ ದಾಖಲೆಗಳೊಂದಿಗೆ SCA ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/nssw",
+    "ageGroup": "18-55",
+    "state": "all",
+    "amount": "Up to ₹2,00,000/- loan @ 5%",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "OBC",
+      "Business Loan"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/nssw",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the nearest State Channelising Agency (SCA) office.",
+        "Step 2: Obtain and fill in the Swarnima Scheme application form.",
+        "Step 3: Mention choice of vocation and training requirements, if any.",
+        "Step 4: Submit form and documents to the SCA office. The loan will be sanctioned after review."
+      ],
+      "hi": [
+        "चरण 1: निकटतम राज्य चैनलाइजिंग एजेंसी (SCA) कार्यालय पर जाएं।",
+        "चरण 2: स्वर्णिमा योजना आवेदन पत्र प्राप्त करें और भरें।",
+        "चरण 3: व्यवसाय की पसंद और प्रशिक्षण आवश्यकताओं (यदि कोई हो) का उल्लेख करें।",
+        "चरण 4: SCA कार्यालय में फॉर्म और दस्तावेज जमा करें। समीक्षा के बाद ऋण स्वीकृत किया जाएगा।"
+      ],
+      "mr": [
+        "पायरी 1: जवळच्या स्टेट चॅनेलायझिंग एजन्सी (SCA) कार्यालयाला भेट द्या.",
+        "पायरी 2: स्वर्णिमा योजना अर्ज मिळवा आणि भरा.",
+        "पायरी 3: व्यवसाय निवड आणि प्रशिक्षण आवश्यकतांचा (असल्यास) उल्लेख करा.",
+        "पायरी 4: फॉर्म आणि कागदपत्रे SCA कार्यालयात सबमिट करा. पडताळणीनंतर कर्ज मंजूर केले जाईल."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಹತ್ತಿರದ ರಾಜ್ಯ ಚಾನೆಲೈಸಿಂಗ್ ಏಜೆನ್ಸಿ (SCA) ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಸ್ವರ್ಣಿಮಾ ಯೋಜನೆಯ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ತರಬೇತಿ ಅಗತ್ಯತೆಗಳಿದ್ದಲ್ಲಿ ನಮೂದಿಸಿ.",
+        "ಹಂತ 4: ಅರ್ಜಿಯನ್ನು ಅಗತ್ಯ ದಾಖಲೆಗಳೊಂದಿಗೆ SCA ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹2,00,000/- loan @ 5%",
+      "hi": "₹2,00,000/- तक का ऋण @ 5% दर",
+      "mr": "₹२,००,०००/- पर्यंत कर्ज @ ५% दराने",
+      "kn": "₹2,00,000/- ವರೆಗೆ ಶೇ. 5 ರ ದರದಲ್ಲಿ ಸಾಲ"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "OBC",
+      "Business Loan"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Entrepreneur",
+        "hi": "उद्यमी",
+        "mr": "उद्योजक",
+        "kn": "ಉದ್ಯಮಿ"
+      },
+      {
+        "en": "OBC",
+        "hi": "ओबीसी",
+        "mr": "ओबीसी",
+        "kn": "ಹಿಂದುಳಿದ ವರ್ಗ"
+      },
+      {
+        "en": "Business Loan",
+        "hi": "व्यवसाय ऋण",
+        "mr": "व्यवसाय कर्ज",
+        "kn": "ವ್ಯವಹಾರ ಸಾಲ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0b9f",
+    "id": "s11",
+    "title": {
+      "en": "Women Entrepreneurship Platform (WEP)",
+      "hi": "महिला उद्यमिता मंच (WEP)",
+      "mr": "महिला उद्योजकता मंच (WEP)",
+      "kn": "ಮಹಿಳಾ ಉದ್ಯಮಶೀಲತೆ ವೇದಿಕೆ (WEP)"
+    },
+    "category": "Business",
+    "description": {
+      "en": "An aggregator platform initiated by NITI Aayog (and transitioned to public-private partnership) that hosts information and services relevant to women entrepreneurs, enabling key partnerships, networking, mentorship, funding assistance, and learning courses.",
+      "hi": "नीति आयोग द्वारा शुरू किया गया एक एग्रीगेटर प्लेटफॉर्म जो महिला उद्यमियों को संसाधन, नेटवर्किंग, मेंटरशिप और फंडिंग सहायता प्रदान करता है।",
+      "mr": "नीती आयोगाने सुरू केलेले एक व्यासपीठ जे महिला उद्योजकांना संसाधने, नेटवर्किंग, मार्गदर्शन आणि आर्थिक सहाय्य प्रदान करते.",
+      "kn": "ನೀತಿ ಆಯೋಗವು ಪ್ರಾರಂಭಿಸಿದ ಒಂದು ವೇದಿಕೆಯಾಗಿದ್ದು, ಮಹಿಳಾ ಉದ್ಯಮಿಗಳಿಗೆ ಸಂಪನ್ಮೂಲಗಳು, ನೆಟ್‌ವರ್ಕಿಂಗ್, ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಆರ್ಥಿಕ ಸಹಾಯವನ್ನು ನೀಡುತ್ತದೆ."
+    },
+    "benefits": {
+      "en": "Access to free workshops, mentoring from industry leaders, startup support courses, community forums, funding opportunities, and corporate partnerships.",
+      "hi": "मुफ्त कार्यशालाएं, उद्योग जगत के नेताओं से मेंटरशिप, स्टार्टअप सहायता पाठ्यक्रम, सामुदायिक मंच और फंडिंग के अवसर।",
+      "mr": "मोफत कार्यशाळा, उद्योग क्षेत्रातील तज्ज्ञांकडून मार्गदर्शन, स्टार्टअप अभ्यासक्रम, समुदाय मंच आणि निधीच्या संधी.",
+      "kn": "ಉಚಿತ ಕಾರ್ಯಾಗಾರಗಳು, ಉದ್ಯಮದ ಮುಖಂಡರಿಂದ ಮಾರ್ಗದರ್ಶನ, ಸ್ಟಾರ್ಟ್ಅಪ್ ಕೋರ್ಸ್‌ಗಳು ಮತ್ತು ಹಣಕಾಸಿನ ನೆರವು ಪಡೆಯುವ ಅವಕಾಶ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity Proof (Aadhaar Card/PAN)",
+      "Business Registration details (if existing entrepreneur)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official portal https://wep.gov.in/.",
+        "Step 2: Click on the register/login button.",
+        "Step 3: Register as an entrepreneur by setting up your user profile.",
+        "Step 4: Access community boards, mentorship request forms, and corporate partner programs."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक पोर्टल https://wep.gov.in/ पर जाएं।",
+        "चरण 2: रजिस्टर/लॉगिन बटन पर क्लिक करें।",
+        "चरण 3: अपना यूजर प्रोफाइल बनाकर उद्यमी के रूप में पंजीकरण करें।",
+        "चरण 4: सामुदायिक बोर्डों, मेंटरशिप अनुरोधों और पार्टनर कार्यक्रमों तक पहुंचें।"
+      ],
+      "mr": [
+        "पायरी 1: https://wep.gov.in/ या अधिकृत पोर्टलला भेट द्या.",
+        "पायरी 2: नोंदणी/लॉगिन बटणावर क्लिक करा.",
+        "पायरी 3: आपले प्रोफाइल तयार करून उद्योजक म्हणून नोंदणी करा.",
+        "पायरी 4: समुदाय बोर्ड, मार्गदर्शन विनंती फॉर्म आणि भागीदार कार्यक्रमांमध्ये सहभागी व्हा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ https://wep.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ನೋಂದಣಿ/ಲಾಗಿನ್ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ರಚಿಸುವ ಮೂಲಕ ಉದ್ಯಮಿಯಾಗಿ ನೋಂದಾಯಿಸಿ.",
+        "ಹಂತ 4: ವಿವಿಧ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪ್ರವೇಶಿಸಿ."
+      ]
+    },
+    "officialLink": "https://wep.gov.in/",
+    "ageGroup": "18-65",
+    "state": "all",
+    "amount": "Aggregator Support & Mentorship",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "Mentoring",
+      "Networking"
+    ],
+    "applyLink": "https://wep.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official portal https://wep.gov.in/.",
+        "Step 2: Click on the register/login button.",
+        "Step 3: Register as an entrepreneur by setting up your user profile.",
+        "Step 4: Access community boards, mentorship request forms, and corporate partner programs."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक पोर्टल https://wep.gov.in/ पर जाएं।",
+        "चरण 2: रजिस्टर/लॉगिन बटन पर क्लिक करें।",
+        "चरण 3: अपना यूजर प्रोफाइल बनाकर उद्यमी के रूप में पंजीकरण करें।",
+        "चरण 4: सामुदायिक बोर्डों, मेंटरशिप अनुरोधों और पार्टनर कार्यक्रमों तक पहुंचें।"
+      ],
+      "mr": [
+        "पायरी 1: https://wep.gov.in/ या अधिकृत पोर्टलला भेट द्या.",
+        "पायरी 2: नोंदणी/लॉगिन बटणावर क्लिक करा.",
+        "पायरी 3: आपले प्रोफाइल तयार करून उद्योजक म्हणून नोंदणी करा.",
+        "पायरी 4: समुदाय बोर्ड, मार्गदर्शन विनंती फॉर्म आणि भागीदार कार्यक्रमांमध्ये सहभागी व्हा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ https://wep.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ನೋಂದಣಿ/ಲಾಗಿನ್ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ರಚಿಸುವ ಮೂಲಕ ಉದ್ಯಮಿಯಾಗಿ ನೋಂದಾಯಿಸಿ.",
+        "ಹಂತ 4: ವಿವಿಧ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪ್ರವೇಶಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Aggregator Support & Mentorship",
+      "hi": "सहायता एवं मार्गदर्शन",
+      "mr": "सहाय्य आणि मार्गदर्शन",
+      "kn": "ಸಹಾಯ ಮತ್ತು ಮಾರ್ಗದರ್ಶನ"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "Mentoring",
+      "Networking"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Entrepreneur",
+        "hi": "उद्यमी",
+        "mr": "उद्योजक",
+        "kn": "ಉದ್ಯಮಿ"
+      },
+      {
+        "en": "Mentoring",
+        "hi": "मेंटरशिप",
+        "mr": "मार्गदर्शन",
+        "kn": "ಮಾರ್ಗದರ್ಶನ"
+      },
+      {
+        "en": "Networking",
+        "hi": "नेटवर्किंग",
+        "mr": "नेटवर्किंग",
+        "kn": "ನೆಟ್‌ವರ್ಕಿಂಗ್"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba0",
+    "id": "s12",
+    "title": {
+      "en": "Widow Pension Scheme (IGNWPS)",
+      "hi": "विधवा पेंशन योजना (IGNWPS)",
+      "mr": "विधवा पेन्शन योजना (IGNWPS)",
+      "kn": "ವಿಧವಾ ಪಿಂಚಣಿ ಯೋಜನೆ (IGNWPS)"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "Indira Gandhi National Widow Pension Scheme (IGNWPS) is implemented by the Ministry of Rural Development, Government of India. It is a non-contributory social security pension scheme providing financial assistance to widows from BPL households.",
+      "hi": "ग्रामीण विकास मंत्रालय द्वारा लागू सामाजिक सुरक्षा पेंशन योजना। इसका उद्देश्य गरीबी रेखा से नीचे (BPL) परिवारों की विधवाओं को वित्तीय सहायता प्रदान करना है।",
+      "mr": "ग्रामीण विकास मंत्रालयाने राबविलेली सामाजिक सुरक्षा पेन्शन योजना. दारिद्र्यरेषेखालील (BPL) कुटुंबातील विधवांना आर्थिक मदत करणे हा याचा उद्देश आहे.",
+      "kn": "ಗ್ರಾಮೀಣಾಭಿವೃದ್ಧಿ ಸಚಿವಾಲಯದಿಂದ ಜಾರಿಗೆ ತರಲಾದ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪಿಂಚಣಿ ಯೋಜನೆ. ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳ ವಿಧವೆಯರಿಗೆ ಆರ್ಥಿಕ ಸಹಾಯ ಒದಗಿಸುವುದು ಇದರ ಉದ್ದೇಶ."
+    },
+    "benefits": {
+      "en": "Provides a monthly pension of ₹300/- per month to widows aged between 40 and 79 years. The pension amount increases to ₹500/- per month for widows who are 80 years and above.",
+      "hi": "40 से 79 वर्ष की विधवाओं को ₹300/- प्रति माह पेंशन। 80 वर्ष और उससे अधिक आयु की विधवाओं के लिए पेंशन राशि बढ़कर ₹500/- प्रति माह हो जाती है।",
+      "mr": "४० ते ७९ वर्षे वयोगटातील विधवांना दरमहा ₹३००/- पेन्शन. ८० वर्षे आणि त्याहून अधिक वयाच्या विधवांना दरमहा ₹५००/- पेन्शन दिली जाते.",
+      "kn": "40 ರಿಂದ 79 ವರ್ಷದೊಳಗಿನ ವಿಧವೆಯರಿಗೆ ತಿಂಗಳಿಗೆ ₹300/- ಪಿಂಚಣಿ. 80 ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ವಿಧವೆಯರಿಗೆ ತಿಂಗಳಿಗೆ ₹500/- ಪಿಂಚಣಿ ನೀಡಲಾಗುತ್ತದೆ."
+    },
+    "eligibility": {
+      "minAge": 40,
+      "maxAge": 79,
+      "state": "all",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "Below Poverty Line (BPL)"
+    },
+    "documentsRequired": [
+      "Death Certificate of husband (with name of surviving widow)",
+      "BPL Card",
+      "Age Proof (Birth certificate, school certificate, or ration card)",
+      "Identity Proof",
+      "Bank Account details"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Download the UMANG App or visit the official website https://web.umang.gov.in/web_new/home.",
+        "Step 2: Log in using your mobile number and OTP.",
+        "Step 3: Search for 'NSAP' (National Social Assistance Programme).",
+        "Step 4: Click on 'Apply Online' and fill in basic details.",
+        "Step 5: Choose payment mode, upload photograph, and click 'Submit'."
+      ],
+      "hi": [
+        "चरण 1: UMANG ऐप डाउनलोड करें या आधिकारिक वेबसाइट https://web.umang.gov.in/web_new/home पर जाएं।",
+        "चरण 2: अपने मोबाइल नंबर और ओटीपी का उपयोग करके लॉग इन करें।",
+        "चरण 3: 'NSAP' खोजें।",
+        "चरण 4: 'Apply Online' पर क्लिक करें और बुनियादी विवरण भरें।",
+        "चरण 5: भुगतान मोड चुनें, फोटो अपलोड करें और 'Submit' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: UMANG ॲप डाउनलोड करा किंवा https://web.umang.gov.in/web_new/home या अधिकृत वेबसाइटला भेट द्या.",
+        "पायरी 2: मोबाईल नंबर आणि ओटीपी वापरून लॉग इन करा.",
+        "पायरी 3: 'NSAP' सर्च करा.",
+        "पायरी 4: 'Apply Online' वर क्लिक करा आणि प्राथमिक तपशील भरा.",
+        "पायरी 5: पेन्शन पेमेंट मोड निवडा, फोटो अपलोड करा आणि 'Submit' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: UMANG ಆಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಮತ್ತು ಒಟಿಪಿ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 3: 'NSAP' ಎಂದು ಹುಡುಕಿ.",
+        "ಹಂತ 4: 'Apply Online' ಕ್ಲಿಕ್ ಮಾಡಿ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 5: ಪಾವತಿ ವಿಧಾನವನ್ನು ಆಯ್ಕೆಮಾಡಿ, ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು 'Submit' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/ignwps",
+    "ageGroup": "40-79",
+    "state": "all",
+    "amount": "₹300 - ₹500/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Widow Support"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/ignwps",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Download the UMANG App or visit the official website https://web.umang.gov.in/web_new/home.",
+        "Step 2: Log in using your mobile number and OTP.",
+        "Step 3: Search for 'NSAP' (National Social Assistance Programme).",
+        "Step 4: Click on 'Apply Online' and fill in basic details.",
+        "Step 5: Choose payment mode, upload photograph, and click 'Submit'."
+      ],
+      "hi": [
+        "चरण 1: UMANG ऐप डाउनलोड करें या आधिकारिक वेबसाइट https://web.umang.gov.in/web_new/home पर जाएं।",
+        "चरण 2: अपने मोबाइल नंबर और ओटीपी का उपयोग करके लॉग इन करें।",
+        "चरण 3: 'NSAP' खोजें।",
+        "चरण 4: 'Apply Online' पर क्लिक करें और बुनियादी विवरण भरें।",
+        "चरण 5: भुगतान मोड चुनें, फोटो अपलोड करें और 'Submit' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: UMANG ॲप डाउनलोड करा किंवा https://web.umang.gov.in/web_new/home या अधिकृत वेबसाइटला भेट द्या.",
+        "पायरी 2: मोबाईल नंबर आणि ओटीपी वापरून लॉग इन करा.",
+        "पायरी 3: 'NSAP' सर्च करा.",
+        "पायरी 4: 'Apply Online' वर क्लिक करा आणि प्राथमिक तपशील भरा.",
+        "पायरी 5: पेन्शन पेमेंट मोड निवडा, फोटो अपलोड करा आणि 'Submit' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: UMANG ಆಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಮತ್ತು ಒಟಿಪಿ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 3: 'NSAP' ಎಂದು ಹುಡುಕಿ.",
+        "ಹಂತ 4: 'Apply Online' ಕ್ಲಿಕ್ ಮಾಡಿ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 5: ಪಾವತಿ ವಿಧಾನವನ್ನು ಆಯ್ಕೆಮಾಡಿ, ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು 'Submit' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹300 - ₹500/- per month",
+      "hi": "₹300 - ₹500/- प्रति माह",
+      "mr": "₹३०० - ₹५००/- प्रति महिना",
+      "kn": "ತಿಂಗಳಿಗೆ ₹300 - ₹500/-"
+    },
+    "categoryType": [
+      "Pension",
+      "Widow Support"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Pension",
+        "hi": "पेंशन",
+        "mr": "पेन्शन",
+        "kn": "ಪಿಂಚಣಿ"
+      },
+      {
+        "en": "Widow Support",
+        "hi": "विधवा सहायता",
+        "mr": "विधवा आधार",
+        "kn": "ವಿಧವಾ ನೆರವು"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba1",
+    "id": "s13",
+    "title": {
+      "en": "Widow/Abandoned/Single Woman Pension Scheme",
+      "hi": "विधवा/परित्यक्ता/एकल महिला पेंशन योजना",
+      "mr": "विधवा/परित्यक्त/एकल महिला पेन्शन योजना",
+      "kn": "ವಿಧವಾ/ಪರಿತ್ಯಕ್ತ/ಏಕಾಂಗಿ ಮಹಿಳಾ ಪಿಂಚಣಿ ಯೋಜನೆ"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "A scheme under the Social Welfare and Empowerment Department, Government of Himachal Pradesh, providing financial help to widows, abandoned women, and unmarried women who are unable to support themselves.",
+      "hi": "हिमाचल प्रदेश सरकार के सामाजिक कल्याण एवं अधिकारिता विभाग के तहत विधवाओं, परित्यक्ता और अविवाहित महिलाओं को वित्तीय सहायता देने की योजना।",
+      "mr": "हिमाचल प्रदेश सरकारच्या समाजकल्याण आणि सक्षमीकरण विभागांतर्गत विधवा, परित्यक्त आणि अविवाहित महिलांना आर्थिक मदत देण्याची योजना.",
+      "kn": "ಹಿಮಾಚಲ ಪ್ರದೇಶ ಸರ್ಕಾರದ ಸಮಾಜ ಕಲ್ಯಾಣ ಮತ್ತು ಸಬಲೀಕರಣ ಇಲಾಖೆಯಡಿ ವಿಧವೆಯರು, ಪರಿತ್ಯಕ್ತರು ಮತ್ತು ಅವಿವಾಹಿತ ಮಹಿಳೆಯರಿಗೆ ಆರ್ಥಿಕ ನೆರವು ನೀಡುವ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "Provides financial assistance of ₹1,150/- per month, disbursed directly to the beneficiary's bank account, helping to reduce financial burdens.",
+      "hi": "₹1,150/- प्रति माह की वित्तीय सहायता प्रदान करता है, जिसे सीधे लाभार्थी के बैंक खाते में स्थानांतरित किया जाता है।",
+      "mr": "दरमहा ₹१,१५०/- ची आर्थिक मदत प्रदान करते, जी थेट लाभार्थ्याच्या बँक खात्यात जमा केली जाते.",
+      "kn": "ತಿಂಗಳಿಗೆ ₹1,150/- ಆರ್ಥಿಕ ಸಹಾಯವನ್ನು ಒದಗಿಸುತ್ತದೆ, ಇದನ್ನು ನೇರವಾಗಿ ಫಲಾನುಭವಿಯ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಜಮೆ ಮಾಡಲಾಗುತ್ತದೆ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "₹35,000/annum"
+    },
+    "documentsRequired": [
+      "Recommendation letter from the concerned Gram Panchayat",
+      "Copy of the Parivar Register",
+      "Aadhaar Card",
+      "Bank Account details",
+      "Income Certificate (Family income below ₹35,000)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Obtain or download the application form from your Gram Panchayat or Block Development Office.",
+        "Step 2: Fill in the form with accurate income and personal details.",
+        "Step 3: Attach the recommendation from Gram Panchayat, Copy of Parivar Register, and Income Certificate.",
+        "Step 4: Submit the completed application form to the respective Gram Panchayat or Block Development Office."
+      ],
+      "hi": [
+        "चरण 1: अपने ग्राम पंचायत या ब्लॉक विकास कार्यालय से आवेदन पत्र प्राप्त या डाउनलोड करें।",
+        "चरण 2: सटीक आय और व्यक्तिगत विवरण के साथ फॉर्म भरें।",
+        "चरण 3: ग्राम पंचायत की सिफारिश, परिवार रजिस्टर की प्रति और आय प्रमाण पत्र संलग्न करें।",
+        "चरण 4: भरे हुए आवेदन पत्र को संबंधित ग्राम पंचायत या ब्लॉक विकास कार्यालय में जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: ग्रामपंचायत किंवा ब्लॉक विकास कार्यालयातून अर्ज मिळवा किंवा डाउनलोड करा.",
+        "पायरी 2: अचूक वैयक्तिक आणि उत्पन्न तपशीलांसह फॉर्म भरा.",
+        "पायरी 3: ग्रामपंचायतीची शिफारस, परिवार रजिस्टरची प्रत आणि उत्पन्न प्रमाणपत्र जोडा.",
+        "पायरी 4: पूर्ण केलेला अर्ज संबंधित ग्रामपंचायत किंवा ब्लॉक विकास कार्यालयात सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ನಿಮ್ಮ ಗ್ರಾಮ ಪಂಚಾಯತ್ ಅಥವಾ ಬ್ಲಾಕ್ ಅಭಿವೃದ್ಧಿ ಕಚೇರಿಯಿಂದ ಅರ್ಜಿಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 2: ನಿಖರವಾದ ಆದಾಯ ಮತ್ತು ವೈಯಕ್ತಿಕ ವಿವರಗಳೊಂದಿಗೆ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಗ್ರಾಮ ಪಂಚಾಯತ್ ಶಿಫಾರಸು ಪತ್ರ, ಪರಿವಾರ ರಿಜಿಸ್ಟರ್ ಪ್ರತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಭರ್ತಿ ಮಾಡಿದ ಅರ್ಜಿಯನ್ನು ಗ್ರಾಮ ಪಂಚಾಯತ್ ಅಥವಾ ಬ್ಲಾಕ್ ಅಭಿವೃದ್ಧಿ ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/wdenp",
+    "ageGroup": "18-65",
+    "state": "Himachal Pradesh",
+    "amount": "₹1,150/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Livelihood Support"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/wdenp",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Obtain or download the application form from your Gram Panchayat or Block Development Office.",
+        "Step 2: Fill in the form with accurate income and personal details.",
+        "Step 3: Attach the recommendation from Gram Panchayat, Copy of Parivar Register, and Income Certificate.",
+        "Step 4: Submit the completed application form to the respective Gram Panchayat or Block Development Office."
+      ],
+      "hi": [
+        "चरण 1: अपने ग्राम पंचायत या ब्लॉक विकास कार्यालय से आवेदन पत्र प्राप्त या डाउनलोड करें।",
+        "चरण 2: सटीक आय और व्यक्तिगत विवरण के साथ फॉर्म भरें।",
+        "चरण 3: ग्राम पंचायत की सिफारिश, परिवार रजिस्टर की प्रति और आय प्रमाण पत्र संलग्न करें।",
+        "चरण 4: भरे हुए आवेदन पत्र को संबंधित ग्राम पंचायत या ब्लॉक विकास कार्यालय में जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: ग्रामपंचायत किंवा ब्लॉक विकास कार्यालयातून अर्ज मिळवा किंवा डाउनलोड करा.",
+        "पायरी 2: अचूक वैयक्तिक आणि उत्पन्न तपशीलांसह फॉर्म भरा.",
+        "पायरी 3: ग्रामपंचायतीची शिफारस, परिवार रजिस्टरची प्रत आणि उत्पन्न प्रमाणपत्र जोडा.",
+        "पायरी 4: पूर्ण केलेला अर्ज संबंधित ग्रामपंचायत किंवा ब्लॉक विकास कार्यालयात सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ನಿಮ್ಮ ಗ್ರಾಮ ಪಂಚಾಯತ್ ಅಥವಾ ಬ್ಲಾಕ್ ಅಭಿವೃದ್ಧಿ ಕಚೇರಿಯಿಂದ ಅರ್ಜಿಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 2: ನಿಖರವಾದ ಆದಾಯ ಮತ್ತು ವೈಯಕ್ತಿಕ ವಿವರಗಳೊಂದಿಗೆ ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಆಯಾ ಗ್ರಾಮ ಪಂಚಾಯತ್ ಶಿಫಾರಸು ಪತ್ರ, ಪರಿವಾರ ರಿಜಿಸ್ಟರ್ ಪ್ರತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಭರ್ತಿ ಮಾಡಿದ ಅರ್ಜಿಯನ್ನು ಗ್ರಾಮ ಪಂಚಾಯತ್ ಅಥವಾ ಬ್ಲಾಕ್ ಅಭಿವೃದ್ಧಿ ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹1,150/- per month",
+      "hi": "₹1,150/- प्रति माह",
+      "mr": "₹१,१५०/- प्रति महिना",
+      "kn": "ತಿಂಗಳಿಗೆ ₹1,150/-"
+    },
+    "categoryType": [
+      "Pension",
+      "Livelihood Support"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Pension",
+        "hi": "पेंशन",
+        "mr": "पेन्शन",
+        "kn": "ಪಿಂಚಣಿ"
+      },
+      {
+        "en": "Livelihood Support",
+        "hi": "आजीविका सहायता",
+        "mr": "उपजीविका आधार",
+        "kn": "ಜೀವನೋಪಾಯ ನೆರವು"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba2",
+    "id": "s14",
+    "title": {
+      "en": "Financial Assistance To Poor & Needy Widow Women",
+      "hi": "गरीब और जरूरतमंद विधवा महिलाओं को वित्तीय सहायता",
+      "mr": "गरीब आणि गरजू विधवा महिलांना आर्थिक मदत",
+      "kn": "ಬಡ ಮತ್ತು ನಿರ್ಗತಿಕ ವಿಧವಾ ಮಹಿಳೆಯರಿಗೆ ಆರ್ಥಿಕ ಸಹಾಯ"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "Implemented by the Department of Social Welfare, Govt. of Manipur. Aims to provide social security to widows in the age group of 18-40 years who are not covered under the Indira Gandhi National Widow Pension Scheme (IGNWPS).",
+      "hi": "मणिपुर सरकार के समाज कल्याण विभाग द्वारा लागू योजना। इसका उद्देश्य 18-40 वर्ष के आयु वर्ग की उन विधवाओं को सामाजिक सुरक्षा प्रदान करना है जो राष्ट्रीय विधवा पेंशन योजना के अंतर्गत नहीं आती हैं।",
+      "mr": "मणिपूर सरकारच्या समाजकल्याण विभागाद्वारे राबविली जाणारी योजना. राष्ट्रीय विधवा पेन्शन योजनेच्या कक्षेत न येणाऱ्या १८-४० वयोगटातील विधवांना सामाजिक सुरक्षा प्रदान करणे हा याचा उद्देश आहे.",
+      "kn": "ಮಣಿಪುರ ಸರ್ಕಾರದ ಸಮಾಜ ಕಲ್ಯಾಣ ಇಲಾಖೆಯಿಂದ ಜಾರಿಗೆ ತರಲಾದ ಯೋಜನೆ. ರಾಷ್ಟ್ರೀಯ ವಿಧವಾ ಪಿಂಚಣಿ ಯೋಜನೆಯಡಿ ಒಳಗೊಳ್ಳದ 18-40 ವಯಸ್ಸಿನ ವಿಧವೆಯರಿಗೆ ಸಾಮಾಜಿಕ ಭದ್ರತೆ ಒದಗಿಸುವುದು ಇದರ ಉದ್ದೇಶ."
+    },
+    "benefits": {
+      "en": "Provides financial assistance at the rate of ₹2,00,0/- per annum per widow (₹2,000 per annum). Relief is continued every year subject to funds availability.",
+      "hi": "प्रति विधवा ₹2,000/- प्रति वर्ष की दर से वित्तीय सहायता प्रदान करता है। फंड की उपलब्धता के आधार पर हर साल सहायता जारी रखी जाती है।",
+      "mr": "प्रति विधवा दरवर्षी ₹२,०००/- दराने आर्थिक मदत देते. निधीच्या उपलब्धतेवर आधारित दरवर्षी मदत दिली जाते.",
+      "kn": "ಪ್ರತಿ ವಿಧವೆಗೆ ವರ್ಷಕ್ಕೆ ₹2,000/- ದರದಲ್ಲಿ ಆರ್ಥಿಕ ಸಹಾಯವನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 40,
+      "state": "Manipur",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "Below Poverty Line (BPL)"
+    },
+    "documentsRequired": [
+      "Residential / Domicile Certificate of Manipur (minimum 5 years residence)",
+      "Details of the Bank Account",
+      "Aadhaar Card",
+      "Proof of Identity",
+      "Proof of Age / Date of Birth",
+      "Marriage Certificate",
+      "Death Certificate of the Husband",
+      "Ration Card / BPL Card"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Download application form from the official website www.socialwelfare.nic.in or collect from District Social Welfare Offices / CDPO.",
+        "Step 2: Fill in the mandatory fields of the Application Form.",
+        "Step 3: Attach self-attested documents (Aadhaar, death certificate, BPL card).",
+        "Step 4: Submit the form to the Office of the District Social Welfare Officer concerned."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक वेबसाइट www.socialwelfare.nic.in से आवेदन पत्र डाउनलोड करें या जिला समाज कल्याण कार्यालयों / सीडीपीओ से एकत्र करें।",
+        "चरण 2: आवेदन पत्र के अनिवार्य क्षेत्रों को भरें।",
+        "चरण 3: स्व-सत्यापित दस्तावेज (आधार, मृत्यु प्रमाण पत्र, बीपीएल कार्ड) संलग्न करें।",
+        "चरण 4: संबंधित जिला समाज कल्याण अधिकारी के कार्यालय में फॉर्म जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: www.socialwelfare.nic.in या अधिकृत वेबसाइटवरून अर्ज डाउनलोड करा किंवा जिल्हा समाजकल्याण कार्यालय/सीडीपीओ येथून मिळवा.",
+        "पायरी 2: अर्जातील आवश्यक तपशील भरा.",
+        "पायरी 3: स्व-साक्षांकित कागदपत्रे (आधार, मृत्यू दाखला, बीपीएल कार्ड) जोडा.",
+        "पायरी 4: संबंधित जिल्हा समाजकल्याण अधिकारी कार्यालयात अर्ज सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ www.socialwelfare.nic.in ನಿಂದ ಅರ್ಜಿಯನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಕಚೇರಿಗಳಿಂದ ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 2: ಅರ್ಜಿಯ ಕಡ್ಡಾಯ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಸ್ವಯಂ ದೃಢೀಕರಿಸಿದ ದಾಖಲೆಗಳನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಆಯಾ ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಅಧಿಕಾರಿಯ ಕಚೇರಿಗೆ ಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/fapnw",
+    "ageGroup": "18-40",
+    "state": "Manipur",
+    "amount": "₹2,000/- per year",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Livelihood Support"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/fapnw",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Download application form from the official website www.socialwelfare.nic.in or collect from District Social Welfare Offices / CDPO.",
+        "Step 2: Fill in the mandatory fields of the Application Form.",
+        "Step 3: Attach self-attested documents (Aadhaar, death certificate, BPL card).",
+        "Step 4: Submit the form to the Office of the District Social Welfare Officer concerned."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक वेबसाइट www.socialwelfare.nic.in से आवेदन पत्र डाउनलोड करें या जिला समाज कल्याण कार्यालयों / सीडीपीओ से एकत्र करें।",
+        "चरण 2: आवेदन पत्र के अनिवार्य क्षेत्रों को भरें।",
+        "चरण 3: स्व-सत्यापित दस्तावेज (आधार, मृत्यु प्रमाण पत्र, बीपीएल कार्ड) संलग्न करें।",
+        "चरण 4: संबंधित जिला समाज कल्याण अधिकारी के कार्यालय में फॉर्म जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: www.socialwelfare.nic.in या अधिकृत वेबसाइटवरून अर्ज डाउनलोड करा किंवा जिल्हा समाजकल्याण कार्यालय/सीडीपीओ येथून मिळवा.",
+        "पायरी 2: अर्जातील आवश्यक तपशील भरा.",
+        "पायरी 3: स्व-साक्षांकित कागदपत्रे (आधार, मृत्यू दाखला, बीपीएल कार्ड) जोडा.",
+        "पायरी 4: संबंधित जिल्हा समाजकल्याण अधिकारी कार्यालयात अर्ज सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ www.socialwelfare.nic.in ನಿಂದ ಅರ್ಜಿಯನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಕಚೇರಿಗಳಿಂದ ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 2: ಅರ್ಜಿಯ ಕಡ್ಡಾಯ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 3: ಸ್ವಯಂ ದೃಢೀಕರಿಸಿದ ದಾಖಲೆಗಳನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಆಯಾ ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಅಧಿಕಾರಿಯ ಕಚೇರಿಗೆ ಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹2,000/- per year",
+      "hi": "₹2,000/- प्रति वर्ष",
+      "mr": "₹२,०००/- प्रति वर्ष",
+      "kn": "ವರ್ಷಕ್ಕೆ ₹2,000/-"
+    },
+    "categoryType": [
+      "Pension",
+      "Livelihood Support"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Pension",
+        "hi": "पेंशन",
+        "mr": "पेन्शन",
+        "kn": "ಪಿಂಚಣಿ"
+      },
+      {
+        "en": "Livelihood Support",
+        "hi": "आजीविका सहायता",
+        "mr": "उपजीविका आधार",
+        "kn": "ಜೀವನೋಪಾಯ ನೆರವು"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba3",
+    "id": "s15",
+    "title": {
+      "en": "NCW Women Helpline",
+      "hi": "NCW महिला हेल्पलाइन",
+      "mr": "NCW महिला हेल्पलाइन",
+      "kn": "NCW ಮಹಿಳಾ ಸಹಾಯವಾಣಿ"
+    },
+    "category": "Health",
+    "description": {
+      "en": "The NCW Women Helpline is intended to provide a Digital Complaint Registration System and support for women affected by violence or in distress across India, operated directly from the premises of the National Commission for Women, New Delhi.",
+      "hi": "हिंसा से प्रभावित या संकट में फंसी महिलाओं के लिए डिजिटल शिकायत पंजीकरण प्रणाली और मनोवैज्ञानिक सहायता प्रदान करने के लिए राष्ट्रीय महिला आयोग (NCW) द्वारा संचालित हेल्पलाइन।",
+      "mr": "हिंसेने बाधित किंवा अडचणीत असलेल्या महिलांसाठी डिजिटल तक्रार नोंदणी प्रणाली आणि मानसिक सहाय्य प्रदान करण्यासाठी राष्ट्रीय महिला आयोगाद्वारे (NCW) चालवली जाणारी हेल्पलाईन.",
+      "kn": "ಹಿಂಸಾಚಾರಕ್ಕೆ ಒಳಗಾದ ಅಥವಾ ತೊಂದರೆಯಲ್ಲಿರುವ ಮಹಿಳೆಯರಿಗಾಗಿ ಡಿಜಿಟಲ್ ದೂರು ನೋಂದಣಿ ಮತ್ತು ಸಹಾಯ ಒದಗಿಸಲು ರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ಆಯೋಗದಿಂದ (NCW) ನಡೆಸಲ್ಪಡುವ ಸಹಾಯವಾಣಿ."
+    },
+    "benefits": {
+      "en": "24/7 Digital Complaint Registration, psychological counseling by trained professionals, and referrals to appropriate agencies like police, hospitals, District Legal Service Authorities, and One Stop Crisis Centres.",
+      "hi": "24/7 डिजिटल शिकायत पंजीकरण, प्रशिक्षित पेशेवरों द्वारा मनोवैज्ञानिक परामर्श और पुलिस, अस्पतालों और वन स्टॉप क्राइसिस सेंटरों में रेफरल सहायता।",
+      "mr": "२४/७ डिजिटल तक्रार नोंदणी, प्रशिक्षित समुपदेशकांकडून मानसिक समुपदेशन आणि पोलीस, रुग्णालये आणि वन स्टॉप क्रायसिस सेंटरकडे रेफरल सेवा.",
+      "kn": "24/7 ಡಿಜಿಟಲ್ ದೂರು ನೋಂದಣಿ, ತರಬೇತಿ ಪಡೆದ ಸಮಾಲೋಚಕರಿಂದ ಮಾನಸಿಕ ಸಮಾಲೋಚನೆ ಮತ್ತು ಪೊಲೀಸ್, ಆಸ್ಪತ್ರೆ ಹಾಗೂ ಒನ್ ಸ್ಟಾಪ್ ಕ್ರೈಸಿಸ್ ಸೆಂಟರ್‌ಗಳಿಗೆ ಉಲ್ಲೇಖ ನೆರವು."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "None (Walk-in / Telephone / Digital registration)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official helpline portal https://ncwwomenhelpline.ncw.gov.in/.",
+        "Step 2: Dial the helpline number directly or click on the link to register a digital complaint.",
+        "Step 3: Provide details of distress, location, and contact information.",
+        "Step 4: NCW counsellors will reach out to facilitate support and police/medical referrals."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक हेल्पलाइन पोर्टल https://ncwwomenhelpline.ncw.gov.in/ पर जाएं।",
+        "चरण 2: हेल्पलाइन नंबर पर सीधे डायल करें या डिजिटल शिकायत दर्ज करने के लिए लिंक पर क्लिक करें।",
+        "चरण 3: संकट, स्थान और संपर्क जानकारी का विवरण प्रदान करें।",
+        "चरण 4: सहायता और पुलिस/चिकित्सा रेफरल की सुविधा के लिए NCW सलाहकार संपर्क करेंगे।"
+      ],
+      "mr": [
+        "पायरी 1: अधिकृत हेल्पलाईन पोर्टल https://ncwwomenhelpline.ncw.gov.in/ ला भेट द्या.",
+        "पायरी 2: थेट हेल्पलाईन नंबर डायल करा किंवा डिजिटल तक्रार नोंदवण्यासाठी लिंकवर क्लिक करा.",
+        "पायरी 3: अडचणीचे तपशील, स्थान आणि संपर्क माहिती प्रदान करा.",
+        "पायरी 4: मदत आणि पोलीस/वैद्यकीय सेवा मिळवण्यासाठी NCW समुपदेशक संपर्क साधतील."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ಸಹಾಯವಾಣಿ ಪೋರ್ಟಲ್ https://ncwwomenhelpline.ncw.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಸಹಾಯವಾಣಿ ಸಂಖ್ಯೆಗೆ ನೇರವಾಗಿ ಕರೆ ಮಾಡಿ ಅಥವಾ ಡಿಜಿಟಲ್ ದೂರು ನೋಂದಾಯಿಸಲು ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+        "ಹಂತ 3: ತೊಂದರೆಯ ವಿವರಗಳು, ಸ್ಥಳ ಮತ್ತು ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿ.",
+        "ಹಂತ 4: ಸಹಾಯ ಮತ್ತು ಪೊಲೀಸ್/ವೈದ್ಯಕೀಯ ಉಲ್ಲೇಖಗಳನ್ನು ಸುಗಮಗೊಳಿಸಲು NCW ಸಮಾಲೋಚಕರು ಸಂಪರ್ಕಿಸುತ್ತಾರೆ."
+      ]
+    },
+    "officialLink": "https://ncwwomenhelpline.ncw.gov.in/",
+    "ageGroup": "18-100",
+    "state": "all",
+    "amount": "Free 24/7 Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Helpline",
+      "Safety",
+      "Support"
+    ],
+    "applyLink": "https://ncwwomenhelpline.ncw.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official helpline portal https://ncwwomenhelpline.ncw.gov.in/.",
+        "Step 2: Dial the helpline number directly or click on the link to register a digital complaint.",
+        "Step 3: Provide details of distress, location, and contact information.",
+        "Step 4: NCW counsellors will reach out to facilitate support and police/medical referrals."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक हेल्पलाइन पोर्टल https://ncwwomenhelpline.ncw.gov.in/ पर जाएं।",
+        "चरण 2: हेल्पलाइन नंबर पर सीधे डायल करें या डिजिटल शिकायत दर्ज करने के लिए लिंक पर क्लिक करें।",
+        "चरण 3: संकट, स्थान और संपर्क जानकारी का विवरण प्रदान करें।",
+        "चरण 4: सहायता और पुलिस/चिकित्सा रेफरल की सुविधा के लिए NCW सलाहकार संपर्क करेंगे।"
+      ],
+      "mr": [
+        "पायरी 1: अधिकृत हेल्पलाईन पोर्टल https://ncwwomenhelpline.ncw.gov.in/ ला भेट द्या.",
+        "पायरी 2: थेट हेल्पलाईन नंबर डायल करा किंवा डिजिटल तक्रार नोंदवण्यासाठी लिंकवर क्लिक करा.",
+        "पायरी 3: अडचणीचे तपशील, स्थान आणि संपर्क माहिती प्रदान करा.",
+        "पायरी 4: मदत आणि पोलीस/वैद्यकीय सेवा मिळवण्यासाठी NCW समुपदेशक संपर्क साधतील."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ಸಹಾಯವಾಣಿ ಪೋರ್ಟಲ್ https://ncwwomenhelpline.ncw.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಸಹಾಯವಾಣಿ ಸಂಖ್ಯೆಗೆ ನೇರವಾಗಿ ಕರೆ ಮಾಡಿ ಅಥವಾ ಡಿಜಿಟಲ್ ದೂರು ನೋಂದಾಯಿಸಲು ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+        "ಹಂತ 3: ತೊಂದರೆಯ ವಿವರಗಳು, ಸ್ಥಳ ಮತ್ತು ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿ.",
+        "ಹಂತ 4: ಸಹಾಯ ಮತ್ತು ಪೊಲೀಸ್/ವೈದ್ಯಕೀಯ ಉಲ್ಲೇಖಗಳನ್ನು ಸುಗಮಗೊಳಿಸಲು NCW ಸಮಾಲೋಚಕರು ಸಂಪರ್ಕಿಸುತ್ತಾರೆ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free 24/7 Support",
+      "hi": "नि:शुल्क 24/7 सहायता",
+      "mr": "मोफत २४/७ मदत",
+      "kn": "ಉಚಿತ 24/7 ಸಹಾಯ"
+    },
+    "categoryType": [
+      "Helpline",
+      "Safety",
+      "Support"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Helpline",
+        "hi": "हेल्पलाइन",
+        "mr": "हेल्पलाईन",
+        "kn": "ಸಹಾಯವಾಣಿ"
+      },
+      {
+        "en": "Safety",
+        "hi": "सुरक्षा",
+        "mr": "सुरक्षा",
+        "kn": "ಸುರಕ್ಷತೆ"
+      },
+      {
+        "en": "Support",
+        "hi": "सहायता",
+        "mr": "मदत",
+        "kn": "ಬೆಂಬಲ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba4",
+    "id": "s16",
+    "title": {
+      "en": "Scheme for Relief and Rehabilitation of Women Acid Victims",
+      "hi": "महिला एसिड पीड़ितों के राहत और पुनर्वास की योजना",
+      "mr": "महिला ॲसिड पीडितांच्या मदत आणि पुनर्वसन योजना",
+      "kn": "ಮಹಿಳಾ ಆಸಿಡ್ ಸಂತ್ರಸ್ತರ ಪರಿಹಾರ ಮತ್ತು ಪುನರ್ವಸತಿ ಯೋಜನೆ"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Launched by the Women and Child Development Department, Government of Haryana. Aims to provide immediate financial and medical assistance to girl/women acid attack victims who are residents of Haryana.",
+      "hi": "हरियाणा सरकार के महिला एवं बाल विकास विभाग द्वारा शुरू की गई योजना। इसका उद्देश्य हरियाणा के निवासी एसिड हमला पीड़ितों को वित्तीय और चिकित्सा सहायता प्रदान करना है।",
+      "mr": "हरियाणा सरकारच्या महिला आणि बाल विकास विभागाने सुरू केलेली योजना. हरियाणातील ॲसिड हल्ल्यातील पीडितांना आर्थिक आणि वैद्यकीय मदत देणे हा याचा उद्देश आहे.",
+      "kn": "ಹರಿಯಾಣ ಸರ್ಕಾರದ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆಯಿಂದ ಪ್ರಾರಂಭಿಸಲಾದ ಯೋಜನೆ. ಹರಿಯಾಣದ ನಿವಾಸಿ ಆಸಿಡ್ ದಾಳಿ ಸಂತ್ರಸ್ತರಿಗೆ ಆರ್ಥಿಕ ಮತ್ತು ವೈದ್ಯಕೀಯ ಸಹಾಯ ಒದಗಿಸುವುದು ಇದರ ಉದ್ದೇಶ."
+    },
+    "benefits": {
+      "en": "100% free medical treatment at government and approved hospitals. Immediate ad-hoc relief of ₹1,00,000/- is provided (₹25,000/- immediately by Deputy Commissioner and ₹75,000/- within 15 days by WCD Department).",
+      "hi": "सरकारी और अनुमोदित अस्पतालों में 100% मुफ्त चिकित्सा उपचार। ₹1,00,000/- की तत्काल तदर्थ राहत (₹25,000/- तुरंत और ₹75,000/- 15 दिनों के भीतर)।",
+      "mr": "सरकारी आणि मान्यताप्राप्त रुग्णालयांमध्ये १००% मोफत वैद्यकीय उपचार. ₹१,००,०००/- ची त्वरित मदत (₹२५,०००/- त्वरित आणि ₹७५,०००/- १५ दिवसांच्या आत).",
+      "kn": "ಸರ್ಕಾರಿ ಮತ್ತು ಅನುಮೋದಿತ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ 100% ಉಚಿತ ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ. ತಕ್ಷಣದ ₹1,00,000/- ಆರ್ಥಿಕ ನೆರವು (ತಕ್ಷಣವೇ ₹25,000/- ಮತ್ತು 15 ದಿನಗಳಲ್ಲಿ ₹75,000/-)."
+    },
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "state": "Haryana",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity Proof (Aadhaar Card)",
+      "Parivar Pehchaan Patra (PPP) Number",
+      "Medical Certificate from the Medical Board",
+      "Court Order (if applicable)",
+      "Copy of FIR"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official Antyodaya-SARAL Portal.",
+        "Step 2: Register on the portal if not already registered.",
+        "Step 3: Log in using your email ID, password, and OTP.",
+        "Step 4: Go to 'Scheme/Services list' and search for 'Relief and Rehabilitation of Women Acid Victims'.",
+        "Step 5: Fill in details in the online application form and click 'Submit'."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक अंत्योदय-सरल (Antyodaya-SARAL) पोर्टल पर जाएं।",
+        "चरण 2: यदि पहले से पंजीकृत नहीं हैं, तो पोर्टल पर पंजीकरण करें।",
+        "चरण 3: अपने ईमेल आईडी, पासवर्ड और ओटीपी का उपयोग करके लॉग इन करें।",
+        "चरण 4: 'Scheme/Services list' पर जाएं और 'Relief and Rehabilitation of Women Acid Victims' खोजें।",
+        "चरण 5: ऑनलाइन आवेदन पत्र में विवरण भरें और 'Submit' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: अधिकृत अंत्योदय-सरल (Antyodaya-SARAL) पोर्टलला भेट द्या.",
+        "पायरी 2: नोंदणी केली नसेल तर पोर्टलवर नोंदणी करा.",
+        "पायरी 3: ईमेल आयडी, पासवर्ड आणि ओटीपी वापरून लॉग इन करा.",
+        "पायरी 4: 'Scheme/Services list' वर जा आणि 'Relief and Rehabilitation of Women Acid Victims' शोधा.",
+        "पायरी 5: ऑनलाइन अर्जामध्ये तपशील भरा आणि 'Submit' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ಅಂತ್ಯೋದಯ-ಸರಳ (Antyodaya-SARAL) ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: 'Scheme/Services list' ನಲ್ಲಿ 'Relief and Rehabilitation of Women Acid Victims' ಎಂದು ಹುಡುಕಿ.",
+        "ಹಂತ 5: ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು 'Submit' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/srrwav",
+    "ageGroup": "0-100",
+    "state": "Haryana",
+    "amount": "₹1,00,000/- + Free Medical Care",
+    "deadline": "30 days from incident",
+    "tags": [
+      "Medical Assistance",
+      "Welfare"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/srrwav",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official Antyodaya-SARAL Portal.",
+        "Step 2: Register on the portal if not already registered.",
+        "Step 3: Log in using your email ID, password, and OTP.",
+        "Step 4: Go to 'Scheme/Services list' and search for 'Relief and Rehabilitation of Women Acid Victims'.",
+        "Step 5: Fill in details in the online application form and click 'Submit'."
+      ],
+      "hi": [
+        "चरण 1: आधिकारिक अंत्योदय-सरल (Antyodaya-SARAL) पोर्टल पर जाएं।",
+        "चरण 2: यदि पहले से पंजीकृत नहीं हैं, तो पोर्टल पर पंजीकरण करें।",
+        "चरण 3: अपने ईमेल आईडी, पासवर्ड और ओटीपी का उपयोग करके लॉग इन करें।",
+        "चरण 4: 'Scheme/Services list' पर जाएं और 'Relief and Rehabilitation of Women Acid Victims' खोजें।",
+        "चरण 5: ऑनलाइन आवेदन पत्र में विवरण भरें और 'Submit' पर क्लिक करें।"
+      ],
+      "mr": [
+        "पायरी 1: अधिकृत अंत्योदय-सरल (Antyodaya-SARAL) पोर्टलला भेट द्या.",
+        "पायरी 2: नोंदणी केली नसेल तर पोर्टलवर नोंदणी करा.",
+        "पायरी 3: ईमेल आयडी, पासवर्ड आणि ओटीपी वापरून लॉग इन करा.",
+        "पायरी 4: 'Scheme/Services list' वर जा आणि 'Relief and Rehabilitation of Women Acid Victims' शोधा.",
+        "पायरी 5: ऑनलाइन अर्जामध्ये तपशील भरा आणि 'Submit' वर क्लिक करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಅಧಿಕೃತ ಅಂತ್ಯೋದಯ-ಸರಳ (Antyodaya-SARAL) ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಿ.",
+        "ಹಂತ 3: ನಿಮ್ಮ ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗ್ ಇನ್ ಮಾಡಿ.",
+        "ಹಂತ 4: 'Scheme/Services list' ನಲ್ಲಿ 'Relief and Rehabilitation of Women Acid Victims' ಎಂದು ಹುಡುಕಿ.",
+        "ಹಂತ 5: ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು 'Submit' ಕ್ಲಿಕ್ ಮಾಡಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹1,00,000/- + Free Medical Care",
+      "hi": "₹1,00,000/- + मुफ्त चिकित्सा उपचार",
+      "mr": "₹१,००,०००/- + मोफत वैद्यकीय उपचार",
+      "kn": "₹1,00,000/- + ಉಚಿತ ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ"
+    },
+    "categoryType": [
+      "Medical Assistance",
+      "Welfare"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Medical Assistance",
+        "hi": "चिकित्सा सहायता",
+        "mr": "वैद्यकीय मदत",
+        "kn": "ವೈದ್ಯಕೀಯ ನೆರವು"
+      },
+      {
+        "en": "Welfare",
+        "hi": "कल्याण",
+        "mr": "कल्याण",
+        "kn": "ಕಲ್ಯಾಣ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba5",
+    "id": "s17",
+    "title": {
+      "en": "Financial Assistance To Women And Girl Acid Victims",
+      "hi": "महिला और बालिका एसिड पीड़ितों को वित्तीय सहायता",
+      "mr": "महिला आणि मुलगी ॲसिड पीडितांना आर्थिक मदत",
+      "kn": "ಮಹಿಳಾ ಮತ್ತು ಆಸಿಡ್ ಸಂತ್ರಸ್ತ ಬಾಲಕಿಯರಿಗೆ ಆರ್ಥिक ಸಹಾಯ"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Social security scheme launched by the Social Justice & Empowerment Department, Govt. of Haryana, providing financial assistance in the form of a monthly pension to women/girls residing in Haryana who have suffered disfigurement or disability due to acid attacks.",
+      "hi": "हरियाणा सरकार के सामाजिक न्याय और अधिकारिता विभाग द्वारा शुरू की गई सामाजिक सुरक्षा योजना।",
+      "mr": "हरियाणा सरकारच्या सामाजिक न्याय आणि सक्षमीकरण विभागाद्वारे राबवली जाणारी सामाजिक सुरक्षा योजना.",
+      "kn": "ಹರಿಯಾಣ ಸರ್ಕಾರದ ಸಾಮಾಜಿಕ ನ್ಯಾಯ ಮತ್ತು ಸಬಲೀಕರಣ ಇಲಾಖೆಯಿಂದ ಜಾರಿಗೆ ತರಲಾದ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "Provides monthly pension in multiples of the monthly 'Divyang Pension' of Haryana: 2.5 times for 40%-50% disability; 3.5 times for 51%-60% disability; and 4.5 times for disability greater than 61%.",
+      "hi": "हरियाणा की 'दिव्यांग पेंशन' के गुणकों में मासिक पेंशन प्रदान करता है: 40%-50% विकलांगता के लिए 2.5 गुना; 51%-60% विकलांगता के लिए 3.5 गुना; और 61% से अधिक विकलांगता के लिए 4.5 गुना पेंशन।",
+      "mr": "हरियाणाच्या 'दिव्यांग पेन्शन' च्या पटीत मासिक पेन्शन प्रदान करते: ४०%-५०% अपंगत्वासाठी २.५ पट; ५१%-६०% अपंगत्वासाठी ३.५ पट; आणि ६१% पेक्षा जास्त अपंगत्वासाठी ४.५ पट पेन्शन.",
+      "kn": "ಹರಿಯಾಣದ 'ದಿವ್ಯಾಂಗ ಪಿಂಚಣಿ' ಆಧಾರದ ಮೇಲೆ ಮಾಸಿಕ ಪಿಂಚಣಿ ನೀಡುತ್ತದೆ: ಶೇ. 40-50 ರಷ್ಟು ಅಂಗವೈಕಲ್ಯಕ್ಕೆ 2.5 ಪಟ್ಟು, ಶೇ. 51-60 ರಷ್ಟು ಅಂಗವೈಕಲ್ಯಕ್ಕೆ 3.5 ಪಟ್ಟು ಮತ್ತು ಶೇ. 61 ಕ್ಕಿಂತ ಹೆಚ್ಚಿದ್ದರೆ 4.5 ಪಟ್ಟು ಪಿಂಚಣಿ ಒದಗಿಸುತ್ತದೆ."
+    },
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "state": "Haryana",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Medical certificate issued by the Medical Board at the District level",
+      "Copy of the FIR/Complaint",
+      "Copy of application made to or benefit received from the WCD Department"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the Office or Sub-Office of the District Social Welfare Officer (DSWO) during office hours.",
+        "Step 2: Request the application form for 'Financial Assistance to Women and Girl Acid Victims'.",
+        "Step 3: Fill in mandatory fields, paste passport size photograph, and attach self-attested documents.",
+        "Step 4: Submit the completed application form to the DSWO and collect an acknowledgment receipt."
+      ],
+      "hi": [
+        "चरण 1: कार्यालय समय के दौरान जिला समाज कल्याण अधिकारी (DSWO) के कार्यालय या उप-कार्यालय में जाएं।",
+        "चरण 2: 'Financial Assistance to Women and Girl Acid Victims' का आवेदन पत्र मांगें।",
+        "चरण 3: अनिवार्य फ़ील्ड भरें, पासपोर्ट आकार का फोटो चिपकाएं और स्व-सत्यापित दस्तावेज संलग्न करें।",
+        "चरण 4: भरे हुए आवेदन पत्र को DSWO के पास जमा करें और पावती रसीद प्राप्त करें।"
+      ],
+      "mr": [
+        "पायरी 1: कार्यालयीन वेळेत जिल्हा समाजकल्याण अधिकारी (DSWO) कार्यालयाला भेट द्या.",
+        "पायरी 2: 'Financial Assistance to Women and Girl Acid Victims' चा अर्ज मिळवा.",
+        "पायरी 3: आवश्यक माहिती भरा, पासपोर्ट आकाराचा फोटो चिकटवा आणि कागदपत्रे जोडा.",
+        "पायरी 4: पूर्ण केलेला अर्ज DSWO कडे सबमिट करा आणि पावती रसीद मिळवा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಅಧಿಕಾರಿಯ (DSWO) ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'Financial Assistance to Women and Girl Acid Victims' ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 3: ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ, ಫೋಟೋ ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಭರ್ತಿ ಮಾಡಿದ ಅರ್ಜಿಯನ್ನು DSWO ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಿ ಸ್ವೀಕೃತಿ ರಸೀದಿ ಪಡೆಯಿರಿ."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/fawgav",
+    "ageGroup": "0-100",
+    "state": "Haryana",
+    "amount": "Monthly Pension based on disability",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Welfare"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/fawgav",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the Office or Sub-Office of the District Social Welfare Officer (DSWO) during office hours.",
+        "Step 2: Request the application form for 'Financial Assistance to Women and Girl Acid Victims'.",
+        "Step 3: Fill in mandatory fields, paste passport size photograph, and attach self-attested documents.",
+        "Step 4: Submit the completed application form to the DSWO and collect an acknowledgment receipt."
+      ],
+      "hi": [
+        "चरण 1: कार्यालय समय के दौरान जिला समाज कल्याण अधिकारी (DSWO) के कार्यालय या उप-कार्यालय में जाएं।",
+        "चरण 2: 'Financial Assistance to Women and Girl Acid Victims' का आवेदन पत्र मांगें।",
+        "चरण 3: अनिवार्य फ़ील्ड भरें, पासपोर्ट आकार का फोटो चिपकाएं और स्व-सत्यापित दस्तावेज संलग्न करें।",
+        "चरण 4: भरे हुए आवेदन पत्र को DSWO के पास जमा करें और पावती रसीद प्राप्त करें।"
+      ],
+      "mr": [
+        "पायरी 1: कार्यालयीन वेळेत जिल्हा समाजकल्याण अधिकारी (DSWO) कार्यालयाला भेट द्या.",
+        "पायरी 2: 'Financial Assistance to Women and Girl Acid Victims' चा अर्ज मिळवा.",
+        "पायरी 3: आवश्यक माहिती भरा, पासपोर्ट आकाराचा फोटो चिकटवा आणि कागदपत्रे जोडा.",
+        "पायरी 4: पूर्ण केलेला अर्ज DSWO कडे सबमिट करा आणि पावती रसीद मिळवा."
+      ],
+      "kn": [
+        "ಹಂತ 1:  ಜಿಲ್ಲಾ ಸಮಾಜ ಕಲ್ಯಾಣ ಅಧಿಕಾರಿಯ (DSWO) ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+        "ಹಂತ 2: 'Financial Assistance to Women and Girl Acid Victims' ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 3: ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ, ಫೋಟೋ ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಲಗತ್ತಿಸಿ.",
+        "ಹಂತ 4: ಭರ್ತಿ ಮಾಡಿದ ಅರ್ಜಿಯನ್ನು DSWO ಕಚೇರಿಗೆ ಸಲ್ಲಿಸಿ ಸ್ವೀಕೃತಿ ರಸೀದಿ ಪಡೆಯಿರಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Monthly Pension based on disability",
+      "hi": "विकलांगता के आधार पर मासिक पेंशन",
+      "mr": "अपंगत्वाच्या आधारे मासिक पेन्शन",
+      "kn": "ಅಂಗವೈಕಲ್ಯ ಆಧಾರಿತ ಮಾಸಿಕ ಪಿಂಚಣಿ"
+    },
+    "categoryType": [
+      "Pension",
+      "Welfare"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Pension",
+        "hi": "पेंशन",
+        "mr": "पेन्शन",
+        "kn": "ಪಿಂಚಣಿ"
+      },
+      {
+        "en": "Welfare",
+        "hi": "कल्याण",
+        "mr": "कल्याण",
+        "kn": "ಕಲ್ಯಾಣ"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6a354186395bda208c5c0ba6",
+    "id": "s18",
+    "title": {
+      "en": "Working Women Hostel",
+      "hi": "कामकाजी महिला छात्रावास",
+      "mr": "नोकरी करणाऱ्या महिलांचे वसतिगृह",
+      "kn": "ಕೆಲಸ ಮಾಡುವ ಮಹಿಳೆಯರ ವಸತಿ ನಿಲಯ"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "A scheme by the Government of India to promote availability of safe and conveniently located accommodation for working women, along with daycare facilities for their children where possible.",
+      "hi": "कामकाजी महिलाओं के लिए सुरक्षित और आसानी से सुलभ आवास की उपलब्धता को बढ़ावा देने के लिए भारत सरकार की योजना।",
+      "mr": "नोकरी करणाऱ्या महिलांसाठी सुरक्षित आणि सोयीस्कर ठिकाणी निवासस्थानाची उपलब्धता वाढवण्यासाठी भारत सरकारचा उपक्रम.",
+      "kn": "ಕೆಲಸ ಮಾಡುವ ಮಹಿಳೆಯರಿಗಾಗಿ ಸುರಕ್ಷಿತ ಮತ್ತು ಸೂಕ್ತವಾದ ಸ್ಥಳದಲ್ಲಿ ವಸತಿ ಸೌಕರ್ಯವನ್ನು ಒದಗಿಸಲು ಭಾರತ ಸರ್ಕಾರದ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "Provides secure hostel stay (up to 3 years, extendable to 5 years). Children up to 18 (girls) and 5 (boys) can stay. Rent is capped at 15% of salary for single room, 10% for double room, and 7.5% for dormitory.",
+      "hi": "सुरक्षित छात्रावास में रहने की सुविधा (3 वर्ष तक)। वेतन का अधिकतम 15% (एकल कमरा) या 10% (डबल कमरा) किराया। बच्चों के लिए डे केयर सेंटर की सुविधा।",
+      "mr": "सुरक्षित वसतिगृह निवास (३ वर्षांपर्यंत). वेतनाच्या जास्तीत जास्त १५% (सिंगल रूम) किंवा १०% (डबल रूम) भाडे. मुलांसाठी डे केअर सेंटरची सुविधा.",
+      "kn": "ಸುರಕ್ಷಿತ ವಸತಿ ನಿಲಯ ಸೌಲಭ್ಯ (3 ವರ್ಷಗಳವರೆಗೆ). ಸಂಬಳದ ಗರಿಷ್ಠ ಶೇ. 15 (ಸಿಂಗಲ್ ರೂಮ್) ಅಥವಾ ಶೇ. 10 (ಡಬಲ್ ರೂಮ್) ಬಾಡಿಗೆ. ಮಕ್ಕಳಿಗಾಗಿ ಡೇ ಕೇರ್ ಸೆಂಟರ್ ಸೌಲಭ್ಯ."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "₹6 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Income Certificate / Emoluments Proof (salary below ₹50,000 pm in metros or ₹35,000 pm in other cities)",
+      "Identity Proof (Aadhaar/PAN/Voter ID)",
+      "Address Proof",
+      "Sponsor Letter or Employment Certificate from Employer",
+      "Passport size Photographs"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Locate an approved Working Women Hostel in your city (run by State Govt, WDC, or registered NGO).",
+        "Step 2: Obtain the hostel admission application form from the hostel management.",
+        "Step 3: Fill in employment details, income details, and checkup/reference info.",
+        "Step 4: Submit form along with salary certificate and employment proof to the hostel manager."
+      ],
+      "hi": [
+        "चरण 1: अपने शहर में एक स्वीकृत कामकाजी महिला छात्रावास का पता लगाएं (राज्य सरकार, WDC या पंजीकृत NGO द्वारा संचालित)।",
+        "चरण 2: छात्रावास प्रबंधन से छात्रावास प्रवेश आवेदन पत्र प्राप्त करें।",
+        "चरण 3: रोजगार विवरण, आय विवरण और संदर्भ जानकारी भरें।",
+        "चरण 4: वेतन प्रमाण पत्र और रोजगार प्रमाण के साथ फॉर्म छात्रावास प्रबंधक को जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: तुमच्या शहरातील अधिकृत कामगार महिला वसतिगृह शोधा (राज्य सरकार, WDC किंवा नोंदणीकृत NGO द्वारे चालवले जाणारे).",
+        "पायरी 2: वसतिगृह प्रशासनाकडून अर्ज मिळवा.",
+        "पायरी 3: रोजगार तपशील, उत्पन्न तपशील आणि संदर्भ माहिती भरा.",
+        "पायरी 4: वेतन प्रमाणपत्र आणि रोजगार पुराव्यासह अर्ज वसतिगृह व्यवस्थापकाकडे सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ನಿಮ್ಮ ನಗರದಲ್ಲಿ ಅನುಮೋದಿತ ವಸತಿ ನಿಲಯವನ್ನು ಗುರುತಿಸಿ (ಸರ್ಕಾರ ಅಥವಾ ನೋಂದಾಯಿತ ಎನ್‌ಜಿಒ ನಡೆಸುವ ವಸತಿ ನಿಲಯ).",
+        "ಹಂತ 2: ವಸತಿ ನಿಲಯದ ಆಡಳಿತದಿಂದ ಪ್ರವೇಶ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 3: ಉದ್ಯೋಗ ವಿವರಗಳು, ಆದಾಯದ ವಿವರಗಳು ಮತ್ತು ರೆಫರೆನ್ಸ್ ಮಾಹಿತಿಯನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 4: ವೇತನ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಉದ್ಯೋಗದ ಪುರಾವೆಯೊಂದಿಗೆ ಅರ್ಜಿಯನ್ನು ವಸತಿ ನಿಲಯದ ವ್ಯವಸ್ಥಾಪಕರಿಗೆ ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "officialLink": "https://wcdhry.gov.in/schemes-for-women/working-women-hostel/",
+    "ageGroup": "18-65",
+    "state": "all",
+    "amount": "Affordable Housing stay",
+    "deadline": "Continuous",
+    "tags": [
+      "Housing",
+      "Working Women"
+    ],
+    "applyLink": "https://wcdhry.gov.in/schemes-for-women/working-women-hostel/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Locate an approved Working Women Hostel in your city (run by State Govt, WDC, or registered NGO).",
+        "Step 2: Obtain the hostel admission application form from the hostel management.",
+        "Step 3: Fill in employment details, income details, and checkup/reference info.",
+        "Step 4: Submit form along with salary certificate and employment proof to the hostel manager."
+      ],
+      "hi": [
+        "चरण 1: अपने शहर में एक स्वीकृत कामकाजी महिला छात्रावास का पता लगाएं (राज्य सरकार, WDC या पंजीकृत NGO द्वारा संचालित)।",
+        "चरण 2: छात्रावास प्रबंधन से छात्रावास प्रवेश आवेदन पत्र प्राप्त करें।",
+        "चरण 3: रोजगार विवरण, आय विवरण और संदर्भ जानकारी भरें।",
+        "चरण 4: वेतन प्रमाण पत्र और रोजगार प्रमाण के साथ फॉर्म छात्रावास प्रबंधक को जमा करें।"
+      ],
+      "mr": [
+        "पायरी 1: तुमच्या शहरातील अधिकृत कामगार महिला वसतिगृह शोधा (राज्य सरकार, WDC किंवा नोंदणीकृत NGO द्वारे चालवले जाणारे).",
+        "पायरी 2: वसतिगृह प्रशासनाकडून अर्ज मिळवा.",
+        "पायरी 3: रोजगार तपशील, उत्पन्न तपशील आणि संदर्भ माहिती भरा.",
+        "पायरी 4: वेतन प्रमाणपत्र आणि रोजगार पुराव्यासह अर्ज वसतिगृह व्यवस्थापकाकडे सबमिट करा."
+      ],
+      "kn": [
+        "ಹಂತ 1: ನಿಮ್ಮ ನಗರದಲ್ಲಿ ಅನುಮೋದಿತ ವಸತಿ ನಿಲಯವನ್ನು ಗುರುತಿಸಿ (ಸರ್ಕಾರ ಅಥವಾ ನೋಂದಾಯಿತ ಎನ್‌ಜಿಒ ನಡೆಸುವ ವಸತಿ ನಿಲಯ).",
+        "ಹಂತ 2: ವಸತಿ ನಿಲಯದ ಆಡಳಿತದಿಂದ ಪ್ರವೇಶ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.",
+        "ಹಂತ 3: ಉದ್ಯೋಗ ವಿವರಗಳು, ಆದಾಯದ ವಿವರಗಳು ಮತ್ತು ರೆಫರೆನ್ಸ್ ಮಾಹಿತಿಯನ್ನು ಭರ್ತಿ ಮಾಡಿ.",
+        "ಹಂತ 4: ವೇತನ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಉದ್ಯೋಗದ ಪುರಾವೆಯೊಂದಿಗೆ ಅರ್ಜಿಯನ್ನು ವಸತಿ ನಿಲಯದ ವ್ಯವಸ್ಥಾಪಕರಿಗೆ ಸಲ್ಲಿಸಿ."
+      ]
+    },
+    "amountLocale": {
+      "en": "Affordable Housing stay",
+      "hi": "किफायती आवास प्रवास",
+      "mr": "परवडणारे गृहनिर्माण वास्तव्य",
+      "kn": "ಕೈಗೆಟುಕುವ ವಸತಿ ಸೌಕರ್ಯ"
+    },
+    "categoryType": [
+      "Housing",
+      "Working Women"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Housing",
+        "hi": "आवास",
+        "mr": "गृहनिर्माण",
+        "kn": "ವಸತಿ"
+      },
+      {
+        "en": "Working Women",
+        "hi": "कामकाजी महिला",
+        "mr": "नोकरी करणाऱ्या महिला",
+        "kn": "ಕೆಲಸ ಮಾಡುವ ಮಹಿಳೆಯರು"
+      }
+    ],
+    "__v": 0
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1776138560370",
+    "name": "nisha",
+    "email": "nisha.mane@gmail.com",
+    "password": "$2b$10$YvlZs/kfhMsDYAhAogwy.eLv67Fnv27JQDNEWx447prCBHuJma9H6",
+    "createdAt": "2026-04-14T03:49:20.370Z",
+    "career": "Medical & Healthcare",
+    "quizCompleted": true,
+    "quizDate": "2026-06-19T17:21:33.475Z",
+    "topRecommendations": [
+      "Government Services"
+    ],
+    "confidenceScores": {
+      "Government Services": 100
+    },
+    "quizScores": {}
+  },
+  {
+    "id": "1776139013561",
+    "name": "Disha",
+    "email": "disha.chougule@gmail.com",
+    "password": "$2b$10$7S1vpQpXfDrHwQaPBskz9uioXPydR5S8Qvpn.I.v3/PdgWchlNsaa",
+    "role": "admin",
+    "createdAt": "2026-04-14T03:56:53.561Z"
+  },
+  {
+    "id": "1776316719844",
+    "name": "Riya ",
+    "email": "riya.ingale@gmail.com",
+    "password": "$2b$10$gnvI7eDOUpGhTcNteyIB2eL/4IT6tUQtuTW4659SLTK6IWpNCr3j.",
+    "role": "admin",
+    "createdAt": "2026-04-16T05:18:39.844Z"
+  },
+  {
+    "id": "1780473125709",
+    "name": "sejal balikai",
+    "email": "sejal@123",
+    "password": "$2b$10$iIDuHEcN9.Bh7SHKerkF9OEX7EsIpimLeYHPE5PWW.jN/.b8yIkny",
+    "role": "user",
+    "createdAt": "2026-06-03T07:52:05.709Z",
+    "career": "Medical & Healthcare",
+    "quizCompleted": true,
+    "quizDate": "2026-06-09T12:21:15.604Z",
+    "topRecommendations": [
+      "Medical & Healthcare",
+      "Education & Teaching",
+      "Sports & Fitness"
+    ],
+    "confidenceScores": {
+      "Medical & Healthcare": 66,
+      "Education & Teaching": 66,
+      "Sports & Fitness": 66
+    },
+    "quizScores": {
+      "Technology & IT": 0,
+      "Medical & Healthcare": 7,
+      "Government Services": 1,
+      "Business & Entrepreneurship": 4,
+      "Education & Teaching": 7,
+      "Arts & Creativity": 6,
+      "Sports & Fitness": 7,
+      "Law & Legal Services": 0,
+      "Finance & Commerce": 1,
+      "Agriculture & Rural Development": 1,
+      "Beauty & Wellness": 3,
+      "Homemaker & Home Business": 4,
+      "Media & Communication": 7,
+      "Defence & Security": 2,
+      "Social Service & NGO": 1,
+      "Hospitality & Tourism": 0,
+      "Research & Science": 0,
+      "Skilled Trades & Vocational Careers": 1,
+      "Technology": 0,
+      "Medical": 7,
+      "Education": 7,
+      "Sports": 7,
+      "Business": 4,
+      "Entrepreneurship": 4,
+      "Government Jobs": 1,
+      "Finance": 1,
+      "Law": 0,
+      "Arts": 6,
+      "Media": 7,
+      "Agriculture": 1,
+      "Research": 0,
+      "Defence": 2,
+      "NGO & Social Work": 1,
+      "Skilled Trades": 1
+    }
+  },
+  {
+    "id": "1780473531638",
+    "name": "Nisha Mane",
+    "email": "nisha@123",
+    "password": "$2b$10$PfvlLV2iWzvVsLMGOuZQQufkmGjKDgLnShFk49qn0JoNmj8XBPmQC",
+    "role": "admin",
+    "createdAt": "2026-06-03T07:58:51.638Z"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id": "s31",
+    "title": { "en": "Mission Shakti", "hi": "मिशन शक्ति" },
+    "category": "Health",
+    "description": { "en": "An integrated women empowerment umbrella scheme by Ministry of WCD containing Sambal (safety) and Samarthya (empowerment) verticals, covering One Stop Centres, WHL, and PMMVY." },
+    "benefits": { "en": "Welfare services, emergency helpline response, legal/medical aid, and maternity cash incentives up to ₹6,000." },
+    "eligibility": { "minAge": 0, "maxAge": 100, "state": "all", "country": "India", "category": "Health", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Aadhaar card", "MCP card (for maternal benefits)", "Proof of address"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Contact national helpline 181 or visit nearest One Stop Centre.",
+        "Step 2: Submit details of requirement/maternity case.",
+        "Step 3: Access shelter, clinical aid, or DBT cash benefits directly."
+      ]
+    },
+    "officialLink": "https://missionshakti.wcd.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Welfare, Safety & Financial Support",
+    "deadline": "Continuous",
+    "tags": ["Welfare", "Safety", "Maternity", "Support"],
+    "applyLink": "https://missionshakti.wcd.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Contact national helpline 181 or visit nearest One Stop Centre.",
+        "Step 2: Submit details of requirement/maternity case.",
+        "Step 3: Access shelter, clinical aid, or DBT cash benefits directly."
+      ]
+    },
+    "amountLocale": { "en": "Welfare, Safety & Financial Support" },
+    "categoryType": ["Welfare", "Safety", "Maternity", "Support"]
+  },
+  {
+    "id": "s32",
+    "title": { "en": "Working Women Hostel Scheme", "hi": "कार्यरत महिला छात्रावास योजना" },
+    "category": "Employment",
+    "description": { "en": "Provides safe, secure, and conveniently located hostel accommodation for working women, along with daycare facilities for their children where possible." },
+    "benefits": { "en": "Affordable rent (capped at 15% of salary for single room), stay up to 3-5 years, and daycare center access for children." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Employment", "gender": "female", "incomeLimit": "₹6 Lakhs/annum" },
+    "documentsRequired": ["Salary Certificate", "Identity Proof", "Employment Certificate / Sponsor Letter", "Passport size photograph"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Locate an approved Working Women Hostel in your city.",
+        "Step 2: Submit admission application form to the hostel manager.",
+        "Step 3: Provide employment certificate and salary certificate for rent calculations."
+      ]
+    },
+    "officialLink": "https://wcdhry.gov.in/schemes-for-women/working-women-hostel/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Affordable Housing",
+    "deadline": "Continuous",
+    "tags": ["Housing", "Working Women"],
+    "applyLink": "https://wcdhry.gov.in/schemes-for-women/working-women-hostel/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Locate an approved Working Women Hostel in your city.",
+        "Step 2: Submit admission application form to the hostel manager.",
+        "Step 3: Provide employment certificate and salary certificate for rent calculations."
+      ]
+    },
+    "amountLocale": { "en": "Affordable Housing" },
+    "categoryType": ["Housing", "Working Women"]
+  },
+  {
+    "id": "s33",
+    "title": { "en": "Shakti se Sashaktikaran", "hi": "शक्ति से सशक्तिकरण" },
+    "category": "Skill Development",
+    "description": { "en": "Livelihood and sports support initiative for women athletes and coaches in India, providing financial impetus and grassroot sports leagues." },
+    "benefits": { "en": "Financial support, specialized coaching, training resources, and sports equipment support for elite women athletes." },
+    "eligibility": { "minAge": 10, "maxAge": 50, "state": "all", "country": "India", "category": "Skill Development", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Sports certificate", "Aadhaar Card", "Bank account"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the portal of Ministry of Youth Affairs and Sports.",
+        "Step 2: Submit details of your sports accomplishments and achievements.",
+        "Step 3: Apply for training support or elite athlete allowance."
+      ]
+    },
+    "officialLink": "https://missionshakti.wcd.gov.in/",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "Training & Livelihood Support",
+    "deadline": "Continuous",
+    "tags": ["Sports", "Athletes", "Training"],
+    "applyLink": "https://missionshakti.wcd.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the portal of Ministry of Youth Affairs and Sports.",
+        "Step 2: Submit details of your sports accomplishments and achievements.",
+        "Step 3: Apply for training support or elite athlete allowance."
+      ]
+    },
+    "amountLocale": { "en": "Training & Livelihood Support" },
+    "categoryType": ["Sports", "Athletes", "Training"]
+  },
+  {
+    "id": "s34",
+    "title": { "en": "National Sports Development Scheme (Khelo India)", "hi": "खेलो इंडिया राष्ट्रीय खेल विकास कार्यक्रम" },
+    "category": "Skill Development",
+    "description": { "en": "A national programme to promote sports culture, establish KISCE training centers, and identify young talent to provide scholarships." },
+    "benefits": { "en": "Scholarship and funding of ₹6.28 Lakh per annum per athlete (including ₹10,000/month out-of-pocket allowance) and training in accredited academies." },
+    "eligibility": { "minAge": 5, "maxAge": 25, "state": "all", "country": "India", "category": "Skill Development", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Age proof", "Sports achievement certificates", "School study certificate", "Passport photo"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register on the Khelo India Portal.",
+        "Step 2: Upload sports achievements and create profile.",
+        "Step 3: Shortlisted athletes undergo fitness and talent search trials."
+      ]
+    },
+    "officialLink": "https://www.pib.gov.in",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "₹6.28 Lakhs/annum per athlete",
+    "deadline": "Continuous",
+    "tags": ["Sports", "Scholarship", "Training"],
+    "applyLink": "https://www.pib.gov.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register on the Khelo India Portal.",
+        "Step 2: Upload sports achievements and create profile.",
+        "Step 3: Shortlisted athletes undergo fitness and talent search trials."
+      ]
+    },
+    "amountLocale": { "en": "₹6.28 Lakhs/annum per athlete" },
+    "categoryType": ["Sports", "Scholarship", "Training"]
+  },
+  {
+    "id": "s35",
+    "title": { "en": "ASMITA Leagues", "hi": "अस्मिता खेल लीग" },
+    "category": "Skill Development",
+    "description": { "en": "Achieving Sports Milestone by Inspiring Women Through Action (ASMITA) Leagues promotes sports participation and competitive exposure among Indian women athletes." },
+    "benefits": { "en": "Access to national women's sports leagues, specialized training, and business loan support via SBI Asmita." },
+    "eligibility": { "minAge": 10, "maxAge": 65, "state": "all", "country": "India", "category": "Skill Development", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Sports achievement details / Business registration documents", "Aadhaar Card"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official MyGov campaign link or Stand-Up India/SBI portal.",
+        "Step 2: Fill application form and upload sports credentials.",
+        "Step 3: Apply for financial or coaching support."
+      ]
+    },
+    "officialLink": "https://www.mygov.in/campaigns/asmita-khelo-india-women-league",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Sports Funding & Low-Interest Loans",
+    "deadline": "Continuous",
+    "tags": ["Sports", "Athletes", "Business Loan"],
+    "applyLink": "https://www.mygov.in/campaigns/asmita-khelo-india-women-league",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official MyGov campaign link or Stand-Up India/SBI portal.",
+        "Step 2: Fill application form and upload sports credentials.",
+        "Step 3: Apply for financial or coaching support."
+      ]
+    },
+    "amountLocale": { "en": "Sports Funding & Low-Interest Loans" },
+    "categoryType": ["Sports", "Athletes", "Business Loan"]
+  },
+  {
+    "id": "s36",
+    "title": { "en": "DAY-NRLM (Livelihoods Mission)", "hi": "दीनदयाल अंत्योदय योजना - एनआरएलएम" },
+    "category": "Business",
+    "description": { "en": "Organizes rural poor women into Self Help Groups (SHGs) and provides revolving and capitalization funds to access financial services and sustainable livelihoods." },
+    "benefits": { "en": "Capacity building, revolving funds (up to ₹30,000), Community Investment Funds (up to ₹2.5 Lakh), bank linkage, and interest subventions." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "Poor Household" },
+    "documentsRequired": ["Aadhaar Card", "Proof of Identity", "Ration Card", "Passport size photo"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register on the Aajeevika NRLM portal.",
+        "Step 2: Create a Self Help Group profile with bank account details.",
+        "Step 3: Access revolving funds and capitalization support directly."
+      ]
+    },
+    "officialLink": "https://nrlm.gov.in/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Revolving & Capitalization Funds",
+    "deadline": "Continuous",
+    "tags": ["SHGs", "Rural Livelihoods", "Welfare"],
+    "applyLink": "https://nrlm.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register on the Aajeevika NRLM portal.",
+        "Step 2: Create a Self Help Group profile with bank account details.",
+        "Step 3: Access revolving funds and capitalization support directly."
+      ]
+    },
+    "amountLocale": { "en": "Revolving & Capitalization Funds" },
+    "categoryType": ["SHGs", "Rural Livelihoods", "Welfare"]
+  },
+  {
+    "id": "s37",
+    "title": { "en": "Self Help Groups (SHGs)", "hi": "स्वयं सहायता समूह (SHG)" },
+    "category": "Business",
+    "description": { "en": "Small informal groups of 10 to 20 poor women who save regularly and lend internally to meet emergency needs, supported by NABARD." },
+    "benefits": { "en": "Access to bank accounts, interest-earning savings, internal credit, and leadership capacity building." },
+    "eligibility": { "minAge": 18, "maxAge": 100, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Savings books", "Minutes book", "Account opening details"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Contact local animator or NGO to form a group of 10-20 women.",
+        "Step 2: Set up savings accounts at the nearest commercial or cooperative bank.",
+        "Step 3: Begin regular savings and meetings."
+      ]
+    },
+    "officialLink": "https://en.vikaspedia.in/viewcontent/social-welfare/rural-poverty-alleviation-1/self-help-groups/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Savings and Internal Lending",
+    "deadline": "Continuous",
+    "tags": ["Savings", "Micro Finance", "Women Upliftment"],
+    "applyLink": "https://en.vikaspedia.in/viewcontent/social-welfare/rural-poverty-alleviation-1/self-help-groups/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Contact local animator or NGO to form a group of 10-20 women.",
+        "Step 2: Set up savings accounts at the nearest commercial or cooperative bank.",
+        "Step 3: Begin regular savings and meetings."
+      ]
+    },
+    "amountLocale": { "en": "Savings and Internal Lending" },
+    "categoryType": ["Savings", "Micro Finance", "Women Upliftment"]
+  },
+  {
+    "id": "s38",
+    "title": { "en": "Mahila Kisan Sashaktikaran Pariyojana (MKSP)", "hi": "महिला किसान सशक्तिकरण परियोजना" },
+    "category": "Employment",
+    "description": { "en": "A sub-component of DAY-NRLM to empower women in agriculture by making systematic investments to enhance their participation and sustainable livelihoods." },
+    "benefits": { "en": "Skill training in sustainable agriculture, distribution of gender-friendly tools, capacity building, and market linkages." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Employment", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["SHG membership details", "Proof of agricultural work", "Aadhaar Card"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register through your local SHG federation.",
+        "Step 2: Submit details of your agricultural activities.",
+        "Step 3: Access training and tools distribution programs."
+      ]
+    },
+    "officialLink": "https://mksp.nrlm.gov.in/portal/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Training & Livelihood Grants",
+    "deadline": "Continuous",
+    "tags": ["Agriculture", "Rural Women", "Training", "Livelihood"],
+    "applyLink": "https://mksp.nrlm.gov.in/portal/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register through your local SHG federation.",
+        "Step 2: Submit details of your agricultural activities.",
+        "Step 3: Access training and tools distribution programs."
+      ]
+    },
+    "amountLocale": { "en": "Training & Livelihood Grants" },
+    "categoryType": ["Agriculture", "Rural Women", "Training", "Livelihood"]
+  },
+  {
+    "id": "s39",
+    "title": { "en": "Asmita: Menstrual Hygiene Scheme (Maharashtra)", "hi": "अस्मिता योजना (महाराष्ट्र)" },
+    "category": "Health",
+    "description": { "en": "Promotes menstrual hygiene among rural girls and women in Maharashtra by providing subsidized sanitary napkins through Self Help Groups." },
+    "benefits": { "en": "Subsidized sanitary napkins distributed to school-going girls (₹5 pack) and rural women (subsidized cost), and hygiene awareness." },
+    "eligibility": { "minAge": 11, "maxAge": 50, "state": "Maharashtra", "country": "India", "category": "Health", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Aadhaar Card", "School Student ID (for girls)"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: SHGs register on the Asmita portal.",
+        "Step 2: Girls/women can buy subsidized packs from local SHGs or Anganwadis."
+      ]
+    },
+    "officialLink": "https://regasmita.mahaonline.gov.in/",
+    "ageGroup": "student",
+    "state": "Maharashtra",
+    "amount": "Subsidized Sanitary Napkins",
+    "deadline": "Continuous",
+    "tags": ["Hygiene", "Health Awareness", "Rural Women"],
+    "applyLink": "https://regasmita.mahaonline.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: SHGs register on the Asmita portal.",
+        "Step 2: Girls/women can buy subsidized packs from local SHGs or Anganwadis."
+      ]
+    },
+    "amountLocale": { "en": "Subsidized Sanitary Napkins" },
+    "categoryType": ["Hygiene", "Health Awareness", "Rural Women"]
+  },
+  {
+    "id": "s40",
+    "title": { "en": "Lakhpati Didi Yojana", "hi": "लखपति दीदी योजना" },
+    "category": "Business",
+    "description": { "en": "An initiative under DAY-NRLM to enable women in Self Help Groups (SHGs) to earn a sustainable annual household income above ₹1 Lakh through micro-enterprise support." },
+    "benefits": { "en": "Capitalization support up to ₹20 Lakh per SHG, revolving funds, CIF support, low-interest bank loans, and marketing facilities (Saras centers)." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "₹1 Lakh/annum" },
+    "documentsRequired": ["SHG passbook", "CIF details", "Aadhaar Card", "Income certificate"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Join a local Self Help Group associated with NRLM.",
+        "Step 2: Engage in income-generating activities and apply at block level.",
+        "Step 3: Obtain marketing or micro-loan capitalization support."
+      ]
+    },
+    "officialLink": "https://lakhpatididi.gov.in/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Capitalization & Livelihood support",
+    "deadline": "Continuous",
+    "tags": ["Entrepreneur", "Livelihood Support", "SHGs"],
+    "applyLink": "https://lakhpatididi.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Join a local Self Help Group associated with NRLM.",
+        "Step 2: Engage in income-generating activities and apply at block level.",
+        "Step 3: Obtain marketing or micro-loan capitalization support."
+      ]
+    },
+    "amountLocale": { "en": "Capitalization & Livelihood support" },
+    "categoryType": ["Entrepreneur", "Livelihood Support", "SHGs"]
+  }
+]

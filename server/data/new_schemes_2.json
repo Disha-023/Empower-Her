@@ -1,0 +1,341 @@
+[
+  {
+    "id": "s11",
+    "title": { "en": "Pradhan Mantri Ujjwala Yojana (PMUY)", "hi": "प्रधानमंत्री उज्ज्वला योजना" },
+    "category": "Health",
+    "description": { "en": "A scheme by the Ministry of Petroleum and Natural Gas to provide clean cooking fuel (LPG connections) to women from poor households, improving their health and environment." },
+    "benefits": { "en": "Provides free LPG connection, financial assistance of ₹1,600 per connection, and interest-free loan for stove and first refill." },
+    "eligibility": { "minAge": 18, "maxAge": 100, "state": "all", "country": "India", "category": "Health", "gender": "female", "incomeLimit": "Poor Household" },
+    "documentsRequired": ["KYC Application form", "Aadhaar Card", "Ration Card", "Proof of Address", "Bank Passbook", "Deprivation Declaration"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit pmuy.gov.in or nearest LPG distributor.",
+        "Step 2: Submit the KYC application form along with Aadhaar and Ration Card.",
+        "Step 3: Once verified, LPG connection is issued under the woman's name."
+      ]
+    },
+    "officialLink": "https://www.pmuy.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free Connection + Subsidy",
+    "deadline": "Continuous",
+    "tags": ["Welfare", "Clean Energy", "Rural Women"],
+    "applyLink": "https://www.pmuy.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit pmuy.gov.in or nearest LPG distributor.",
+        "Step 2: Submit the KYC application form along with Aadhaar and Ration Card.",
+        "Step 3: Once verified, LPG connection is issued under the woman's name."
+      ]
+    },
+    "amountLocale": { "en": "Free Connection + Subsidy" },
+    "categoryType": ["Welfare", "Clean Energy", "Rural Women"],
+    "categoryTypeLocal": [
+      { "en": "Welfare", "hi": "कल्याण", "mr": "कल्याण", "kn": "ಕಲ್ಯಾಣ" }
+    ]
+  },
+  {
+    "id": "s12",
+    "title": { "en": "Pradhan Mantri Jan Dhan Yojana (PMJDY)", "hi": "प्रधानमंत्री जन धन योजना" },
+    "category": "Business",
+    "description": { "en": "National Mission for Financial Inclusion to ensure access to financial services, namely, basic savings accounts, remittance, credit, insurance, and pension in an affordable manner." },
+    "benefits": { "en": "Interest on savings deposit, Rupay Debit card with ₹2 Lakh accident insurance cover, zero balance account, and overdraft facility up to ₹10,000 to eligible account holders." },
+    "eligibility": { "minAge": 10, "maxAge": 100, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Aadhaar card or PAN card", "Passport size photograph"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the nearest commercial bank branch or Bank Mitra outlet.",
+        "Step 2: Fill out the PMJDY account opening form.",
+        "Step 3: Submit the form along with Aadhaar copy and photo."
+      ]
+    },
+    "officialLink": "https://www.pmjdy.gov.in/scheme",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Zero Balance Account + ₹10,000 Overdraft",
+    "deadline": "Continuous",
+    "tags": ["Financial Inclusion", "Savings", "Direct Benefit Transfer"],
+    "applyLink": "https://www.pmjdy.gov.in/scheme",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the nearest commercial bank branch or Bank Mitra outlet.",
+        "Step 2: Fill out the PMJDY account opening form.",
+        "Step 3: Submit the form along with Aadhaar copy and photo."
+      ]
+    },
+    "amountLocale": { "en": "Zero Balance Account + ₹10,000 Overdraft" },
+    "categoryType": ["Financial Inclusion", "Savings", "Direct Benefit Transfer"],
+    "categoryTypeLocal": [
+      { "en": "Financial Inclusion", "hi": "वित्तीय समावेशन" }
+    ]
+  },
+  {
+    "id": "s13",
+    "title": { "en": "Pradhan Mantri Matru Vandana Yojana (PMMVY)", "hi": "प्रधानमंत्री मातृ वंदना योजना" },
+    "category": "Health",
+    "description": { "en": "Provides partial wage compensation and nutrition incentives to pregnant women and lactating mothers for safe motherhood and child healthcare." },
+    "benefits": { "en": "Cash incentive of ₹5,000 in two instalments for the first child, and ₹6,000 for the second child (if it's a girl child)." },
+    "eligibility": { "minAge": 19, "maxAge": 45, "state": "all", "country": "India", "category": "Health", "gender": "female", "incomeLimit": "₹8 Lakhs/annum" },
+    "documentsRequired": ["Aadhaar Card of beneficiary", "Spouse's Aadhaar Card", "Bank Account details", "MCP Card", "Child Birth Certificate"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register at your local Anganwadi Centre (AWC) or health facility.",
+        "Step 2: Submit Form 1-A with documents within 150 days of LMP.",
+        "Step 3: Submit Form 1-B and child birth proof for subsequent benefits."
+      ]
+    },
+    "officialLink": "https://wcd.delhi.gov.in/wcd/pradhan-mantri-matru-vandana-yojana-pmmvy",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "₹5,000 - ₹6,000/- incentive",
+    "deadline": "Continuous",
+    "tags": ["Maternity", "Nutrition", "Financial Support"],
+    "applyLink": "https://wcd.delhi.gov.in/wcd/pradhan-mantri-matru-vandana-yojana-pmmvy",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register at your local Anganwadi Centre (AWC) or health facility.",
+        "Step 2: Submit Form 1-A with documents within 150 days of LMP.",
+        "Step 3: Submit Form 1-B and child birth proof for subsequent benefits."
+      ]
+    },
+    "amountLocale": { "en": "₹5,000 - ₹6,000/- incentive" },
+    "categoryType": ["Maternity", "Nutrition", "Financial Support"],
+    "categoryTypeLocal": [
+      { "en": "Maternity", "hi": "मातृत्व", "mr": "मातृत्व", "kn": "ಮಾತೃತ್ವ" }
+    ]
+  },
+  {
+    "id": "s14",
+    "title": { "en": "Swadhar Greh Scheme (Shakti Sadan)", "hi": "स्वाधार गृह योजना" },
+    "category": "Health",
+    "description": { "en": "Provides food, shelter, clothing, legal aid, clinical aid, and training to women in difficult circumstances who are in need of institutional support for rehabilitation." },
+    "benefits": { "en": "Free temporary residential accommodation, food, medical care, legal aid, counselling, and vocational training." },
+    "eligibility": { "minAge": 18, "maxAge": 100, "state": "all", "country": "India", "category": "Health", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Identity proof", "Police FIR/Reference from social welfare (if applicable)"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Walk in to a registered Swadhar Greh or shelter home.",
+        "Step 2: Implementing agency verifies distress and arranges admission.",
+        "Step 3: Health checkup and counselling are conducted within three days."
+      ]
+    },
+    "officialLink": "https://www.pib.gov.in",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free Shelter & Support",
+    "deadline": "Continuous",
+    "tags": ["Shelter", "Welfare", "Rehabilitation", "Safety"],
+    "applyLink": "https://www.pib.gov.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Walk in to a registered Swadhar Greh or shelter home.",
+        "Step 2: Implementing agency verifies distress and arranges admission.",
+        "Step 3: Health checkup and counselling are conducted within three days."
+      ]
+    },
+    "amountLocale": { "en": "Free Shelter & Support" },
+    "categoryType": ["Shelter", "Welfare", "Rehabilitation", "Safety"]
+  },
+  {
+    "id": "s15",
+    "title": { "en": "Udyogini Scheme", "hi": "उद्योगिनी योजना", "mr": "उद्योगिनी योजना", "kn": "ಉದ್ಯೋಗಿನಿ ಯೋಜನೆ" },
+    "category": "Business",
+    "description": { "en": "Sanctioned by the Govt. of Karnataka to assist women in gaining self-reliance through self-employment, mainly in trade and service sectors, by providing loan subsidies through banks." },
+    "benefits": { "en": "For SC/ST candidates, up to 50% subsidy on loan unit costs between ₹1,00,000 to ₹3,00,000. For general/special, 30% subsidy (up to ₹90,000). Includes EDP training." },
+    "eligibility": { "minAge": 18, "maxAge": 55, "state": "Karnataka", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "₹1.5 Lakhs/annum" },
+    "documentsRequired": ["Three photographs", "DPR of business", "Ration Card", "Income Certificate", "Caste Certificate", "Quotations"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit nearest bank or KSFC branch with DPR.",
+        "Step 2: Complete the Udyogini business loan application.",
+        "Step 3: Bank processes loan and requests corporation for subsidy."
+      ]
+    },
+    "officialLink": "https://web.umang.gov.in/landing/scheme/detail/udyogini-scheme_us.html",
+    "ageGroup": "entrepreneur",
+    "state": "Karnataka",
+    "amount": "Up to ₹3,00,000 loan support",
+    "deadline": "Continuous",
+    "tags": ["Entrepreneur", "Business Loan", "Subsidy"],
+    "applyLink": "https://web.umang.gov.in/landing/scheme/detail/udyogini-scheme_us.html",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit nearest bank or KSFC branch with DPR.",
+        "Step 2: Complete the Udyogini business loan application.",
+        "Step 3: Bank processes loan and requests corporation for subsidy."
+      ]
+    },
+    "amountLocale": { "en": "Up to ₹3,00,000 loan support" },
+    "categoryType": ["Entrepreneur", "Business Loan", "Subsidy"]
+  },
+  {
+    "id": "s16",
+    "title": { "en": "New Swarnima Scheme For Women", "hi": "नई स्वर्णिमा योजना" },
+    "category": "Business",
+    "description": { "en": "Implemented by Ministry of Social Justice. Aims to provide women entrepreneurs from backward classes (OBCs) term loans for self-employment." },
+    "benefits": { "en": "Provides term loan of up to ₹2,00,000/- at a highly subsidized interest rate of 5% per annum. No self-contribution is required." },
+    "eligibility": { "minAge": 18, "maxAge": 55, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "₹3 Lakhs/annum" },
+    "documentsRequired": ["Aadhaar card", "Ration Card", "Domicile Certificate", "Caste Certificate (OBC)", "Photograph"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit nearest State Channelising Agency (SCA) office.",
+        "Step 2: Fill out Swarnima Scheme application form.",
+        "Step 3: Submit application with OBC certificate and income proof."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/nssw",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Up to ₹2,00,000/- loan @ 5%",
+    "deadline": "Continuous",
+    "tags": ["Entrepreneur", "OBC", "Business Loan"],
+    "applyLink": "https://www.myscheme.gov.in/schemes/nssw",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit nearest State Channelising Agency (SCA) office.",
+        "Step 2: Fill out Swarnima Scheme application form.",
+        "Step 3: Submit application with OBC certificate and income proof."
+      ]
+    },
+    "amountLocale": { "en": "Up to ₹2,00,000/- loan @ 5%" },
+    "categoryType": ["Entrepreneur", "OBC", "Business Loan"]
+  },
+  {
+    "id": "s17",
+    "title": { "en": "Women Entrepreneurship Platform (WEP)", "hi": "महिला उद्यमिता मंच (WEP)" },
+    "category": "Business",
+    "description": { "en": "An aggregator platform initiated by NITI Aayog that hosts information and services relevant to women entrepreneurs, enabling mentorship and funding access." },
+    "benefits": { "en": "Access to workshops, mentoring, startup support courses, community forums, and partner funding resources." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Identity Proof", "Business registration (if available)"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register online at https://wep.gov.in/.",
+        "Step 2: Create profile describing your entrepreneurship domain.",
+        "Step 3: Browse and apply for partner mentoring/funding programs."
+      ]
+    },
+    "officialLink": "https://wep.gov.in/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Aggregator Support & Mentorship",
+    "deadline": "Continuous",
+    "tags": ["Entrepreneur", "Mentoring", "Networking"],
+    "applyLink": "https://wep.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register online at https://wep.gov.in/.",
+        "Step 2: Create profile describing your entrepreneurship domain.",
+        "Step 3: Browse and apply for partner mentoring/funding programs."
+      ]
+    },
+    "amountLocale": { "en": "Aggregator Support & Mentorship" },
+    "categoryType": ["Entrepreneur", "Mentoring", "Networking"]
+  },
+  {
+    "id": "s18",
+    "title": { "en": "Stand-Up India Scheme", "hi": "स्टैंड-अप इंडिया योजना" },
+    "category": "Business",
+    "description": { "en": "A scheme by the Ministry of Finance to facilitate bank loans between ₹10 Lakh and ₹1 Crore to SC/ST and/or women entrepreneurs for greenfield projects." },
+    "benefits": { "en": "Composite bank loans from ₹10 Lakhs up to ₹1 Crore. Sidbi portal hand-holding support and refinancing options." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Proof of Identity", "Proof of Address", "DPR of Greenfield project", "Rent Agreement", "Caste certificate (if applicable)"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit standupmitra.in or any bank branch.",
+        "Step 2: Complete the registration describing the greenfield business.",
+        "Step 3: Provide required financial/DPR reports and submit application."
+      ]
+    },
+    "officialLink": "https://www.standupmitra.in/Login/Register",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "₹10 Lakh to ₹1 Crore loan",
+    "deadline": "Continuous",
+    "tags": ["Business Loan", "Entrepreneur", "Greenfield"],
+    "applyLink": "https://www.standupmitra.in/Login/Register",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit standupmitra.in or any bank branch.",
+        "Step 2: Complete the registration describing the greenfield business.",
+        "Step 3: Provide required financial/DPR reports and submit application."
+      ]
+    },
+    "amountLocale": { "en": "₹10 Lakh to ₹1 Crore loan" },
+    "categoryType": ["Business Loan", "Entrepreneur", "Greenfield"]
+  },
+  {
+    "id": "s19",
+    "title": { "en": "Mahila Coir Yojana", "hi": "महिला कॉयर योजना" },
+    "category": "Skill Development",
+    "description": { "en": "A self-employment scheme in the coir industry providing training in coir spinning and motorized ratts to rural women artisans in coir-producing coastal regions." },
+    "benefits": { "en": "Free training, ₹3,00,0 stipend per month during training, subsidized coir ratts and equipment, and PMEGP loan linkage." },
+    "eligibility": { "minAge": 18, "maxAge": 60, "state": "coir_producing_states", "country": "India", "category": "Skill Development", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["ID proof", "Address proof", "Bank details", "Coir spinning training certificate"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Check notifications from local Coir Board training centers.",
+        "Step 2: Apply for the coir spinning training programme.",
+        "Step 3: Complete training and submit application for rattle subsidy."
+      ]
+    },
+    "officialLink": "http://coirboard.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "coir_producing_states",
+    "amount": "₹3,000 stipend + Subsidized Equipment",
+    "deadline": "Continuous",
+    "tags": ["Rural Women", "Training", "Self Employment"],
+    "applyLink": "http://coirboard.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Check notifications from local Coir Board training centers.",
+        "Step 2: Apply for the coir spinning training programme.",
+        "Step 3: Complete training and submit application for rattle subsidy."
+      ]
+    },
+    "amountLocale": { "en": "₹3,000 stipend + Subsidized Equipment" },
+    "categoryType": ["Rural Women", "Training", "Self Employment"]
+  },
+  {
+    "id": "s20",
+    "title": { "en": "Pradhan Mantri MUDRA Yojana (PMMY)", "hi": "प्रधानमंत्री मुद्रा योजना" },
+    "category": "Business",
+    "description": { "en": "Provides collateral-free loans up to ₹10 Lakhs for micro and small enterprises in manufacturing, trading, and services." },
+    "benefits": { "en": "Collateral-free loans in three categories: Shishu (up to ₹50,000), Kishor (up to ₹5 Lakhs), and Tarun (up to ₹10 Lakhs)." },
+    "eligibility": { "minAge": 18, "maxAge": 65, "state": "all", "country": "India", "category": "Business", "gender": "female", "incomeLimit": "None" },
+    "documentsRequired": ["Identity proof", "Address proof", "Business details", "Quotation of machinery", "Project Report"],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Apply online through the Udyami Mitra portal (udyamimitra.in) or visit any commercial bank.",
+        "Step 2: Choose loan category (Shishu, Kishor, Tarun).",
+        "Step 3: Submit application with KYC documents and project report."
+      ]
+    },
+    "officialLink": "https://www.mudra.org.in",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Collateral-free loans up to ₹10 Lakhs",
+    "deadline": "Continuous",
+    "tags": ["Business Loan", "Micro Enterprises", "Collateral Free"],
+    "applyLink": "https://www.mudra.org.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Apply online through the Udyami Mitra portal (udyamimitra.in) or visit any commercial bank.",
+        "Step 2: Choose loan category (Shishu, Kishor, Tarun).",
+        "Step 3: Submit application with KYC documents and project report."
+      ]
+    },
+    "amountLocale": { "en": "Collateral-free loans up to ₹10 Lakhs" },
+    "categoryType": ["Business Loan", "Micro Enterprises", "Collateral Free"]
+  }
+]

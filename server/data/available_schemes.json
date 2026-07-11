@@ -1,0 +1,2724 @@
+[
+  {
+    "id": "s1",
+    "title": {
+      "en": "WISE-SCOPE Fellowship",
+      "hi": "WISE-SCOPE फेलोशिप",
+      "mr": "WISE-SCOPE फेलोशिप",
+      "kn": "WISE-SCOPE ಫೆಲೋಶಿಪ್"
+    },
+    "category": "Education",
+    "description": {
+      "en": "The Women In Science and Engineering-Societal Challenges with Opportunities (WISE-SCOPE) Fellowship program provides opportunities to women scientists and technologists who have completed Ph.D. and want to utilize their science & technology knowledge for the benefit of society.",
+      "hi": "WISE-SCOPE फेलोशिप महिला वैज्ञानिकों और प्रौद्योगिकीविदों को अवसर प्रदान करती है जिन्होंने पीएच.डी. पूरी कर ली है और समाज के लाभ के लिए अपने विज्ञान और प्रौद्योगिकी ज्ञान का उपयोग करना चाहती हैं।",
+      "mr": "WISE-SCOPE फेलोशिप महिला शास्त्रज्ञ आणि तंत्रज्ञांना संधी प्रदान करते ज्यांनी पीएच.डी. पूर्ण केली आहे आणि समाजाच्या फायद्यासाठी त्यांच्या विज्ञान आणि तंत्रज्ञान ज्ञानाचा वापर करू इच्छितात.",
+      "kn": "WISE-SCOPE ಫೆಲೋಶಿಪ್ ಪಿಎಚ್.ಡಿ ಪೂರ್ಣಗೊಳಿಸಿದ ಮತ್ತು ಸಮಾಜದ ಪ್ರಯೋಜನಕ್ಕಾಗಿ ತಮ್ಮ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಜ್ಞಾನವನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಬಯಸುವ ಮಹಿಳಾ ವಿಜ್ಞಾನಿಗಳು ಮತ್ತು ತಂತ್ರಜ್ಞರಿಗೆ ಅವಕಾಶಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    },
+    "benefits": {
+      "en": "Monthly Fellowship of ₹55,000/- per month along with HRA as per norms. Selected fellows receive a research grant of ₹2.00 Lakhs per year, field demonstration support of ₹1,00,000/-, and equipment assistance up to a maximum of ₹2,00,000/-.",
+      "hi": "नियमों के अनुसार एचआरए के साथ ₹55,000/- प्रति माह फेलोशिप। प्रति वर्ष ₹2.00 लाख का अनुसंधान अनुदान, ₹1,00,000/- की फील्ड प्रदर्शन सहायता और ₹2,00,000/- तक की उपकरण सहायता।",
+      "mr": "नियमांनुसार एचआरए सह ₹५५,०००/- प्रति महिना फेलोशिप. दरवर्षी ₹२.०० लाख संशोधन अनुदान, ₹१,००,०००/- फील्ड प्रात्यक्षिक सहाय्य आणि ₹२,००,०००/- पर्यंत उपकरण सहाय्य.",
+      "kn": "ನಿಯಮಗಳ ಪ್ರಕಾರ ಎಚ್‌ಆರ್‌ಎ ಜೊತೆಗೆ ತಿಂಗಳಿಗೆ ₹55,000/- ಫೆಲೋಶಿಪ್. ವರ್ಷಕ್ಕೆ ₹2.00 ಲಕ್ಷ ಸಂಶೋಧನಾ ಅನುದಾನ, ₹1,00,000/- ಫೀಲ್ಡ್ ಪ್ರಾತ್ಯಕ್ಷಿಕೆ ನೆರವು ಮತ್ತು ₹2,00,000/- ವರೆಗೆ ಉಪಕರಣ ಸಹಾಯ."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 60,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "CV of Mentor",
+      "Conflict of Interest Policy Document",
+      "Endorsement from the Head of the Institute",
+      "Complete Project Proposal",
+      "Highest Degree Certificate",
+      "Consent Letter from Mentor",
+      "Undertaking",
+      "HRA declaration certificate",
+      "Date of Birth Proof"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official ePMS portal at https://onlinedst.gov.in.",
+        "Step 2: Click on 'New PI Registration' and register as 'WISE-SCOPE Fellow'.",
+        "Step 3: Log in and go to 'Submit proposals'.",
+        "Step 4: Enter General information, Mentor details, and Financial Details.",
+        "Step 5: Fill in PFMS details, upload required documents, and click 'Submit'."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/wise-scope-fellowship",
+    "ageGroup": "27-60",
+    "state": "all",
+    "amount": "₹55,000/- per month + grants",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "Research",
+      "Women Scientists"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/wise-scope-fellowship",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official ePMS portal at https://onlinedst.gov.in.",
+        "Step 2: Click on 'New PI Registration' and register as 'WISE-SCOPE Fellow'.",
+        "Step 3: Log in and go to 'Submit proposals'.",
+        "Step 4: Enter General information, Mentor details, and Financial Details.",
+        "Step 5: Fill in PFMS details, upload required documents, and click 'Submit'."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹55,000/- per month + grants",
+      "hi": "₹55,000/- प्रति माह + अनुदान",
+      "mr": "₹५५,०००/- प्रति महिना + अनुदान",
+      "kn": "₹55,000/- ಪ್ರತಿ ತಿಂಗಳು + ಅನುದಾನ"
+    },
+    "categoryType": [
+      "Student",
+      "Research",
+      "Women Scientists"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Research",
+        "hi": "अनुसंधान",
+        "mr": "संशोधन",
+        "kn": "ಸಂಶೋಧನೆ"
+      },
+      {
+        "en": "Women Scientists",
+        "hi": "महिला वैज्ञानिक",
+        "mr": "महिला शास्त्रज्ञ",
+        "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿಗಳು"
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "title": {
+      "en": "Women Scientist Scheme-A (WOS-A)",
+      "hi": "महिला वैज्ञानिक योजना-ए (WOS-A)",
+      "mr": "महिला शास्त्रज्ञ योजना-ए (WOS-A)",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಎ (WOS-A)"
+    },
+    "category": "Education",
+    "description": {
+      "en": "A Research Grant by MoST for female candidates to pursue research in frontier areas of science and engineering, preferably those having a break in career (minimum two years) and not having regular employment.",
+      "hi": "MoST द्वारा महिला उम्मीदवारों के लिए विज्ञान और इंजीनियरिंग के क्षेत्र में अनुसंधान करने के लिए एक शोध अनुदान।"
+    },
+    "benefits": {
+      "en": "Provides monthly fellowship for 3 years: ₹55,000/- pm for Ph.D. or equivalent, ₹40,000/- pm for M.Phil./M.Tech, and ₹31,000/- pm for M.Sc. or equivalent.",
+      "hi": "3 वर्षों के लिए मासिक फेलोशिप प्रदान करता है: पीएच.डी. के लिए ₹55,000/- प्रति माह।"
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 57,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Project Proposal Document",
+      "Biodata of PI (Signed)",
+      "Mentor's Biodata (Signed)",
+      "Caste Certificate",
+      "DOB certificate",
+      "Photograph",
+      "Signature",
+      "Highest Degree Certificate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register at online portal https://online-wosa.gov.in/wosa/.",
+        "Step 2: Log in and fill the Project Proposal under WOS-A.",
+        "Step 3: Upload all required documents and click 'Final Submit'."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/wos-a",
+    "ageGroup": "27-57",
+    "state": "all",
+    "amount": "Up to ₹55,000/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "Research"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/wos-a",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register at online portal https://online-wosa.gov.in/wosa/.",
+        "Step 2: Log in and fill the Project Proposal under WOS-A.",
+        "Step 3: Upload all required documents and click 'Final Submit'."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹55,000/- per month",
+      "hi": "₹55,000/- प्रति माह तक"
+    },
+    "categoryType": [
+      "Student",
+      "Research"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Research",
+        "hi": "अनुसंधान",
+        "mr": "संशोधन",
+        "kn": "ಸंशोधने"
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "title": {
+      "en": "Women Scientist Scheme-B (WOS-B)",
+      "hi": "महिला वैज्ञानिक योजना-बी (WOS-B)",
+      "mr": "महिला शास्त्रज्ञ योजना-बी (WOS-B)",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಬಿ (WOS-B)"
+    },
+    "category": "Education",
+    "description": {
+      "en": "Women Scientist Scheme-B (WOS-B) focuses on projects related to Science & Technology (S&T) interventions for societal benefit."
+    },
+    "benefits": {
+      "en": "Provides monthly fellowship for 3 years: ₹55,000/- pm for Ph.D. or equivalent, ₹40,000/- pm for M.Phil./M.Tech, and ₹31,000/- pm for M.Sc. or equivalent."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 57,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Project Proposal Document",
+      "Biodata of PI",
+      "Mentor's Biodata",
+      "Caste Certificate",
+      "DOB Certificate",
+      "Educational Qualifications"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official department website to get the proposal format.",
+        "Step 2: Fill out the application form under WOS-B.",
+        "Step 3: Attach the project proposal and submit online."
+      ]
+    },
+    "officialLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-b-wos-b",
+    "ageGroup": "27-57",
+    "state": "all",
+    "amount": "Up to ₹55,000/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Research",
+      "Societal Benefit"
+    ],
+    "applyLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-b-wos-b",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official department website to get the proposal format.",
+        "Step 2: Fill out the application form under WOS-B.",
+        "Step 3: Attach the project proposal and submit online."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹55,000/- per month"
+    },
+    "categoryType": [
+      "Research",
+      "Societal Benefit"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Research",
+        "hi": "अनुसंधान",
+        "mr": "संशोधन",
+        "kn": "ಸಂಶೋಧನೆ"
+      },
+      {
+        "en": "Societal Benefit",
+        "hi": "सामाजिक लाभ",
+        "mr": "सामाजिक लाभ",
+        "kn": "ಸಾಮಾಜಿಕ ಪ್ರಯೋಜನ"
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "title": {
+      "en": "Women Scientist Scheme-C (WOS-C)",
+      "hi": "महिला वैज्ञानिक योजना-सी (WOS-C)",
+      "mr": "महिला शास्त्रज्ञ योजना-सी (WOS-C)",
+      "kn": "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ ಯೋಜನೆ-ಸಿ (WOS-C)"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "A flagship program of the KIRAN Division of the Department of Science & Technology (DST) offering one year of on-the-job training in the area of Intellectual Property Rights (IPR)."
+    },
+    "benefits": {
+      "en": "Provides one year of training with a monthly stipend: ₹20,000/- pm for M.Sc./B.Tech/MBBS, ₹25,000/- pm for M.Tech/M.Pharma/M.VSc, and ₹30,000/- pm for Ph.D."
+    },
+    "eligibility": {
+      "minAge": 27,
+      "maxAge": 45,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity Proof",
+      "Caste Certificate",
+      "Highest Educational Degree Certificate",
+      "Resume/CV",
+      "Passport size Photograph"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Check notifications on www.pfc.org.in when open.",
+        "Step 2: Register online and enter required credentials.",
+        "Step 3: Fill qualifications and upload certificates, then submit."
+      ]
+    },
+    "officialLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-c-wos-c",
+    "ageGroup": "27-45",
+    "state": "all",
+    "amount": "Up to ₹30,000/- per month",
+    "deadline": "Variable",
+    "tags": [
+      "Training",
+      "IPR",
+      "Skills"
+    ],
+    "applyLink": "https://www.indiascienceandtechnology.gov.in/programme-schemes/women-schemes/women-scientist-scheme-c-wos-c",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Check notifications on www.pfc.org.in when open.",
+        "Step 2: Register online and enter required credentials.",
+        "Step 3: Fill qualifications and upload certificates, then submit."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹30,000/- per month"
+    },
+    "categoryType": [
+      "Training",
+      "IPR",
+      "Skills"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Training",
+        "hi": "प्रशिक्षण",
+        "mr": "प्रशिक्षण",
+        "kn": "ತರಬೇತಿ"
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "title": {
+      "en": "Internship Programme for Women",
+      "hi": "महिलाओं के लिए इंटर्नशिप कार्यक्रम"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "Launched by the Ministry of Women and Child Development (MWCD) to tap the talent of women students, scholars, social activists, and teachers from non-tier-I cities and rural areas."
+    },
+    "benefits": {
+      "en": "Monthly stipend of ₹20,000/- per month, travel reimbursement, hostel facility in Delhi, triple sharing room, and certification."
+    },
+    "eligibility": {
+      "minAge": 21,
+      "maxAge": 40,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Photograph",
+      "Identity Proof",
+      "Address Proof",
+      "Signature",
+      "Highest Education Degree Certificate",
+      "Joining Letter"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official MWCD internship portal.",
+        "Step 2: Click on 'Register' and enter details.",
+        "Step 3: Log in and upload your photo.",
+        "Step 4: Fill the application and submit."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/ipmwcd",
+    "ageGroup": "21-40",
+    "state": "all",
+    "amount": "₹20,000/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "Internship",
+      "Training"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/ipmwcd",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official MWCD internship portal.",
+        "Step 2: Click on 'Register' and enter details.",
+        "Step 3: Log in and upload your photo.",
+        "Step 4: Fill the application and submit."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹20,000/- per month"
+    },
+    "categoryType": [
+      "Student",
+      "Internship",
+      "Training"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Internship",
+        "hi": "इंटर्नशिप",
+        "mr": "इंटर्नशिप",
+        "kn": "ಇಂಟರ್ನ್‌ಶಿಪ್"
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "title": {
+      "en": "Pragati Scholarship Scheme (Technical Diploma)",
+      "hi": "प्रगति छात्रवृत्ति योजना (तकनीकी डिप्लोमा)"
+    },
+    "category": "Education",
+    "description": {
+      "en": "A scheme by AICTE under the Ministry of Education to provide financial assistance and support to girl students pursuing technical diploma studies in India."
+    },
+    "benefits": {
+      "en": "₹50,000/- per annum for every year of study (max 3 years) towards payment of college fees, purchase of computer, books, equipment, and software."
+    },
+    "eligibility": {
+      "minAge": 15,
+      "maxAge": 24,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "₹8 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Copy of SSC/10th certificate",
+      "Copy of HSC/12th certificate",
+      "Bank Passbook",
+      "Category Certificate",
+      "Aadhaar Card",
+      "Passport-Size Photo",
+      "Annual Family Income Certificate",
+      "Parent's Declaration"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the National Scholarships Portal (NSP).",
+        "Step 2: Register on the portal, accept terms and click continue.",
+        "Step 3: Log in using your Application ID and password sent via SMS.",
+        "Step 4: Fill out the application form, upload scanned copies of documents and submit."
+      ]
+    },
+    "officialLink": "https://scholarships.gov.in",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "₹50,000/- per annum",
+    "deadline": "Annually as per NSP",
+    "tags": [
+      "Student",
+      "Scholarship",
+      "Diploma"
+    ],
+    "applyLink": "https://scholarships.gov.in",
+    "lastDate": "2026-10-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the National Scholarships Portal (NSP).",
+        "Step 2: Register on the portal, accept terms and click continue.",
+        "Step 3: Log in using your Application ID and password sent via SMS.",
+        "Step 4: Fill out the application form, upload scanned copies of documents and submit."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹50,000/- per annum"
+    },
+    "categoryType": [
+      "Student",
+      "Scholarship",
+      "Diploma"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Scholarship",
+        "hi": "छात्रवृत्ति",
+        "mr": "शिष्यवृत्ती",
+        "kn": "ವಿದ್ಯಾರ್ಥಿವೇತನ"
+      }
+    ]
+  },
+  {
+    "id": "s7",
+    "title": {
+      "en": "CBSE Udaan Scheme",
+      "hi": "सीबीएसई उड़ान योजना"
+    },
+    "category": "Education",
+    "description": {
+      "en": "CBSE Udaan Scheme empowers girl students in Classes 11 and 12 aiming for STEM careers, providing them free coaching and preparatory classes for entrance exams like IIT-JEE and NEET."
+    },
+    "benefits": {
+      "en": "Free online and offline learning support, weekly virtual contact classes in science/math, free textbooks, study guides, mentoring sessions, and tablets."
+    },
+    "eligibility": {
+      "minAge": 15,
+      "maxAge": 18,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "Low Income"
+    },
+    "documentsRequired": [
+      "Class 10 mark sheet",
+      "School verification form",
+      "Income certificate",
+      "Identity proof",
+      "Passport-size photographs"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official CBSE Udaan Scheme website.",
+        "Step 2: Register on the portal by providing name, school, and qualifications.",
+        "Step 3: Fill out the application form and upload scanned documents.",
+        "Step 4: Submit the application and await school verification."
+      ]
+    },
+    "officialLink": "www.cbse.nic.in",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "Free Coaching & Resources",
+    "deadline": "Continuous",
+    "tags": [
+      "Student",
+      "STEM",
+      "Coaching"
+    ],
+    "applyLink": "http://www.cbse.nic.in",
+    "lastDate": "2026-09-30",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official CBSE Udaan Scheme website.",
+        "Step 2: Register on the portal by providing name, school, and qualifications.",
+        "Step 3: Fill out the application form and upload scanned documents.",
+        "Step 4: Submit the application and await school verification."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free Coaching & Resources"
+    },
+    "categoryType": [
+      "Student",
+      "STEM",
+      "Coaching"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Student",
+        "hi": "छात्र",
+        "mr": "विद्यार्थी",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ"
+      },
+      {
+        "en": "Coaching",
+        "hi": "कोचिंग",
+        "mr": "कोचिंग",
+        "kn": "ತರಬೇತಿ"
+      }
+    ]
+  },
+  {
+    "id": "s8",
+    "title": {
+      "en": "Pradhan Mantri Surakshit Matritva Abhiyan",
+      "hi": "प्रधानमंत्री सुरक्षित मातृत्व अभियान"
+    },
+    "category": "Health",
+    "description": {
+      "en": "A national initiative to provide assured, comprehensive, and quality antenatal care (ANC) free of cost to all pregnant women on the 9th of every month."
+    },
+    "benefits": {
+      "en": "Free comprehensive health checkups, diagnostics, ultrasound scans, and clinical treatments conducted by medical officers."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 45,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "Mother and Child Protection (MCP) Card"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Walk in to the nearest government healthcare center, PHC, CHC, or hospital.",
+        "Step 2: Attend the special clinics set up on the 9th of any month.",
+        "Step 3: Register at the desk and receive free checkups."
+      ]
+    },
+    "officialLink": "https://pmsma.mohfw.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free Healthcare Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Maternity",
+      "Healthcare"
+    ],
+    "applyLink": "https://pmsma.mohfw.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Walk in to the nearest government healthcare center, PHC, CHC, or hospital.",
+        "Step 2: Attend the special clinics set up on the 9th of any month.",
+        "Step 3: Register at the desk and receive free checkups."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free Healthcare Support"
+    },
+    "categoryType": [
+      "Maternity",
+      "Healthcare"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      },
+      {
+        "en": "Healthcare",
+        "hi": "स्वास्थ्य देखभाल",
+        "mr": "आरोग्य सेवा"
+      }
+    ]
+  },
+  {
+    "id": "s9",
+    "title": {
+      "en": "Matrutva Prasuvidha Yojana",
+      "hi": "मातृत्व प्रसुविधा योजना"
+    },
+    "category": "Health",
+    "description": {
+      "en": "A 100% State Sponsored Medical Assistance scheme by the Department of Labour, Jharkhand. Provides financial assistance to registered female construction workers for their deliveries."
+    },
+    "benefits": {
+      "en": "Financial assistance of ₹15,000/- for the first two deliveries to the registered female construction worker."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 60,
+      "state": "Jharkhand",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "Residential Certificate of Jharkhand",
+      "Proof of Identity",
+      "eSHRAM Card",
+      "Passport Sized Photograph",
+      "Proof of Registration with JBOCWW Board",
+      "Bank Details",
+      "Proof of Pregnancy"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit Jharkhand labour portal.",
+        "Step 2: Log in using your credentials.",
+        "Step 3: Go to Services > BOC Scheme Benefit > Application Form.",
+        "Step 4: Fill details, upload documents, and submit."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/mpy",
+    "ageGroup": "working_woman",
+    "state": "Jharkhand",
+    "amount": "₹15,000/- for first 2 deliveries",
+    "deadline": "Continuous",
+    "tags": [
+      "Maternity",
+      "Financial Support",
+      "Worker"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/mpy",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit Jharkhand labour portal.",
+        "Step 2: Log in using your credentials.",
+        "Step 3: Go to Services > BOC Scheme Benefit > Application Form.",
+        "Step 4: Fill details, upload documents, and submit."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹15,000/- for first 2 deliveries"
+    },
+    "categoryType": [
+      "Maternity",
+      "Financial Support",
+      "Worker"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      },
+      {
+        "en": "Financial Support",
+        "hi": "वित्तीय सहायता"
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "title": {
+      "en": "Financial Incentives to Mothers (Mamta)",
+      "hi": "मातृत्व प्रोत्साहन (ममता)"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Financial Assistance implemented by the Directorate of Women and Child Development, Govt. of Goa, to improve the Female Child Sex Ratio in the State."
+    },
+    "benefits": {
+      "en": "Provides ₹10,000/- as a one-time financial incentive directly credited to the mother's bank account upon delivering a live girl child."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 45,
+      "state": "Goa",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Certified Aadhaar Card",
+      "Birth Certificate of Girl Child",
+      "Residence proof in Goa (3 years)",
+      "Pre-Receipt in duplicate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Obtain the form from Anganwadi Centre or ICDS Block Office.",
+        "Step 2: Fill the form with birth details and bank info.",
+        "Step 3: Submit to CDPO within 45 days of delivery."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/hi/schemes/fimdgc",
+    "ageGroup": "working_woman",
+    "state": "Goa",
+    "amount": "₹10,000/- one-time incentive",
+    "deadline": "Within 45 days of delivery",
+    "tags": [
+      "Maternity",
+      "Financial Support",
+      "Girl Child"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/hi/schemes/fimdgc",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Obtain the form from Anganwadi Centre or ICDS Block Office.",
+        "Step 2: Fill the form with birth details and bank info.",
+        "Step 3: Submit to CDPO within 45 days of delivery."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹10,000/- one-time incentive"
+    },
+    "categoryType": [
+      "Maternity",
+      "Financial Support",
+      "Girl Child"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      },
+      {
+        "en": "Girl Child",
+        "hi": "बालिका",
+        "mr": "मुलगी",
+        "kn": "ಹೆಣ್ಣು ಮಗು"
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "title": {
+      "en": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "hi": "प्रधानमंत्री उज्ज्वला योजना"
+    },
+    "category": "Health",
+    "description": {
+      "en": "A scheme by the Ministry of Petroleum and Natural Gas to provide clean cooking fuel (LPG connections) to women from poor households, improving their health and environment."
+    },
+    "benefits": {
+      "en": "Provides free LPG connection, financial assistance of ₹1,600 per connection, and interest-free loan for stove and first refill."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "Poor Household"
+    },
+    "documentsRequired": [
+      "KYC Application form",
+      "Aadhaar Card",
+      "Ration Card",
+      "Proof of Address",
+      "Bank Passbook",
+      "Deprivation Declaration"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit pmuy.gov.in or nearest LPG distributor.",
+        "Step 2: Submit the KYC application form along with Aadhaar and Ration Card.",
+        "Step 3: Once verified, LPG connection is issued under the woman's name."
+      ]
+    },
+    "officialLink": "https://www.pmuy.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free Connection + Subsidy",
+    "deadline": "Continuous",
+    "tags": [
+      "Welfare",
+      "Clean Energy",
+      "Rural Women"
+    ],
+    "applyLink": "https://www.pmuy.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit pmuy.gov.in or nearest LPG distributor.",
+        "Step 2: Submit the KYC application form along with Aadhaar and Ration Card.",
+        "Step 3: Once verified, LPG connection is issued under the woman's name."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free Connection + Subsidy"
+    },
+    "categoryType": [
+      "Welfare",
+      "Clean Energy",
+      "Rural Women"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Welfare",
+        "hi": "कल्याण",
+        "mr": "कल्याण",
+        "kn": "ಕಲ್ಯಾಣ"
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "title": {
+      "en": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+      "hi": "प्रधानमंत्री जन धन योजना"
+    },
+    "category": "Business",
+    "description": {
+      "en": "National Mission for Financial Inclusion to ensure access to financial services, namely, basic savings accounts, remittance, credit, insurance, and pension in an affordable manner."
+    },
+    "benefits": {
+      "en": "Interest on savings deposit, Rupay Debit card with ₹2 Lakh accident insurance cover, zero balance account, and overdraft facility up to ₹10,000 to eligible account holders."
+    },
+    "eligibility": {
+      "minAge": 10,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar card or PAN card",
+      "Passport size photograph"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the nearest commercial bank branch or Bank Mitra outlet.",
+        "Step 2: Fill out the PMJDY account opening form.",
+        "Step 3: Submit the form along with Aadhaar copy and photo."
+      ]
+    },
+    "officialLink": "https://www.pmjdy.gov.in/scheme",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Zero Balance Account + ₹10,000 Overdraft",
+    "deadline": "Continuous",
+    "tags": [
+      "Financial Inclusion",
+      "Savings",
+      "Direct Benefit Transfer"
+    ],
+    "applyLink": "https://www.pmjdy.gov.in/scheme",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the nearest commercial bank branch or Bank Mitra outlet.",
+        "Step 2: Fill out the PMJDY account opening form.",
+        "Step 3: Submit the form along with Aadhaar copy and photo."
+      ]
+    },
+    "amountLocale": {
+      "en": "Zero Balance Account + ₹10,000 Overdraft"
+    },
+    "categoryType": [
+      "Financial Inclusion",
+      "Savings",
+      "Direct Benefit Transfer"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Financial Inclusion",
+        "hi": "वित्तीय समावेशन"
+      }
+    ]
+  },
+  {
+    "id": "s13",
+    "title": {
+      "en": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+      "hi": "प्रधानमंत्री मातृ वंदना योजना"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Provides partial wage compensation and nutrition incentives to pregnant women and lactating mothers for safe motherhood and child healthcare."
+    },
+    "benefits": {
+      "en": "Cash incentive of ₹5,000 in two instalments for the first child, and ₹6,000 for the second child (if it's a girl child)."
+    },
+    "eligibility": {
+      "minAge": 19,
+      "maxAge": 45,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "₹8 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Aadhaar Card of beneficiary",
+      "Spouse's Aadhaar Card",
+      "Bank Account details",
+      "MCP Card",
+      "Child Birth Certificate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register at your local Anganwadi Centre (AWC) or health facility.",
+        "Step 2: Submit Form 1-A with documents within 150 days of LMP.",
+        "Step 3: Submit Form 1-B and child birth proof for subsequent benefits."
+      ]
+    },
+    "officialLink": "https://wcd.delhi.gov.in/wcd/pradhan-mantri-matru-vandana-yojana-pmmvy",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "₹5,000 - ₹6,000/- incentive",
+    "deadline": "Continuous",
+    "tags": [
+      "Maternity",
+      "Nutrition",
+      "Financial Support"
+    ],
+    "applyLink": "https://wcd.delhi.gov.in/wcd/pradhan-mantri-matru-vandana-yojana-pmmvy",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register at your local Anganwadi Centre (AWC) or health facility.",
+        "Step 2: Submit Form 1-A with documents within 150 days of LMP.",
+        "Step 3: Submit Form 1-B and child birth proof for subsequent benefits."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹5,000 - ₹6,000/- incentive"
+    },
+    "categoryType": [
+      "Maternity",
+      "Nutrition",
+      "Financial Support"
+    ],
+    "categoryTypeLocal": [
+      {
+        "en": "Maternity",
+        "hi": "मातृत्व",
+        "mr": "मातृत्व",
+        "kn": "ಮಾತೃತ್ವ"
+      }
+    ]
+  },
+  {
+    "id": "s14",
+    "title": {
+      "en": "Swadhar Greh Scheme (Shakti Sadan)",
+      "hi": "स्वाधार गृह योजना"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Provides food, shelter, clothing, legal aid, clinical aid, and training to women in difficult circumstances who are in need of institutional support for rehabilitation."
+    },
+    "benefits": {
+      "en": "Free temporary residential accommodation, food, medical care, legal aid, counselling, and vocational training."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity proof",
+      "Police FIR/Reference from social welfare (if applicable)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Walk in to a registered Swadhar Greh or shelter home.",
+        "Step 2: Implementing agency verifies distress and arranges admission.",
+        "Step 3: Health checkup and counselling are conducted within three days."
+      ]
+    },
+    "officialLink": "https://www.pib.gov.in",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free Shelter & Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Shelter",
+      "Welfare",
+      "Rehabilitation",
+      "Safety"
+    ],
+    "applyLink": "https://www.pib.gov.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Walk in to a registered Swadhar Greh or shelter home.",
+        "Step 2: Implementing agency verifies distress and arranges admission.",
+        "Step 3: Health checkup and counselling are conducted within three days."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free Shelter & Support"
+    },
+    "categoryType": [
+      "Shelter",
+      "Welfare",
+      "Rehabilitation",
+      "Safety"
+    ]
+  },
+  {
+    "id": "s15",
+    "title": {
+      "en": "Udyogini Scheme",
+      "hi": "उद्योगिनी योजना",
+      "mr": "उद्योगिनी योजना",
+      "kn": "ಉದ್ಯೋಗಿನಿ ಯೋಜನೆ"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Sanctioned by the Govt. of Karnataka to assist women in gaining self-reliance through self-employment, mainly in trade and service sectors, by providing loan subsidies through banks."
+    },
+    "benefits": {
+      "en": "For SC/ST candidates, up to 50% subsidy on loan unit costs between ₹1,00,000 to ₹3,00,000. For general/special, 30% subsidy (up to ₹90,000). Includes EDP training."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 55,
+      "state": "Karnataka",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "₹1.5 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Three photographs",
+      "DPR of business",
+      "Ration Card",
+      "Income Certificate",
+      "Caste Certificate",
+      "Quotations"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit nearest bank or KSFC branch with DPR.",
+        "Step 2: Complete the Udyogini business loan application.",
+        "Step 3: Bank processes loan and requests corporation for subsidy."
+      ]
+    },
+    "officialLink": "https://web.umang.gov.in/landing/scheme/detail/udyogini-scheme_us.html",
+    "ageGroup": "entrepreneur",
+    "state": "Karnataka",
+    "amount": "Up to ₹3,00,000 loan support",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "Business Loan",
+      "Subsidy"
+    ],
+    "applyLink": "https://web.umang.gov.in/landing/scheme/detail/udyogini-scheme_us.html",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit nearest bank or KSFC branch with DPR.",
+        "Step 2: Complete the Udyogini business loan application.",
+        "Step 3: Bank processes loan and requests corporation for subsidy."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹3,00,000 loan support"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "Business Loan",
+      "Subsidy"
+    ]
+  },
+  {
+    "id": "s16",
+    "title": {
+      "en": "New Swarnima Scheme For Women",
+      "hi": "नई स्वर्णिमा योजना"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Implemented by Ministry of Social Justice. Aims to provide women entrepreneurs from backward classes (OBCs) term loans for self-employment."
+    },
+    "benefits": {
+      "en": "Provides term loan of up to ₹2,00,000/- at a highly subsidized interest rate of 5% per annum. No self-contribution is required."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 55,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "₹3 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Aadhaar card",
+      "Ration Card",
+      "Domicile Certificate",
+      "Caste Certificate (OBC)",
+      "Photograph"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit nearest State Channelising Agency (SCA) office.",
+        "Step 2: Fill out Swarnima Scheme application form.",
+        "Step 3: Submit application with OBC certificate and income proof."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/nssw",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Up to ₹2,00,000/- loan @ 5%",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "OBC",
+      "Business Loan"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/nssw",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit nearest State Channelising Agency (SCA) office.",
+        "Step 2: Fill out Swarnima Scheme application form.",
+        "Step 3: Submit application with OBC certificate and income proof."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹2,00,000/- loan @ 5%"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "OBC",
+      "Business Loan"
+    ]
+  },
+  {
+    "id": "s17",
+    "title": {
+      "en": "Women Entrepreneurship Platform (WEP)",
+      "hi": "महिला उद्यमिता मंच (WEP)"
+    },
+    "category": "Business",
+    "description": {
+      "en": "An aggregator platform initiated by NITI Aayog that hosts information and services relevant to women entrepreneurs, enabling mentorship and funding access."
+    },
+    "benefits": {
+      "en": "Access to workshops, mentoring, startup support courses, community forums, and partner funding resources."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity Proof",
+      "Business registration (if available)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register online at https://wep.gov.in/.",
+        "Step 2: Create profile describing your entrepreneurship domain.",
+        "Step 3: Browse and apply for partner mentoring/funding programs."
+      ]
+    },
+    "officialLink": "https://wep.gov.in/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Aggregator Support & Mentorship",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "Mentoring",
+      "Networking"
+    ],
+    "applyLink": "https://wep.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register online at https://wep.gov.in/.",
+        "Step 2: Create profile describing your entrepreneurship domain.",
+        "Step 3: Browse and apply for partner mentoring/funding programs."
+      ]
+    },
+    "amountLocale": {
+      "en": "Aggregator Support & Mentorship"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "Mentoring",
+      "Networking"
+    ]
+  },
+  {
+    "id": "s18",
+    "title": {
+      "en": "Stand-Up India Scheme",
+      "hi": "स्टैंड-अप इंडिया योजना"
+    },
+    "category": "Business",
+    "description": {
+      "en": "A scheme by the Ministry of Finance to facilitate bank loans between ₹10 Lakh and ₹1 Crore to SC/ST and/or women entrepreneurs for greenfield projects."
+    },
+    "benefits": {
+      "en": "Composite bank loans from ₹10 Lakhs up to ₹1 Crore. Sidbi portal hand-holding support and refinancing options."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Proof of Identity",
+      "Proof of Address",
+      "DPR of Greenfield project",
+      "Rent Agreement",
+      "Caste certificate (if applicable)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit standupmitra.in or any bank branch.",
+        "Step 2: Complete the registration describing the greenfield business.",
+        "Step 3: Provide required financial/DPR reports and submit application."
+      ]
+    },
+    "officialLink": "https://www.standupmitra.in/Login/Register",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "₹10 Lakh to ₹1 Crore loan",
+    "deadline": "Continuous",
+    "tags": [
+      "Business Loan",
+      "Entrepreneur",
+      "Greenfield"
+    ],
+    "applyLink": "https://www.standupmitra.in/Login/Register",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit standupmitra.in or any bank branch.",
+        "Step 2: Complete the registration describing the greenfield business.",
+        "Step 3: Provide required financial/DPR reports and submit application."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹10 Lakh to ₹1 Crore loan"
+    },
+    "categoryType": [
+      "Business Loan",
+      "Entrepreneur",
+      "Greenfield"
+    ]
+  },
+  {
+    "id": "s19",
+    "title": {
+      "en": "Mahila Coir Yojana",
+      "hi": "महिला कॉयर योजना"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "A self-employment scheme in the coir industry providing training in coir spinning and motorized ratts to rural women artisans in coir-producing coastal regions."
+    },
+    "benefits": {
+      "en": "Free training, ₹3,00,0 stipend per month during training, subsidized coir ratts and equipment, and PMEGP loan linkage."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 60,
+      "state": "coir_producing_states",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "ID proof",
+      "Address proof",
+      "Bank details",
+      "Coir spinning training certificate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Check notifications from local Coir Board training centers.",
+        "Step 2: Apply for the coir spinning training programme.",
+        "Step 3: Complete training and submit application for rattle subsidy."
+      ]
+    },
+    "officialLink": "http://coirboard.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "coir_producing_states",
+    "amount": "₹3,000 stipend + Subsidized Equipment",
+    "deadline": "Continuous",
+    "tags": [
+      "Rural Women",
+      "Training",
+      "Self Employment"
+    ],
+    "applyLink": "http://coirboard.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Check notifications from local Coir Board training centers.",
+        "Step 2: Apply for the coir spinning training programme.",
+        "Step 3: Complete training and submit application for rattle subsidy."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹3,000 stipend + Subsidized Equipment"
+    },
+    "categoryType": [
+      "Rural Women",
+      "Training",
+      "Self Employment"
+    ]
+  },
+  {
+    "id": "s20",
+    "title": {
+      "en": "Pradhan Mantri MUDRA Yojana (PMMY)",
+      "hi": "प्रधानमंत्री मुद्रा योजना"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Provides collateral-free loans up to ₹10 Lakhs for micro and small enterprises in manufacturing, trading, and services."
+    },
+    "benefits": {
+      "en": "Collateral-free loans in three categories: Shishu (up to ₹50,000), Kishor (up to ₹5 Lakhs), and Tarun (up to ₹10 Lakhs)."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity proof",
+      "Address proof",
+      "Business details",
+      "Quotation of machinery",
+      "Project Report"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Apply online through the Udyami Mitra portal (udyamimitra.in) or visit any commercial bank.",
+        "Step 2: Choose loan category (Shishu, Kishor, Tarun).",
+        "Step 3: Submit application with KYC documents and project report."
+      ]
+    },
+    "officialLink": "https://www.mudra.org.in",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Collateral-free loans up to ₹10 Lakhs",
+    "deadline": "Continuous",
+    "tags": [
+      "Business Loan",
+      "Micro Enterprises",
+      "Collateral Free"
+    ],
+    "applyLink": "https://www.mudra.org.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Apply online through the Udyami Mitra portal (udyamimitra.in) or visit any commercial bank.",
+        "Step 2: Choose loan category (Shishu, Kishor, Tarun).",
+        "Step 3: Submit application with KYC documents and project report."
+      ]
+    },
+    "amountLocale": {
+      "en": "Collateral-free loans up to ₹10 Lakhs"
+    },
+    "categoryType": [
+      "Business Loan",
+      "Micro Enterprises",
+      "Collateral Free"
+    ]
+  },
+  {
+    "id": "s21",
+    "title": {
+      "en": "Support to Training and Employment Programme for Women (STEP)",
+      "hi": "महिलाओं के लिए प्रशिक्षण और रोजगार सहायता कार्यक्रम (STEP)"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "Under the Ministry of Women and Child Development, it aims to provide skill training and employment linkages to poor and asset-less women in traditional sectors like agriculture, dairying, and handlooms."
+    },
+    "benefits": {
+      "en": "Free vocational skill training, access to credit, support services (child care and healthcare), and forward/backward integration."
+    },
+    "eligibility": {
+      "minAge": 16,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "Poor/Asset-less"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Address proof",
+      "Bank details"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Locate an NGO or cooperative implementing STEP projects in your area.",
+        "Step 2: Submit admission form at the training agency.",
+        "Step 3: Complete the training and receive certificate/employment assistance."
+      ]
+    },
+    "officialLink": "https://wcd.delhi.gov.in/scert/support-training-employment-women",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free Skill Training + Support Services",
+    "deadline": "Continuous",
+    "tags": [
+      "Rural Women",
+      "Vocational Training",
+      "Self Employment"
+    ],
+    "applyLink": "https://wcd.delhi.gov.in/scert/support-training-employment-women",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Locate an NGO or cooperative implementing STEP projects in your area.",
+        "Step 2: Submit admission form at the training agency.",
+        "Step 3: Complete the training and receive certificate/employment assistance."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free Skill Training + Support Services"
+    },
+    "categoryType": [
+      "Rural Women",
+      "Vocational Training",
+      "Self Employment"
+    ]
+  },
+  {
+    "id": "s22",
+    "title": {
+      "en": "Cultural Talent Search Scholarship Scheme",
+      "hi": "सांस्कृतिक प्रतिभा खोज छात्रवृत्ति योजना"
+    },
+    "category": "Education",
+    "description": {
+      "en": "Managed by the Centre for Cultural Resources and Training (CCRT) to identify and support young talented children in artistic fields (music, dance, drama, etc.) by providing specialized training and funding."
+    },
+    "benefits": {
+      "en": "Scholarship amount of ₹3,600 per year, and reimbursement of tuition fee up to ₹9,000 per year for specialized training."
+    },
+    "eligibility": {
+      "minAge": 10,
+      "maxAge": 14,
+      "state": "all",
+      "country": "India",
+      "category": "Education",
+      "gender": "female",
+      "incomeLimit": "₹96,000/annum"
+    },
+    "documentsRequired": [
+      "Study Certificate",
+      "Income Certificate",
+      "Identity Proof",
+      "Caste Certificate (if applicable)",
+      "Bank Mandate Form"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register on the National Scholarships Portal (NSP) or CCRT portal.",
+        "Step 2: Fill out the application and submit portfolio/receipt of training.",
+        "Step 3: Selection is done via screening and audition/interview."
+      ]
+    },
+    "officialLink": "https://www.shiksha.com/arts-fine-visual-performing/articles/cultural-talent-search-scholarship-blogId-145251",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "₹3,600/- per year + tuition refund",
+    "deadline": "Annually",
+    "tags": [
+      "Student",
+      "Scholarship",
+      "Arts",
+      "Culture"
+    ],
+    "applyLink": "https://www.shiksha.com/arts-fine-visual-performing/articles/cultural-talent-search-scholarship-blogId-145251",
+    "lastDate": "2026-11-30",
+    "howToApply": {
+      "en": [
+        "Step 1: Register on the National Scholarships Portal (NSP) or CCRT portal.",
+        "Step 2: Fill out the application and submit portfolio/receipt of training.",
+        "Step 3: Selection is done via screening and audition/interview."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹3,600/- per year + tuition refund"
+    },
+    "categoryType": [
+      "Student",
+      "Scholarship",
+      "Arts",
+      "Culture"
+    ]
+  },
+  {
+    "id": "s23",
+    "title": {
+      "en": "Prime Minister Employment Generation Programme (PMEGP)",
+      "hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम"
+    },
+    "category": "Business",
+    "description": {
+      "en": "A credit-linked subsidy programme by Ministry of MSME to generate self-employment opportunities through setting up new micro-enterprises in non-farm sectors."
+    },
+    "benefits": {
+      "en": "Bank loan with government margin money subsidy ranging from 15% to 35% (up to 35% margin money subsidy for special categories like women, SC/ST, rural areas). Project cost up to ₹50 Lakhs for manufacturing."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Project Report (DPR)",
+      "Educational Certificate (VIII Pass minimum for >10 Lakh project)",
+      "Rural Area Certificate (if applicable)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the PMEGP e-Portal run by KVIC.",
+        "Step 2: Fill online application and upload project report.",
+        "Step 3: Application is forwarded to bank for loan sanctioning and KVIC for subsidy."
+      ]
+    },
+    "officialLink": "https://www.jansamarth.in/prime-minister-employment-generation-program-scheme",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Up to 35% subsidy on ₹50 Lakh project",
+    "deadline": "Continuous",
+    "tags": [
+      "Business Loan",
+      "Subsidy",
+      "Self Employment"
+    ],
+    "applyLink": "https://www.jansamarth.in/prime-minister-employment-generation-program-scheme",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the PMEGP e-Portal run by KVIC.",
+        "Step 2: Fill online application and upload project report.",
+        "Step 3: Application is forwarded to bank for loan sanctioning and KVIC for subsidy."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to 35% subsidy on ₹50 Lakh project"
+    },
+    "categoryType": [
+      "Business Loan",
+      "Subsidy",
+      "Self Employment"
+    ]
+  },
+  {
+    "id": "s24",
+    "title": {
+      "en": "Startup India Seed Fund Scheme",
+      "hi": "स्टार्टअप इंडिया सीड फंड योजना"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Provides financial assistance to startups for Proof of Concept, prototype development, product trials, market entry, and commercialization."
+    },
+    "benefits": {
+      "en": "Grants up to ₹20 Lakhs for proof of concept, and up to ₹50 Lakhs seed funding through debt or convertible debentures."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "DPIIT startup recognition certificate",
+      "Pitch deck",
+      "Project report",
+      "Audited statements"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Go to seedfund.startupindia.gov.in.",
+        "Step 2: Submit details of your recognized startup and upload pitch deck.",
+        "Step 3: Select preferred incubators for evaluation and funding approval."
+      ]
+    },
+    "officialLink": "https://seedfund.startupindia.gov.in",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Up to ₹50 Lakhs seed funding",
+    "deadline": "Continuous",
+    "tags": [
+      "Startups",
+      "Grants",
+      "Funding",
+      "Innovation"
+    ],
+    "applyLink": "https://seedfund.startupindia.gov.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Go to seedfund.startupindia.gov.in.",
+        "Step 2: Submit details of your recognized startup and upload pitch deck.",
+        "Step 3: Select preferred incubators for evaluation and funding approval."
+      ]
+    },
+    "amountLocale": {
+      "en": "Up to ₹50 Lakhs seed funding"
+    },
+    "categoryType": [
+      "Startups",
+      "Grants",
+      "Funding",
+      "Innovation"
+    ]
+  },
+  {
+    "id": "s25",
+    "title": {
+      "en": "Indira Gandhi National Widow Pension Scheme (IGNWPS)",
+      "hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "Centrally sponsored scheme by Ministry of Rural Development to provide pension security to widows from BPL families."
+    },
+    "benefits": {
+      "en": "Monthly pension of ₹300/- per month for widows aged 40 to 79. The amount increases to ₹500/- per month from age 80 onwards."
+    },
+    "eligibility": {
+      "minAge": 40,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "Below Poverty Line (BPL)"
+    },
+    "documentsRequired": [
+      "Death Certificate of husband",
+      "BPL Card",
+      "Age Proof",
+      "Identity Proof",
+      "Bank details"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit web.umang.gov.in/web_new/home or open UMANG App.",
+        "Step 2: Search for NSAP and click 'Apply Online'.",
+        "Step 3: Enter details, upload photo and submit."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/ignwps",
+    "ageGroup": "senior_citizen",
+    "state": "all",
+    "amount": "₹300 - ₹500/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Widow Support"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/ignwps",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit web.umang.gov.in/web_new/home or open UMANG App.",
+        "Step 2: Search for NSAP and click 'Apply Online'.",
+        "Step 3: Enter details, upload photo and submit."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹300 - ₹500/- per month"
+    },
+    "categoryType": [
+      "Pension",
+      "Widow Support"
+    ]
+  },
+  {
+    "id": "s26",
+    "title": {
+      "en": "Widow/Abandoned/Single Woman Pension (HP)",
+      "hi": "विधवा/परित्यक्ता/एकल महिला पेंशन (HP)"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "Implemented by Government of Himachal Pradesh to provide livelihood pension and economic support to poor widows, abandoned women, and unmarried women."
+    },
+    "benefits": {
+      "en": "Monthly pension of ₹1,150/- disbursed directly to the bank account."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "Himachal Pradesh",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "₹35,000/annum"
+    },
+    "documentsRequired": [
+      "Recommendation from Gram Panchayat",
+      "Copy of Parivar Register",
+      "Aadhaar Card",
+      "Bank details",
+      "Income Certificate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Obtain application form from Gram Panchayat or block development office.",
+        "Step 2: Fill out form and attach required certificates.",
+        "Step 3: Submit completed form to Block Development Office."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/wdenp",
+    "ageGroup": "working_woman",
+    "state": "Himachal Pradesh",
+    "amount": "₹1,150/- per month",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Livelihood Support"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/wdenp",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Obtain application form from Gram Panchayat or block development office.",
+        "Step 2: Fill out form and attach required certificates.",
+        "Step 3: Submit completed form to Block Development Office."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹1,150/- per month"
+    },
+    "categoryType": [
+      "Pension",
+      "Livelihood Support"
+    ]
+  },
+  {
+    "id": "s27",
+    "title": {
+      "en": "Financial Assistance to Poor Widows (Manipur)",
+      "hi": "मणिपुर गरीब विधवा वित्तीय सहायता योजना"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "A scheme by Department of Social Welfare, Manipur, providing social security to widows in the age group of 18-40 years who are not covered under IGNWPS."
+    },
+    "benefits": {
+      "en": "Financial assistance at the rate of ₹2,000/- per annum per widow, subject to fund availability."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 40,
+      "state": "Manipur",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "Below Poverty Line (BPL)"
+    },
+    "documentsRequired": [
+      "Domicile Certificate of Manipur",
+      "Bank details",
+      "Aadhaar Card",
+      "Death Certificate of Husband",
+      "BPL Card"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Download application form from socialwelfare.nic.in or collect from CDPO/DSWO.",
+        "Step 2: Fill details and attach self-attested documents.",
+        "Step 3: Submit the form to the District Social Welfare Officer concerned."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/fapnw",
+    "ageGroup": "working_woman",
+    "state": "Manipur",
+    "amount": "₹2,000/- per year",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Livelihood Support"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/fapnw",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Download application form from socialwelfare.nic.in or collect from CDPO/DSWO.",
+        "Step 2: Fill details and attach self-attested documents.",
+        "Step 3: Submit the form to the District Social Welfare Officer concerned."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹2,000/- per year"
+    },
+    "categoryType": [
+      "Pension",
+      "Livelihood Support"
+    ]
+  },
+  {
+    "id": "s28",
+    "title": {
+      "en": "NCW Women Helpline",
+      "hi": "NCW महिला हेल्पलाइन"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Digital Complaint Registration and referral system for women affected by violence or in distress across India, run from the premises of the National Commission for Women, New Delhi."
+    },
+    "benefits": {
+      "en": "24/7 telephonic/digital counselling, psychological support, and referrals to police, hospitals, and crisis centers."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "None (Digital or Telephonic Walk-in)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Go to ncwwomenhelpline.ncw.gov.in or dial the short-code 181.",
+        "Step 2: Describe the distress issue and provide contact/location details.",
+        "Step 3: Counsellors arrange police or medical assistance instantly."
+      ]
+    },
+    "officialLink": "https://ncwwomenhelpline.ncw.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Free 24/7 Helpline Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Helpline",
+      "Safety",
+      "Support"
+    ],
+    "applyLink": "https://ncwwomenhelpline.ncw.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Go to ncwwomenhelpline.ncw.gov.in or dial the short-code 181.",
+        "Step 2: Describe the distress issue and provide contact/location details.",
+        "Step 3: Counsellors arrange police or medical assistance instantly."
+      ]
+    },
+    "amountLocale": {
+      "en": "Free 24/7 Helpline Support"
+    },
+    "categoryType": [
+      "Helpline",
+      "Safety",
+      "Support"
+    ]
+  },
+  {
+    "id": "s29",
+    "title": {
+      "en": "Relief and Rehabilitation of Acid Victims (Haryana)",
+      "hi": "हरियाणा एसिड हमला पीड़िता राहत योजना"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Launched by WCD Department, Government of Haryana, to provide financial and medical assistance to girl/women acid attack victims."
+    },
+    "benefits": {
+      "en": "100% free medical treatment at approved hospitals. Ad-hoc relief of ₹1,00,000/- (₹25,000 immediately, ₹75,000 within 15 days)."
+    },
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "state": "Haryana",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Identity proof",
+      "Parivar Pehchaan Patra Number",
+      "Medical Certificate",
+      "Copy of FIR",
+      "Court Order (if any)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit official Antyodaya-SARAL Portal.",
+        "Step 2: Log in using your registered credentials.",
+        "Step 3: Search for 'Relief and Rehabilitation of Women Acid Victims' in services list.",
+        "Step 4: Fill form details, upload documents, and submit."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/srrwav",
+    "ageGroup": "girl_child",
+    "state": "Haryana",
+    "amount": "₹1,00,000/- + Free Medical Care",
+    "deadline": "30 days from incident",
+    "tags": [
+      "Medical Assistance",
+      "Welfare"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/srrwav",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit official Antyodaya-SARAL Portal.",
+        "Step 2: Log in using your registered credentials.",
+        "Step 3: Search for 'Relief and Rehabilitation of Women Acid Victims' in services list.",
+        "Step 4: Fill form details, upload documents, and submit."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹1,00,000/- + Free Medical Care"
+    },
+    "categoryType": [
+      "Medical Assistance",
+      "Welfare"
+    ]
+  },
+  {
+    "id": "s30",
+    "title": {
+      "en": "Financial Assistance to Acid Victims (Pension - Haryana)",
+      "hi": "हरियाणा एसिड हमला पीड़िता पेंशन योजना"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Social security pension scheme by Social Justice & Empowerment Department, Govt. of Haryana, providing a monthly pension based on disability percentage."
+    },
+    "benefits": {
+      "en": "Monthly pension based on disability percentage: 2.5 times Divyang Pension (40-50% disability); 3.5 times (51-60% disability); 4.5 times (>61% disability)."
+    },
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "state": "Haryana",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Medical certificate from Medical Board",
+      "Copy of FIR/Complaint",
+      "Copy of application made to WCD"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit Office of the District Social Welfare Officer (DSWO).",
+        "Step 2: Fill out application form and attach self-attested documents.",
+        "Step 3: Submit to DSWO and receive acknowledgment receipt."
+      ]
+    },
+    "officialLink": "https://www.myscheme.gov.in/schemes/fawgav",
+    "ageGroup": "girl_child",
+    "state": "Haryana",
+    "amount": "Monthly Pension based on disability",
+    "deadline": "Continuous",
+    "tags": [
+      "Pension",
+      "Welfare"
+    ],
+    "applyLink": "https://www.myscheme.gov.in/schemes/fawgav",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit Office of the District Social Welfare Officer (DSWO).",
+        "Step 2: Fill out application form and attach self-attested documents.",
+        "Step 3: Submit to DSWO and receive acknowledgment receipt."
+      ]
+    },
+    "amountLocale": {
+      "en": "Monthly Pension based on disability"
+    },
+    "categoryType": [
+      "Pension",
+      "Welfare"
+    ]
+  },
+  {
+    "id": "s31",
+    "title": {
+      "en": "Mission Shakti",
+      "hi": "मिशन शक्ति"
+    },
+    "category": "Health",
+    "description": {
+      "en": "An integrated women empowerment umbrella scheme by Ministry of WCD containing Sambal (safety) and Samarthya (empowerment) verticals, covering One Stop Centres, WHL, and PMMVY."
+    },
+    "benefits": {
+      "en": "Welfare services, emergency helpline response, legal/medical aid, and maternity cash incentives up to ₹6,000."
+    },
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar card",
+      "MCP card (for maternal benefits)",
+      "Proof of address"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Contact national helpline 181 or visit nearest One Stop Centre.",
+        "Step 2: Submit details of requirement/maternity case.",
+        "Step 3: Access shelter, clinical aid, or DBT cash benefits directly."
+      ]
+    },
+    "officialLink": "https://missionshakti.wcd.gov.in/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Welfare, Safety & Financial Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Welfare",
+      "Safety",
+      "Maternity",
+      "Support"
+    ],
+    "applyLink": "https://missionshakti.wcd.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Contact national helpline 181 or visit nearest One Stop Centre.",
+        "Step 2: Submit details of requirement/maternity case.",
+        "Step 3: Access shelter, clinical aid, or DBT cash benefits directly."
+      ]
+    },
+    "amountLocale": {
+      "en": "Welfare, Safety & Financial Support"
+    },
+    "categoryType": [
+      "Welfare",
+      "Safety",
+      "Maternity",
+      "Support"
+    ]
+  },
+  {
+    "id": "s32",
+    "title": {
+      "en": "Working Women Hostel Scheme",
+      "hi": "कार्यरत महिला छात्रावास योजना"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "Provides safe, secure, and conveniently located hostel accommodation for working women, along with daycare facilities for their children where possible."
+    },
+    "benefits": {
+      "en": "Affordable rent (capped at 15% of salary for single room), stay up to 3-5 years, and daycare center access for children."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "₹6 Lakhs/annum"
+    },
+    "documentsRequired": [
+      "Salary Certificate",
+      "Identity Proof",
+      "Employment Certificate / Sponsor Letter",
+      "Passport size photograph"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Locate an approved Working Women Hostel in your city.",
+        "Step 2: Submit admission application form to the hostel manager.",
+        "Step 3: Provide employment certificate and salary certificate for rent calculations."
+      ]
+    },
+    "officialLink": "https://wcdhry.gov.in/schemes-for-women/working-women-hostel/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Affordable Housing",
+    "deadline": "Continuous",
+    "tags": [
+      "Housing",
+      "Working Women"
+    ],
+    "applyLink": "https://wcdhry.gov.in/schemes-for-women/working-women-hostel/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Locate an approved Working Women Hostel in your city.",
+        "Step 2: Submit admission application form to the hostel manager.",
+        "Step 3: Provide employment certificate and salary certificate for rent calculations."
+      ]
+    },
+    "amountLocale": {
+      "en": "Affordable Housing"
+    },
+    "categoryType": [
+      "Housing",
+      "Working Women"
+    ]
+  },
+  {
+    "id": "s33",
+    "title": {
+      "en": "Shakti se Sashaktikaran",
+      "hi": "शक्ति से सशक्तिकरण"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "Livelihood and sports support initiative for women athletes and coaches in India, providing financial impetus and grassroot sports leagues."
+    },
+    "benefits": {
+      "en": "Financial support, specialized coaching, training resources, and sports equipment support for elite women athletes."
+    },
+    "eligibility": {
+      "minAge": 10,
+      "maxAge": 50,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Sports certificate",
+      "Aadhaar Card",
+      "Bank account"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the portal of Ministry of Youth Affairs and Sports.",
+        "Step 2: Submit details of your sports accomplishments and achievements.",
+        "Step 3: Apply for training support or elite athlete allowance."
+      ]
+    },
+    "officialLink": "https://missionshakti.wcd.gov.in/",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "Training & Livelihood Support",
+    "deadline": "Continuous",
+    "tags": [
+      "Sports",
+      "Athletes",
+      "Training"
+    ],
+    "applyLink": "https://missionshakti.wcd.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the portal of Ministry of Youth Affairs and Sports.",
+        "Step 2: Submit details of your sports accomplishments and achievements.",
+        "Step 3: Apply for training support or elite athlete allowance."
+      ]
+    },
+    "amountLocale": {
+      "en": "Training & Livelihood Support"
+    },
+    "categoryType": [
+      "Sports",
+      "Athletes",
+      "Training"
+    ]
+  },
+  {
+    "id": "s34",
+    "title": {
+      "en": "National Sports Development Scheme (Khelo India)",
+      "hi": "खेलो इंडिया राष्ट्रीय खेल विकास कार्यक्रम"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "A national programme to promote sports culture, establish KISCE training centers, and identify young talent to provide scholarships."
+    },
+    "benefits": {
+      "en": "Scholarship and funding of ₹6.28 Lakh per annum per athlete (including ₹10,000/month out-of-pocket allowance) and training in accredited academies."
+    },
+    "eligibility": {
+      "minAge": 5,
+      "maxAge": 25,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Age proof",
+      "Sports achievement certificates",
+      "School study certificate",
+      "Passport photo"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register on the Khelo India Portal.",
+        "Step 2: Upload sports achievements and create profile.",
+        "Step 3: Shortlisted athletes undergo fitness and talent search trials."
+      ]
+    },
+    "officialLink": "https://www.pib.gov.in",
+    "ageGroup": "student",
+    "state": "all",
+    "amount": "₹6.28 Lakhs/annum per athlete",
+    "deadline": "Continuous",
+    "tags": [
+      "Sports",
+      "Scholarship",
+      "Training"
+    ],
+    "applyLink": "https://www.pib.gov.in",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register on the Khelo India Portal.",
+        "Step 2: Upload sports achievements and create profile.",
+        "Step 3: Shortlisted athletes undergo fitness and talent search trials."
+      ]
+    },
+    "amountLocale": {
+      "en": "₹6.28 Lakhs/annum per athlete"
+    },
+    "categoryType": [
+      "Sports",
+      "Scholarship",
+      "Training"
+    ]
+  },
+  {
+    "id": "s35",
+    "title": {
+      "en": "ASMITA Leagues",
+      "hi": "अस्मिता खेल लीग"
+    },
+    "category": "Skill Development",
+    "description": {
+      "en": "Achieving Sports Milestone by Inspiring Women Through Action (ASMITA) Leagues promotes sports participation and competitive exposure among Indian women athletes."
+    },
+    "benefits": {
+      "en": "Access to national women's sports leagues, specialized training, and business loan support via SBI Asmita."
+    },
+    "eligibility": {
+      "minAge": 10,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Skill Development",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Sports achievement details / Business registration documents",
+      "Aadhaar Card"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Visit the official MyGov campaign link or Stand-Up India/SBI portal.",
+        "Step 2: Fill application form and upload sports credentials.",
+        "Step 3: Apply for financial or coaching support."
+      ]
+    },
+    "officialLink": "https://www.mygov.in/campaigns/asmita-khelo-india-women-league",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Sports Funding & Low-Interest Loans",
+    "deadline": "Continuous",
+    "tags": [
+      "Sports",
+      "Athletes",
+      "Business Loan"
+    ],
+    "applyLink": "https://www.mygov.in/campaigns/asmita-khelo-india-women-league",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Visit the official MyGov campaign link or Stand-Up India/SBI portal.",
+        "Step 2: Fill application form and upload sports credentials.",
+        "Step 3: Apply for financial or coaching support."
+      ]
+    },
+    "amountLocale": {
+      "en": "Sports Funding & Low-Interest Loans"
+    },
+    "categoryType": [
+      "Sports",
+      "Athletes",
+      "Business Loan"
+    ]
+  },
+  {
+    "id": "s36",
+    "title": {
+      "en": "DAY-NRLM (Livelihoods Mission)",
+      "hi": "दीनदयाल अंत्योदय योजना - एनआरएलएम"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Organizes rural poor women into Self Help Groups (SHGs) and provides revolving and capitalization funds to access financial services and sustainable livelihoods."
+    },
+    "benefits": {
+      "en": "Capacity building, revolving funds (up to ₹30,000), Community Investment Funds (up to ₹2.5 Lakh), bank linkage, and interest subventions."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "Poor Household"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "Proof of Identity",
+      "Ration Card",
+      "Passport size photo"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register on the Aajeevika NRLM portal.",
+        "Step 2: Create a Self Help Group profile with bank account details.",
+        "Step 3: Access revolving funds and capitalization support directly."
+      ]
+    },
+    "officialLink": "https://nrlm.gov.in/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Revolving & Capitalization Funds",
+    "deadline": "Continuous",
+    "tags": [
+      "SHGs",
+      "Rural Livelihoods",
+      "Welfare"
+    ],
+    "applyLink": "https://nrlm.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register on the Aajeevika NRLM portal.",
+        "Step 2: Create a Self Help Group profile with bank account details.",
+        "Step 3: Access revolving funds and capitalization support directly."
+      ]
+    },
+    "amountLocale": {
+      "en": "Revolving & Capitalization Funds"
+    },
+    "categoryType": [
+      "SHGs",
+      "Rural Livelihoods",
+      "Welfare"
+    ]
+  },
+  {
+    "id": "s37",
+    "title": {
+      "en": "Self Help Groups (SHGs)",
+      "hi": "स्वयं सहायता समूह (SHG)"
+    },
+    "category": "Business",
+    "description": {
+      "en": "Small informal groups of 10 to 20 poor women who save regularly and lend internally to meet emergency needs, supported by NABARD."
+    },
+    "benefits": {
+      "en": "Access to bank accounts, interest-earning savings, internal credit, and leadership capacity building."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Savings books",
+      "Minutes book",
+      "Account opening details"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Contact local animator or NGO to form a group of 10-20 women.",
+        "Step 2: Set up savings accounts at the nearest commercial or cooperative bank.",
+        "Step 3: Begin regular savings and meetings."
+      ]
+    },
+    "officialLink": "https://en.vikaspedia.in/viewcontent/social-welfare/rural-poverty-alleviation-1/self-help-groups/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Savings and Internal Lending",
+    "deadline": "Continuous",
+    "tags": [
+      "Savings",
+      "Micro Finance",
+      "Women Upliftment"
+    ],
+    "applyLink": "https://en.vikaspedia.in/viewcontent/social-welfare/rural-poverty-alleviation-1/self-help-groups/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Contact local animator or NGO to form a group of 10-20 women.",
+        "Step 2: Set up savings accounts at the nearest commercial or cooperative bank.",
+        "Step 3: Begin regular savings and meetings."
+      ]
+    },
+    "amountLocale": {
+      "en": "Savings and Internal Lending"
+    },
+    "categoryType": [
+      "Savings",
+      "Micro Finance",
+      "Women Upliftment"
+    ]
+  },
+  {
+    "id": "s38",
+    "title": {
+      "en": "Mahila Kisan Sashaktikaran Pariyojana (MKSP)",
+      "hi": "महिला किसान सशक्तिकरण परियोजना"
+    },
+    "category": "Employment",
+    "description": {
+      "en": "A sub-component of DAY-NRLM to empower women in agriculture by making systematic investments to enhance their participation and sustainable livelihoods."
+    },
+    "benefits": {
+      "en": "Skill training in sustainable agriculture, distribution of gender-friendly tools, capacity building, and market linkages."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Employment",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "SHG membership details",
+      "Proof of agricultural work",
+      "Aadhaar Card"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Register through your local SHG federation.",
+        "Step 2: Submit details of your agricultural activities.",
+        "Step 3: Access training and tools distribution programs."
+      ]
+    },
+    "officialLink": "https://mksp.nrlm.gov.in/portal/",
+    "ageGroup": "working_woman",
+    "state": "all",
+    "amount": "Training & Livelihood Grants",
+    "deadline": "Continuous",
+    "tags": [
+      "Agriculture",
+      "Rural Women",
+      "Training",
+      "Livelihood"
+    ],
+    "applyLink": "https://mksp.nrlm.gov.in/portal/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Register through your local SHG federation.",
+        "Step 2: Submit details of your agricultural activities.",
+        "Step 3: Access training and tools distribution programs."
+      ]
+    },
+    "amountLocale": {
+      "en": "Training & Livelihood Grants"
+    },
+    "categoryType": [
+      "Agriculture",
+      "Rural Women",
+      "Training",
+      "Livelihood"
+    ]
+  },
+  {
+    "id": "s39",
+    "title": {
+      "en": "Asmita: Menstrual Hygiene Scheme (Maharashtra)",
+      "hi": "अस्मिता योजना (महाराष्ट्र)"
+    },
+    "category": "Health",
+    "description": {
+      "en": "Promotes menstrual hygiene among rural girls and women in Maharashtra by providing subsidized sanitary napkins through Self Help Groups."
+    },
+    "benefits": {
+      "en": "Subsidized sanitary napkins distributed to school-going girls (₹5 pack) and rural women (subsidized cost), and hygiene awareness."
+    },
+    "eligibility": {
+      "minAge": 11,
+      "maxAge": 50,
+      "state": "Maharashtra",
+      "country": "India",
+      "category": "Health",
+      "gender": "female",
+      "incomeLimit": "None"
+    },
+    "documentsRequired": [
+      "Aadhaar Card",
+      "School Student ID (for girls)"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: SHGs register on the Asmita portal.",
+        "Step 2: Girls/women can buy subsidized packs from local SHGs or Anganwadis."
+      ]
+    },
+    "officialLink": "https://regasmita.mahaonline.gov.in/",
+    "ageGroup": "student",
+    "state": "Maharashtra",
+    "amount": "Subsidized Sanitary Napkins",
+    "deadline": "Continuous",
+    "tags": [
+      "Hygiene",
+      "Health Awareness",
+      "Rural Women"
+    ],
+    "applyLink": "https://regasmita.mahaonline.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: SHGs register on the Asmita portal.",
+        "Step 2: Girls/women can buy subsidized packs from local SHGs or Anganwadis."
+      ]
+    },
+    "amountLocale": {
+      "en": "Subsidized Sanitary Napkins"
+    },
+    "categoryType": [
+      "Hygiene",
+      "Health Awareness",
+      "Rural Women"
+    ]
+  },
+  {
+    "id": "s40",
+    "title": {
+      "en": "Lakhpati Didi Yojana",
+      "hi": "लखपति दीदी योजना"
+    },
+    "category": "Business",
+    "description": {
+      "en": "An initiative under DAY-NRLM to enable women in Self Help Groups (SHGs) to earn a sustainable annual household income above ₹1 Lakh through micro-enterprise support."
+    },
+    "benefits": {
+      "en": "Capitalization support up to ₹20 Lakh per SHG, revolving funds, CIF support, low-interest bank loans, and marketing facilities (Saras centers)."
+    },
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65,
+      "state": "all",
+      "country": "India",
+      "category": "Business",
+      "gender": "female",
+      "incomeLimit": "₹1 Lakh/annum"
+    },
+    "documentsRequired": [
+      "SHG passbook",
+      "CIF details",
+      "Aadhaar Card",
+      "Income certificate"
+    ],
+    "applicationProcess": {
+      "en": [
+        "Step 1: Join a local Self Help Group associated with NRLM.",
+        "Step 2: Engage in income-generating activities and apply at block level.",
+        "Step 3: Obtain marketing or micro-loan capitalization support."
+      ]
+    },
+    "officialLink": "https://lakhpatididi.gov.in/",
+    "ageGroup": "entrepreneur",
+    "state": "all",
+    "amount": "Capitalization & Livelihood support",
+    "deadline": "Continuous",
+    "tags": [
+      "Entrepreneur",
+      "Livelihood Support",
+      "SHGs"
+    ],
+    "applyLink": "https://lakhpatididi.gov.in/",
+    "lastDate": "2026-12-31",
+    "howToApply": {
+      "en": [
+        "Step 1: Join a local Self Help Group associated with NRLM.",
+        "Step 2: Engage in income-generating activities and apply at block level.",
+        "Step 3: Obtain marketing or micro-loan capitalization support."
+      ]
+    },
+    "amountLocale": {
+      "en": "Capitalization & Livelihood support"
+    },
+    "categoryType": [
+      "Entrepreneur",
+      "Livelihood Support",
+      "SHGs"
+    ]
+  }
+]
