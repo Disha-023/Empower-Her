@@ -96,5 +96,5 @@ mongoose.connection.once('open', async () => {
 
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
-    console.log('Running locally with JSON file storage (No MongoDB required).');
+    console.log('Connected to Mongo DB.');
 });
